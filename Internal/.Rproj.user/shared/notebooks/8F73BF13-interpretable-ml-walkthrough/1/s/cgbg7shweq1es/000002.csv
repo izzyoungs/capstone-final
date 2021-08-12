@@ -1,0 +1,13 @@
+"0","```r
+# AUC on the Training data 
+prob_pred <- predict(mod_rf_selected,type=\"prob\")$Coverage
+auc_rf_sel <- Metrics::auc(train_data2$coverage==\"Coverage\",prob_pred)
+
+cat(\"AUC of the selected model:\",auc_rf_sel,\"\n\",
+    \"AUC of the full model:\",auc_rf,\"\n\",
+    \"Difference:\", auc_rf_sel-auc_rf,\"\n\") # Difference: a 4.2% increase in AUC
+```"
+"1","AUC of the selected model: 0.9201622 
+ AUC of the full model: 0.8838971 
+ Difference: 0.0362651 
+"

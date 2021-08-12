@@ -1,0 +1,7 @@
+library(tidyverse)
+library(impute)
+library(naniar)
+
+evictions <- read_csv("Data/health_ruca_ers_affh_evictions.csv")
+
+evictions %>% glimpse

@@ -1,0 +1,3145 @@
+state_abb,county,fips_char,geoid,county_fips,state,state_fips,d_homerule,year
+ak,aleutians east borough,2013,2013,13,alaska,2,0,2015
+ak,aleutians west census area,2016,2016,16,alaska,2,0,2015
+ak,anchorage municipality,2020,2020,20,alaska,2,1,2015
+ak,bethel census area,2050,2050,50,alaska,2,0,2015
+ak,bristol bay borough,2060,2060,60,alaska,2,0,2015
+ak,denali borough,2068,2068,68,alaska,2,1,2015
+ak,dillingham census area,2070,2070,70,alaska,2,0,2015
+ak,fairbanks north star borough,2090,2090,90,alaska,2,0,2015
+ak,haines borough,2100,2100,100,alaska,2,1,2015
+ak,hoonah-angoon census area,2105,2105,105,alaska,2,0,2015
+ak,juneau city and borough,2110,2110,110,alaska,2,1,2015
+ak,kenai peninsula borough,2122,2122,122,alaska,2,0,2015
+ak,ketchikan gateway borough,2130,2130,130,alaska,2,0,2015
+ak,kodiak island borough,2150,2150,150,alaska,2,0,2015
+ak,lake and peninsula borough,2164,2164,164,alaska,2,1,2015
+ak,matanuska-susitna borough,2170,2170,170,alaska,2,0,2015
+ak,nome census area,2180,2180,180,alaska,2,0,2015
+ak,north slope borough,2185,2185,185,alaska,2,1,2015
+ak,northwest arctic borough,2188,2188,188,alaska,2,1,2015
+ak,petersburg borough,2195,2195,195,alaska,2,0,2015
+ak,prince of wales-hyder census area,2198,2198,198,alaska,2,0,2015
+ak,sitka city and borough,2220,2220,220,alaska,2,1,2015
+ak,skagway municipality,2230,2230,230,alaska,2,0,2015
+ak,southeast fairbanks census area,2240,2240,240,alaska,2,0,2015
+ak,valdez-cordova census area,2261,2261,261,alaska,2,0,2015
+ak,wade hampton census area,2270,2270,270,alaska,2,0,2015
+ak,wrangell city and borough,2275,2275,275,alaska,2,1,2015
+ak,yakutat city and borough,2282,2282,282,alaska,2,1,2015
+ak,yukon-koyukuk census area,2290,2290,290,alaska,2,0,2015
+al,autauga county,1001,1001,1,alabama,1,0,2015
+al,baldwin county,1003,1003,3,alabama,1,0,2015
+al,barbour county,1005,1005,5,alabama,1,0,2015
+al,bibb county,1007,1007,7,alabama,1,0,2015
+al,blount county,1009,1009,9,alabama,1,0,2015
+al,bullock county,1011,1011,11,alabama,1,0,2015
+al,butler county,1013,1013,13,alabama,1,0,2015
+al,calhoun county,1015,1015,15,alabama,1,0,2015
+al,chambers county,1017,1017,17,alabama,1,0,2015
+al,cherokee county,1019,1019,19,alabama,1,0,2015
+al,chilton county,1021,1021,21,alabama,1,0,2015
+al,choctaw county,1023,1023,23,alabama,1,0,2015
+al,clarke county,1025,1025,25,alabama,1,0,2015
+al,clay county,1027,1027,27,alabama,1,0,2015
+al,cleburne county,1029,1029,29,alabama,1,0,2015
+al,coffee county,1031,1031,31,alabama,1,0,2015
+al,colbert county,1033,1033,33,alabama,1,0,2015
+al,conecuh county,1035,1035,35,alabama,1,0,2015
+al,coosa county,1037,1037,37,alabama,1,0,2015
+al,covington county,1039,1039,39,alabama,1,0,2015
+al,crenshaw county,1041,1041,41,alabama,1,0,2015
+al,cullman county,1043,1043,43,alabama,1,0,2015
+al,dale county,1045,1045,45,alabama,1,0,2015
+al,dallas county,1047,1047,47,alabama,1,0,2015
+al,dekalb county,1049,1049,49,alabama,1,0,2015
+al,elmore county,1051,1051,51,alabama,1,0,2015
+al,escambia county,1053,1053,53,alabama,1,0,2015
+al,etowah county,1055,1055,55,alabama,1,0,2015
+al,fayette county,1057,1057,57,alabama,1,0,2015
+al,franklin county,1059,1059,59,alabama,1,0,2015
+al,geneva county,1061,1061,61,alabama,1,0,2015
+al,greene county,1063,1063,63,alabama,1,0,2015
+al,hale county,1065,1065,65,alabama,1,0,2015
+al,henry county,1067,1067,67,alabama,1,0,2015
+al,houston county,1069,1069,69,alabama,1,0,2015
+al,jackson county,1071,1071,71,alabama,1,0,2015
+al,jefferson county,1073,1073,73,alabama,1,0,2015
+al,lamar county,1075,1075,75,alabama,1,0,2015
+al,lauderdale county,1077,1077,77,alabama,1,0,2015
+al,lawrence county,1079,1079,79,alabama,1,0,2015
+al,lee county,1081,1081,81,alabama,1,0,2015
+al,limestone county,1083,1083,83,alabama,1,0,2015
+al,lowndes county,1085,1085,85,alabama,1,0,2015
+al,macon county,1087,1087,87,alabama,1,0,2015
+al,madison county,1089,1089,89,alabama,1,0,2015
+al,marengo county,1091,1091,91,alabama,1,0,2015
+al,marion county,1093,1093,93,alabama,1,0,2015
+al,marshall county,1095,1095,95,alabama,1,0,2015
+al,mobile county,1097,1097,97,alabama,1,0,2015
+al,monroe county,1099,1099,99,alabama,1,0,2015
+al,montgomery county,1101,1101,101,alabama,1,0,2015
+al,morgan county,1103,1103,103,alabama,1,0,2015
+al,perry county,1105,1105,105,alabama,1,0,2015
+al,pickens county,1107,1107,107,alabama,1,0,2015
+al,pike county,1109,1109,109,alabama,1,0,2015
+al,randolph county,1111,1111,111,alabama,1,0,2015
+al,russell county,1113,1113,113,alabama,1,0,2015
+al,shelby county,1117,1117,117,alabama,1,0,2015
+al,st. clair county,1115,1115,115,alabama,1,0,2015
+al,sumter county,1119,1119,119,alabama,1,0,2015
+al,talladega county,1121,1121,121,alabama,1,0,2015
+al,tallapoosa county,1123,1123,123,alabama,1,0,2015
+al,tuscaloosa county,1125,1125,125,alabama,1,0,2015
+al,walker county,1127,1127,127,alabama,1,0,2015
+al,washington county,1129,1129,129,alabama,1,0,2015
+al,wilcox county,1131,1131,131,alabama,1,0,2015
+al,winston county,1133,1133,133,alabama,1,0,2015
+ar,arkansas county,5001,5001,1,arkansas,5,1,2015
+ar,ashley county,5003,5003,3,arkansas,5,1,2015
+ar,baxter county,5005,5005,5,arkansas,5,1,2015
+ar,benton county,5007,5007,7,arkansas,5,1,2015
+ar,boone county,5009,5009,9,arkansas,5,1,2015
+ar,bradley county,5011,5011,11,arkansas,5,1,2015
+ar,calhoun county,5013,5013,13,arkansas,5,1,2015
+ar,carroll county,5015,5015,15,arkansas,5,1,2015
+ar,chicot county,5017,5017,17,arkansas,5,1,2015
+ar,clark county,5019,5019,19,arkansas,5,1,2015
+ar,clay county,5021,5021,21,arkansas,5,1,2015
+ar,cleburne county,5023,5023,23,arkansas,5,1,2015
+ar,cleveland county,5025,5025,25,arkansas,5,1,2015
+ar,columbia county,5027,5027,27,arkansas,5,1,2015
+ar,conway county,5029,5029,29,arkansas,5,1,2015
+ar,craighead county,5031,5031,31,arkansas,5,1,2015
+ar,crawford county,5033,5033,33,arkansas,5,1,2015
+ar,crittenden county,5035,5035,35,arkansas,5,1,2015
+ar,cross county,5037,5037,37,arkansas,5,1,2015
+ar,dallas county,5039,5039,39,arkansas,5,1,2015
+ar,desha county,5041,5041,41,arkansas,5,1,2015
+ar,drew county,5043,5043,43,arkansas,5,1,2015
+ar,faulkner county,5045,5045,45,arkansas,5,1,2015
+ar,franklin county,5047,5047,47,arkansas,5,1,2015
+ar,fulton county,5049,5049,49,arkansas,5,1,2015
+ar,garland county,5051,5051,51,arkansas,5,1,2015
+ar,grant county,5053,5053,53,arkansas,5,1,2015
+ar,greene county,5055,5055,55,arkansas,5,1,2015
+ar,hempstead county,5057,5057,57,arkansas,5,1,2015
+ar,hot spring county,5059,5059,59,arkansas,5,1,2015
+ar,howard county,5061,5061,61,arkansas,5,1,2015
+ar,independence county,5063,5063,63,arkansas,5,1,2015
+ar,izard county,5065,5065,65,arkansas,5,1,2015
+ar,jackson county,5067,5067,67,arkansas,5,1,2015
+ar,jefferson county,5069,5069,69,arkansas,5,1,2015
+ar,johnson county,5071,5071,71,arkansas,5,1,2015
+ar,lafayette county,5073,5073,73,arkansas,5,1,2015
+ar,lawrence county,5075,5075,75,arkansas,5,1,2015
+ar,lee county,5077,5077,77,arkansas,5,1,2015
+ar,lincoln county,5079,5079,79,arkansas,5,1,2015
+ar,little river county,5081,5081,81,arkansas,5,1,2015
+ar,logan county,5083,5083,83,arkansas,5,1,2015
+ar,lonoke county,5085,5085,85,arkansas,5,1,2015
+ar,madison county,5087,5087,87,arkansas,5,1,2015
+ar,marion county,5089,5089,89,arkansas,5,1,2015
+ar,miller county,5091,5091,91,arkansas,5,1,2015
+ar,mississippi county,5093,5093,93,arkansas,5,1,2015
+ar,monroe county,5095,5095,95,arkansas,5,1,2015
+ar,montgomery county,5097,5097,97,arkansas,5,1,2015
+ar,nevada county,5099,5099,99,arkansas,5,1,2015
+ar,newton county,5101,5101,101,arkansas,5,1,2015
+ar,ouachita county,5103,5103,103,arkansas,5,1,2015
+ar,perry county,5105,5105,105,arkansas,5,1,2015
+ar,phillips county,5107,5107,107,arkansas,5,1,2015
+ar,pike county,5109,5109,109,arkansas,5,1,2015
+ar,poinsett county,5111,5111,111,arkansas,5,1,2015
+ar,polk county,5113,5113,113,arkansas,5,1,2015
+ar,pope county,5115,5115,115,arkansas,5,1,2015
+ar,prairie county,5117,5117,117,arkansas,5,1,2015
+ar,pulaski county,5119,5119,119,arkansas,5,1,2015
+ar,randolph county,5121,5121,121,arkansas,5,1,2015
+ar,saline county,5125,5125,125,arkansas,5,1,2015
+ar,scott county,5127,5127,127,arkansas,5,1,2015
+ar,searcy county,5129,5129,129,arkansas,5,1,2015
+ar,sebastian county,5131,5131,131,arkansas,5,1,2015
+ar,sevier county,5133,5133,133,arkansas,5,1,2015
+ar,sharp county,5135,5135,135,arkansas,5,1,2015
+ar,st. francis county,5123,5123,123,arkansas,5,1,2015
+ar,stone county,5137,5137,137,arkansas,5,1,2015
+ar,union county,5139,5139,139,arkansas,5,1,2015
+ar,van buren county,5141,5141,141,arkansas,5,1,2015
+ar,washington county,5143,5143,143,arkansas,5,1,2015
+ar,white county,5145,5145,145,arkansas,5,1,2015
+ar,woodruff county,5147,5147,147,arkansas,5,1,2015
+ar,yell county,5149,5149,149,arkansas,5,1,2015
+az,apache county,4001,4001,1,arizona,4,0,2015
+az,cochise county,4003,4003,3,arizona,4,0,2015
+az,coconino county,4005,4005,5,arizona,4,0,2015
+az,gila county,4007,4007,7,arizona,4,0,2015
+az,graham county,4009,4009,9,arizona,4,0,2015
+az,greenlee county,4011,4011,11,arizona,4,0,2015
+az,la paz county,4012,4012,12,arizona,4,0,2015
+az,maricopa county,4013,4013,13,arizona,4,0,2015
+az,mohave county,4015,4015,15,arizona,4,0,2015
+az,navajo county,4017,4017,17,arizona,4,0,2015
+az,pima county,4019,4019,19,arizona,4,0,2015
+az,pinal county,4021,4021,21,arizona,4,0,2015
+az,santa cruz county,4023,4023,23,arizona,4,0,2015
+az,yavapai county,4025,4025,25,arizona,4,0,2015
+az,yuma county,4027,4027,27,arizona,4,0,2015
+ca,alameda county,6001,6001,1,california,6,1,2015
+ca,alpine county,6003,6003,3,california,6,0,2015
+ca,amador county,6005,6005,5,california,6,0,2015
+ca,butte county,6007,6007,7,california,6,1,2015
+ca,calaveras county,6009,6009,9,california,6,0,2015
+ca,colusa county,6011,6011,11,california,6,0,2015
+ca,contra costa county,6013,6013,13,california,6,0,2015
+ca,del norte county,6015,6015,15,california,6,0,2015
+ca,el dorado county,6017,6017,17,california,6,1,2015
+ca,fresno county,6019,6019,19,california,6,1,2015
+ca,glenn county,6021,6021,21,california,6,0,2015
+ca,humboldt county,6023,6023,23,california,6,0,2015
+ca,imperial county,6025,6025,25,california,6,0,2015
+ca,inyo county,6027,6027,27,california,6,0,2015
+ca,kern county,6029,6029,29,california,6,0,2015
+ca,kings county,6031,6031,31,california,6,0,2015
+ca,lake county,6033,6033,33,california,6,0,2015
+ca,lassen county,6035,6035,35,california,6,0,2015
+ca,los angeles county,6037,6037,37,california,6,1,2015
+ca,madera county,6039,6039,39,california,6,0,2015
+ca,marin county,6041,6041,41,california,6,0,2015
+ca,mariposa county,6043,6043,43,california,6,0,2015
+ca,mendocino county,6045,6045,45,california,6,0,2015
+ca,merced county,6047,6047,47,california,6,0,2015
+ca,modoc county,6049,6049,49,california,6,0,2015
+ca,mono county,6051,6051,51,california,6,0,2015
+ca,monterey county,6053,6053,53,california,6,0,2015
+ca,napa county,6055,6055,55,california,6,0,2015
+ca,nevada county,6057,6057,57,california,6,0,2015
+ca,orange county,6059,6059,59,california,6,1,2015
+ca,placer county,6061,6061,61,california,6,1,2015
+ca,plumas county,6063,6063,63,california,6,0,2015
+ca,riverside county,6065,6065,65,california,6,0,2015
+ca,sacramento county,6067,6067,67,california,6,1,2015
+ca,san benito county,6069,6069,69,california,6,0,2015
+ca,san bernardino county,6071,6071,71,california,6,1,2015
+ca,san diego county,6073,6073,73,california,6,1,2015
+ca,san francisco city & county,NA,NA,NA,NA,NA,1,2015
+ca,san francisco county,6075,6075,75,california,6,0,2015
+ca,san joaquin county,6077,6077,77,california,6,0,2015
+ca,san luis obispo county,6079,6079,79,california,6,0,2015
+ca,san mateo county,6081,6081,81,california,6,1,2015
+ca,santa barbara county,6083,6083,83,california,6,0,2015
+ca,santa clara county,6085,6085,85,california,6,1,2015
+ca,santa cruz county,6087,6087,87,california,6,0,2015
+ca,shasta county,6089,6089,89,california,6,0,2015
+ca,sierra county,6091,6091,91,california,6,0,2015
+ca,siskiyou county,6093,6093,93,california,6,0,2015
+ca,solano county,6095,6095,95,california,6,0,2015
+ca,sonoma county,6097,6097,97,california,6,0,2015
+ca,stanislaus county,6099,6099,99,california,6,0,2015
+ca,sutter county,6101,6101,101,california,6,0,2015
+ca,tehama county,6103,6103,103,california,6,1,2015
+ca,trinity county,6105,6105,105,california,6,0,2015
+ca,tulare county,6107,6107,107,california,6,0,2015
+ca,tuolumne county,6109,6109,109,california,6,0,2015
+ca,ventura county,6111,6111,111,california,6,0,2015
+ca,yolo county,6113,6113,113,california,6,0,2015
+ca,yuba county,6115,6115,115,california,6,0,2015
+co,adams county,8001,8001,1,colorado,8,0,2015
+co,alamosa county,8003,8003,3,colorado,8,0,2015
+co,arapahoe county,8005,8005,5,colorado,8,0,2015
+co,archuleta county,8007,8007,7,colorado,8,0,2015
+co,baca county,8009,8009,9,colorado,8,0,2015
+co,bent county,8011,8011,11,colorado,8,0,2015
+co,boulder county,8013,8013,13,colorado,8,0,2015
+co,broomfield county,8014,8014,14,colorado,8,1,2015
+co,chaffee county,8015,8015,15,colorado,8,0,2015
+co,cheyenne county,8017,8017,17,colorado,8,0,2015
+co,clear creek county,8019,8019,19,colorado,8,0,2015
+co,conejos county,8021,8021,21,colorado,8,0,2015
+co,costilla county,8023,8023,23,colorado,8,0,2015
+co,crowley county,8025,8025,25,colorado,8,0,2015
+co,custer county,8027,8027,27,colorado,8,0,2015
+co,delta county,8029,8029,29,colorado,8,0,2015
+co,denver county,8031,8031,31,colorado,8,1,2015
+co,dolores county,8033,8033,33,colorado,8,0,2015
+co,douglas county,8035,8035,35,colorado,8,0,2015
+co,eagle county,8037,8037,37,colorado,8,0,2015
+co,el paso county,8041,8041,41,colorado,8,0,2015
+co,elbert county,8039,8039,39,colorado,8,0,2015
+co,fremont county,8043,8043,43,colorado,8,0,2015
+co,garfield county,8045,8045,45,colorado,8,0,2015
+co,gilpin county,8047,8047,47,colorado,8,0,2015
+co,grand county,8049,8049,49,colorado,8,0,2015
+co,gunnison county,8051,8051,51,colorado,8,0,2015
+co,hinsdale county,8053,8053,53,colorado,8,0,2015
+co,huerfano county,8055,8055,55,colorado,8,0,2015
+co,jackson county,8057,8057,57,colorado,8,0,2015
+co,jefferson county,8059,8059,59,colorado,8,0,2015
+co,kiowa county,8061,8061,61,colorado,8,0,2015
+co,kit carson county,8063,8063,63,colorado,8,0,2015
+co,la plata county,8067,8067,67,colorado,8,0,2015
+co,lake county,8065,8065,65,colorado,8,0,2015
+co,larimer county,8069,8069,69,colorado,8,0,2015
+co,las animas county,8071,8071,71,colorado,8,0,2015
+co,lincoln county,8073,8073,73,colorado,8,0,2015
+co,logan county,8075,8075,75,colorado,8,0,2015
+co,mesa county,8077,8077,77,colorado,8,0,2015
+co,mineral county,8079,8079,79,colorado,8,0,2015
+co,moffat county,8081,8081,81,colorado,8,0,2015
+co,montezuma county,8083,8083,83,colorado,8,0,2015
+co,montrose county,8085,8085,85,colorado,8,0,2015
+co,morgan county,8087,8087,87,colorado,8,0,2015
+co,otero county,8089,8089,89,colorado,8,0,2015
+co,ouray county,8091,8091,91,colorado,8,0,2015
+co,park county,8093,8093,93,colorado,8,0,2015
+co,phillips county,8095,8095,95,colorado,8,0,2015
+co,pitkin county,8097,8097,97,colorado,8,1,2015
+co,prowers county,8099,8099,99,colorado,8,0,2015
+co,pueblo county,8101,8101,101,colorado,8,0,2015
+co,rio blanco county,8103,8103,103,colorado,8,0,2015
+co,rio grande county,8105,8105,105,colorado,8,0,2015
+co,routt county,8107,8107,107,colorado,8,0,2015
+co,saguache county,8109,8109,109,colorado,8,0,2015
+co,san juan county,8111,8111,111,colorado,8,0,2015
+co,san miguel county,8113,8113,113,colorado,8,0,2015
+co,sedgwick county,8115,8115,115,colorado,8,0,2015
+co,summit county,8117,8117,117,colorado,8,0,2015
+co,teller county,8119,8119,119,colorado,8,0,2015
+co,washington county,8121,8121,121,colorado,8,0,2015
+co,weld county,8123,8123,123,colorado,8,1,2015
+co,yuma county,8125,8125,125,colorado,8,0,2015
+ct,fairfield county,9001,9001,1,connecticut,9,0,2015
+ct,hartford county,9003,9003,3,connecticut,9,0,2015
+ct,litchfield county,9005,9005,5,connecticut,9,0,2015
+ct,middlesex county,9007,9007,7,connecticut,9,0,2015
+ct,new haven county,9009,9009,9,connecticut,9,0,2015
+ct,new london county,9011,9011,11,connecticut,9,0,2015
+ct,tolland county,9013,9013,13,connecticut,9,0,2015
+ct,windham county,9015,9015,15,connecticut,9,0,2015
+dc,district of columbia,11001,11001,1,district of columbia,11,0,2015
+de,kent county,10001,10001,1,delaware,10,0,2015
+de,new castle county,10003,10003,3,delaware,10,0,2015
+de,sussex county,10005,10005,5,delaware,10,0,2015
+fl,alachua county,12001,12001,1,florida,12,1,2015
+fl,baker county,12003,12003,3,florida,12,0,2015
+fl,bay county,12005,12005,5,florida,12,0,2015
+fl,bradford county,12007,12007,7,florida,12,0,2015
+fl,brevard county,12009,12009,9,florida,12,1,2015
+fl,broward county,12011,12011,11,florida,12,1,2015
+fl,calhoun county,12013,12013,13,florida,12,0,2015
+fl,charlotte county,12015,12015,15,florida,12,1,2015
+fl,citrus county,12017,12017,17,florida,12,0,2015
+fl,clay county,12019,12019,19,florida,12,1,2015
+fl,collier county,12021,12021,21,florida,12,0,2015
+fl,columbia county,12023,12023,23,florida,12,1,2015
+fl,desoto county,12027,12027,27,florida,12,0,2015
+fl,dixie county,12029,12029,29,florida,12,0,2015
+fl,duval county,12031,12031,31,florida,12,1,2015
+fl,escambia county,12033,12033,33,florida,12,0,2015
+fl,flagler county,12035,12035,35,florida,12,0,2015
+fl,franklin county,12037,12037,37,florida,12,0,2015
+fl,gadsden county,12039,12039,39,florida,12,0,2015
+fl,gilchrist county,12041,12041,41,florida,12,0,2015
+fl,glades county,12043,12043,43,florida,12,0,2015
+fl,gulf county,12045,12045,45,florida,12,0,2015
+fl,hamilton county,12047,12047,47,florida,12,0,2015
+fl,hardee county,12049,12049,49,florida,12,0,2015
+fl,hendry county,12051,12051,51,florida,12,0,2015
+fl,hernando county,12053,12053,53,florida,12,0,2015
+fl,highlands county,12055,12055,55,florida,12,0,2015
+fl,hillsborough county,12057,12057,57,florida,12,1,2015
+fl,holmes county,12059,12059,59,florida,12,0,2015
+fl,indian river county,12061,12061,61,florida,12,0,2015
+fl,jackson county,12063,12063,63,florida,12,0,2015
+fl,jefferson county,12065,12065,65,florida,12,0,2015
+fl,lafayette county,12067,12067,67,florida,12,0,2015
+fl,lake county,12069,12069,69,florida,12,0,2015
+fl,lee county,12071,12071,71,florida,12,1,2015
+fl,leon county,12073,12073,73,florida,12,1,2015
+fl,levy county,12075,12075,75,florida,12,0,2015
+fl,liberty county,12077,12077,77,florida,12,0,2015
+fl,madison county,12079,12079,79,florida,12,0,2015
+fl,manatee county,12081,12081,81,florida,12,0,2015
+fl,marion county,12083,12083,83,florida,12,0,2015
+fl,martin county,12085,12085,85,florida,12,0,2015
+fl,miami-dade county,12086,12086,86,florida,12,1,2015
+fl,monroe county,12087,12087,87,florida,12,0,2015
+fl,nassau county,12089,12089,89,florida,12,0,2015
+fl,okaloosa county,12091,12091,91,florida,12,0,2015
+fl,okeechobee county,12093,12093,93,florida,12,0,2015
+fl,orange county,12095,12095,95,florida,12,1,2015
+fl,osceola county,12097,12097,97,florida,12,1,2015
+fl,palm beach county,12099,12099,99,florida,12,1,2015
+fl,pasco county,12101,12101,101,florida,12,0,2015
+fl,pinellas county,12103,12103,103,florida,12,1,2015
+fl,polk county,12105,12105,105,florida,12,1,2015
+fl,putnam county,12107,12107,107,florida,12,0,2015
+fl,santa rosa county,12113,12113,113,florida,12,0,2015
+fl,sarasota county,12115,12115,115,florida,12,1,2015
+fl,seminole county,12117,12117,117,florida,12,1,2015
+fl,st. johns county,12109,12109,109,florida,12,0,2015
+fl,st. lucie county,12111,12111,111,florida,12,0,2015
+fl,sumter county,12119,12119,119,florida,12,0,2015
+fl,suwannee county,12121,12121,121,florida,12,0,2015
+fl,taylor county,12123,12123,123,florida,12,0,2015
+fl,union county,12125,12125,125,florida,12,0,2015
+fl,volusia county,12127,12127,127,florida,12,1,2015
+fl,wakulla county,12129,12129,129,florida,12,1,2015
+fl,walton county,12131,12131,131,florida,12,0,2015
+fl,washington county,12133,12133,133,florida,12,0,2015
+ga,appling county,13001,13001,1,georgia,13,1,2015
+ga,atkinson county,13003,13003,3,georgia,13,1,2015
+ga,bacon county,13005,13005,5,georgia,13,1,2015
+ga,baker county,13007,13007,7,georgia,13,1,2015
+ga,baldwin county,13009,13009,9,georgia,13,1,2015
+ga,banks county,13011,13011,11,georgia,13,1,2015
+ga,barrow county,13013,13013,13,georgia,13,1,2015
+ga,bartow county,13015,13015,15,georgia,13,1,2015
+ga,ben hill county,13017,13017,17,georgia,13,1,2015
+ga,berrien county,13019,13019,19,georgia,13,1,2015
+ga,bibb county,13021,13021,21,georgia,13,1,2015
+ga,bleckley county,13023,13023,23,georgia,13,1,2015
+ga,brantley county,13025,13025,25,georgia,13,1,2015
+ga,brooks county,13027,13027,27,georgia,13,1,2015
+ga,bryan county,13029,13029,29,georgia,13,1,2015
+ga,bulloch county,13031,13031,31,georgia,13,1,2015
+ga,burke county,13033,13033,33,georgia,13,1,2015
+ga,butts county,13035,13035,35,georgia,13,1,2015
+ga,calhoun county,13037,13037,37,georgia,13,1,2015
+ga,camden county,13039,13039,39,georgia,13,1,2015
+ga,candler county,13043,13043,43,georgia,13,1,2015
+ga,carroll county,13045,13045,45,georgia,13,1,2015
+ga,catoosa county,13047,13047,47,georgia,13,1,2015
+ga,charlton county,13049,13049,49,georgia,13,1,2015
+ga,chatham county,13051,13051,51,georgia,13,1,2015
+ga,chattahoochee county,13053,13053,53,georgia,13,1,2015
+ga,chattooga county,13055,13055,55,georgia,13,1,2015
+ga,cherokee county,13057,13057,57,georgia,13,1,2015
+ga,clarke county,13059,13059,59,georgia,13,1,2015
+ga,clay county,13061,13061,61,georgia,13,1,2015
+ga,clayton county,13063,13063,63,georgia,13,1,2015
+ga,clinch county,13065,13065,65,georgia,13,1,2015
+ga,cobb county,13067,13067,67,georgia,13,1,2015
+ga,coffee county,13069,13069,69,georgia,13,1,2015
+ga,colquitt county,13071,13071,71,georgia,13,1,2015
+ga,columbia county,13073,13073,73,georgia,13,1,2015
+ga,cook county,13075,13075,75,georgia,13,1,2015
+ga,coweta county,13077,13077,77,georgia,13,1,2015
+ga,crawford county,13079,13079,79,georgia,13,1,2015
+ga,crisp county,13081,13081,81,georgia,13,1,2015
+ga,dade county,13083,13083,83,georgia,13,1,2015
+ga,dawson county,13085,13085,85,georgia,13,1,2015
+ga,decatur county,13087,13087,87,georgia,13,1,2015
+ga,dekalb county,13089,13089,89,georgia,13,1,2015
+ga,dodge county,13091,13091,91,georgia,13,1,2015
+ga,dooly county,13093,13093,93,georgia,13,1,2015
+ga,dougherty county,13095,13095,95,georgia,13,1,2015
+ga,douglas county,13097,13097,97,georgia,13,1,2015
+ga,early county,13099,13099,99,georgia,13,1,2015
+ga,echols county,13101,13101,101,georgia,13,1,2015
+ga,effingham county,13103,13103,103,georgia,13,1,2015
+ga,elbert county,13105,13105,105,georgia,13,1,2015
+ga,emanuel county,13107,13107,107,georgia,13,1,2015
+ga,evans county,13109,13109,109,georgia,13,1,2015
+ga,fannin county,13111,13111,111,georgia,13,1,2015
+ga,fayette county,13113,13113,113,georgia,13,1,2015
+ga,floyd county,13115,13115,115,georgia,13,1,2015
+ga,forsyth county,13117,13117,117,georgia,13,1,2015
+ga,franklin county,13119,13119,119,georgia,13,1,2015
+ga,fulton county,13121,13121,121,georgia,13,1,2015
+ga,gilmer county,13123,13123,123,georgia,13,1,2015
+ga,glascock county,13125,13125,125,georgia,13,1,2015
+ga,glynn county,13127,13127,127,georgia,13,1,2015
+ga,gordon county,13129,13129,129,georgia,13,1,2015
+ga,grady county,13131,13131,131,georgia,13,1,2015
+ga,greene county,13133,13133,133,georgia,13,1,2015
+ga,gwinnett county,13135,13135,135,georgia,13,1,2015
+ga,habersham county,13137,13137,137,georgia,13,1,2015
+ga,hall county,13139,13139,139,georgia,13,1,2015
+ga,hancock county,13141,13141,141,georgia,13,1,2015
+ga,haralson county,13143,13143,143,georgia,13,1,2015
+ga,harris county,13145,13145,145,georgia,13,1,2015
+ga,hart county,13147,13147,147,georgia,13,1,2015
+ga,heard county,13149,13149,149,georgia,13,1,2015
+ga,henry county,13151,13151,151,georgia,13,1,2015
+ga,houston county,13153,13153,153,georgia,13,1,2015
+ga,irwin county,13155,13155,155,georgia,13,1,2015
+ga,jackson county,13157,13157,157,georgia,13,1,2015
+ga,jasper county,13159,13159,159,georgia,13,1,2015
+ga,jeff davis county,13161,13161,161,georgia,13,1,2015
+ga,jefferson county,13163,13163,163,georgia,13,1,2015
+ga,jenkins county,13165,13165,165,georgia,13,1,2015
+ga,johnson county,13167,13167,167,georgia,13,1,2015
+ga,jones county,13169,13169,169,georgia,13,1,2015
+ga,lamar county,13171,13171,171,georgia,13,1,2015
+ga,lanier county,13173,13173,173,georgia,13,1,2015
+ga,laurens county,13175,13175,175,georgia,13,1,2015
+ga,lee county,13177,13177,177,georgia,13,1,2015
+ga,liberty county,13179,13179,179,georgia,13,1,2015
+ga,lincoln county,13181,13181,181,georgia,13,1,2015
+ga,long county,13183,13183,183,georgia,13,1,2015
+ga,lowndes county,13185,13185,185,georgia,13,1,2015
+ga,lumpkin county,13187,13187,187,georgia,13,1,2015
+ga,macon county,13193,13193,193,georgia,13,1,2015
+ga,madison county,13195,13195,195,georgia,13,1,2015
+ga,marion county,13197,13197,197,georgia,13,1,2015
+ga,mcduffie county,13189,13189,189,georgia,13,1,2015
+ga,mcintosh county,13191,13191,191,georgia,13,1,2015
+ga,meriwether county,13199,13199,199,georgia,13,1,2015
+ga,miller county,13201,13201,201,georgia,13,1,2015
+ga,mitchell county,13205,13205,205,georgia,13,1,2015
+ga,monroe county,13207,13207,207,georgia,13,1,2015
+ga,montgomery county,13209,13209,209,georgia,13,1,2015
+ga,morgan county,13211,13211,211,georgia,13,1,2015
+ga,murray county,13213,13213,213,georgia,13,1,2015
+ga,muscogee county,13215,13215,215,georgia,13,1,2015
+ga,newton county,13217,13217,217,georgia,13,1,2015
+ga,oconee county,13219,13219,219,georgia,13,1,2015
+ga,oglethorpe county,13221,13221,221,georgia,13,1,2015
+ga,paulding county,13223,13223,223,georgia,13,1,2015
+ga,peach county,13225,13225,225,georgia,13,1,2015
+ga,pickens county,13227,13227,227,georgia,13,1,2015
+ga,pierce county,13229,13229,229,georgia,13,1,2015
+ga,pike county,13231,13231,231,georgia,13,1,2015
+ga,polk county,13233,13233,233,georgia,13,1,2015
+ga,pulaski county,13235,13235,235,georgia,13,1,2015
+ga,putnam county,13237,13237,237,georgia,13,1,2015
+ga,quitman county,13239,13239,239,georgia,13,1,2015
+ga,rabun county,13241,13241,241,georgia,13,1,2015
+ga,randolph county,13243,13243,243,georgia,13,1,2015
+ga,richmond county,13245,13245,245,georgia,13,1,2015
+ga,rockdale county,13247,13247,247,georgia,13,1,2015
+ga,schley county,13249,13249,249,georgia,13,1,2015
+ga,screven county,13251,13251,251,georgia,13,1,2015
+ga,seminole county,13253,13253,253,georgia,13,1,2015
+ga,spalding county,13255,13255,255,georgia,13,1,2015
+ga,stephens county,13257,13257,257,georgia,13,1,2015
+ga,stewart county,13259,13259,259,georgia,13,1,2015
+ga,sumter county,13261,13261,261,georgia,13,1,2015
+ga,talbot county,13263,13263,263,georgia,13,1,2015
+ga,taliaferro county,13265,13265,265,georgia,13,1,2015
+ga,tattnall county,13267,13267,267,georgia,13,1,2015
+ga,taylor county,13269,13269,269,georgia,13,1,2015
+ga,telfair county,13271,13271,271,georgia,13,1,2015
+ga,terrell county,13273,13273,273,georgia,13,1,2015
+ga,thomas county,13275,13275,275,georgia,13,1,2015
+ga,tift county,13277,13277,277,georgia,13,1,2015
+ga,toombs county,13279,13279,279,georgia,13,1,2015
+ga,towns county,13281,13281,281,georgia,13,1,2015
+ga,treutlen county,13283,13283,283,georgia,13,1,2015
+ga,troup county,13285,13285,285,georgia,13,1,2015
+ga,turner county,13287,13287,287,georgia,13,1,2015
+ga,twiggs county,13289,13289,289,georgia,13,1,2015
+ga,union county,13291,13291,291,georgia,13,1,2015
+ga,upson county,13293,13293,293,georgia,13,1,2015
+ga,walker county,13295,13295,295,georgia,13,1,2015
+ga,walton county,13297,13297,297,georgia,13,1,2015
+ga,ware county,13299,13299,299,georgia,13,1,2015
+ga,warren county,13301,13301,301,georgia,13,1,2015
+ga,washington county,13303,13303,303,georgia,13,1,2015
+ga,wayne county,13305,13305,305,georgia,13,1,2015
+ga,webster county,13307,13307,307,georgia,13,1,2015
+ga,wheeler county,13309,13309,309,georgia,13,1,2015
+ga,white county,13311,13311,311,georgia,13,1,2015
+ga,whitfield county,13313,13313,313,georgia,13,1,2015
+ga,wilcox county,13315,13315,315,georgia,13,1,2015
+ga,wilkes county,13317,13317,317,georgia,13,1,2015
+ga,wilkinson county,13319,13319,319,georgia,13,1,2015
+ga,worth county,13321,13321,321,georgia,13,1,2015
+hi,hawaii county,15001,15001,1,hawaii,15,1,2015
+hi,honolulu county,15003,15003,3,hawaii,15,1,2015
+hi,kalawao county,15005,15005,5,hawaii,15,1,2015
+hi,kauai county,15007,15007,7,hawaii,15,1,2015
+hi,maui county,15009,15009,9,hawaii,15,1,2015
+ia,adair county,19001,19001,1,iowa,19,1,2015
+ia,adams county,19003,19003,3,iowa,19,1,2015
+ia,allamakee county,19005,19005,5,iowa,19,1,2015
+ia,appanoose county,19007,19007,7,iowa,19,1,2015
+ia,audubon county,19009,19009,9,iowa,19,1,2015
+ia,benton county,19011,19011,11,iowa,19,1,2015
+ia,black hawk county,19013,19013,13,iowa,19,1,2015
+ia,boone county,19015,19015,15,iowa,19,1,2015
+ia,bremer county,19017,19017,17,iowa,19,1,2015
+ia,buchanan county,19019,19019,19,iowa,19,1,2015
+ia,buena vista county,19021,19021,21,iowa,19,1,2015
+ia,butler county,19023,19023,23,iowa,19,1,2015
+ia,calhoun county,19025,19025,25,iowa,19,1,2015
+ia,carroll county,19027,19027,27,iowa,19,1,2015
+ia,cass county,19029,19029,29,iowa,19,1,2015
+ia,cedar county,19031,19031,31,iowa,19,1,2015
+ia,cerro gordo county,19033,19033,33,iowa,19,1,2015
+ia,cherokee county,19035,19035,35,iowa,19,1,2015
+ia,chickasaw county,19037,19037,37,iowa,19,1,2015
+ia,clarke county,19039,19039,39,iowa,19,1,2015
+ia,clay county,19041,19041,41,iowa,19,1,2015
+ia,clayton county,19043,19043,43,iowa,19,1,2015
+ia,clinton county,19045,19045,45,iowa,19,1,2015
+ia,crawford county,19047,19047,47,iowa,19,1,2015
+ia,dallas county,19049,19049,49,iowa,19,1,2015
+ia,davis county,19051,19051,51,iowa,19,1,2015
+ia,decatur county,19053,19053,53,iowa,19,1,2015
+ia,delaware county,19055,19055,55,iowa,19,1,2015
+ia,des moines county,19057,19057,57,iowa,19,1,2015
+ia,dickinson county,19059,19059,59,iowa,19,1,2015
+ia,dubuque county,19061,19061,61,iowa,19,1,2015
+ia,emmet county,19063,19063,63,iowa,19,1,2015
+ia,fayette county,19065,19065,65,iowa,19,1,2015
+ia,floyd county,19067,19067,67,iowa,19,1,2015
+ia,franklin county,19069,19069,69,iowa,19,1,2015
+ia,fremont county,19071,19071,71,iowa,19,1,2015
+ia,greene county,19073,19073,73,iowa,19,1,2015
+ia,grundy county,19075,19075,75,iowa,19,1,2015
+ia,guthrie county,19077,19077,77,iowa,19,1,2015
+ia,hamilton county,19079,19079,79,iowa,19,1,2015
+ia,hancock county,19081,19081,81,iowa,19,1,2015
+ia,hardin county,19083,19083,83,iowa,19,1,2015
+ia,harrison county,19085,19085,85,iowa,19,1,2015
+ia,henry county,19087,19087,87,iowa,19,1,2015
+ia,howard county,19089,19089,89,iowa,19,1,2015
+ia,humboldt county,19091,19091,91,iowa,19,1,2015
+ia,ida county,19093,19093,93,iowa,19,1,2015
+ia,iowa county,19095,19095,95,iowa,19,1,2015
+ia,jackson county,19097,19097,97,iowa,19,1,2015
+ia,jasper county,19099,19099,99,iowa,19,1,2015
+ia,jefferson county,19101,19101,101,iowa,19,1,2015
+ia,johnson county,19103,19103,103,iowa,19,1,2015
+ia,jones county,19105,19105,105,iowa,19,1,2015
+ia,keokuk county,19107,19107,107,iowa,19,1,2015
+ia,kossuth county,19109,19109,109,iowa,19,1,2015
+ia,lee county,19111,19111,111,iowa,19,1,2015
+ia,linn county,19113,19113,113,iowa,19,1,2015
+ia,louisa county,19115,19115,115,iowa,19,1,2015
+ia,lucas county,19117,19117,117,iowa,19,1,2015
+ia,lyon county,19119,19119,119,iowa,19,1,2015
+ia,madison county,19121,19121,121,iowa,19,1,2015
+ia,mahaska county,19123,19123,123,iowa,19,1,2015
+ia,marion county,19125,19125,125,iowa,19,1,2015
+ia,marshall county,19127,19127,127,iowa,19,1,2015
+ia,mills county,19129,19129,129,iowa,19,1,2015
+ia,mitchell county,19131,19131,131,iowa,19,1,2015
+ia,monona county,19133,19133,133,iowa,19,1,2015
+ia,monroe county,19135,19135,135,iowa,19,1,2015
+ia,montgomery county,19137,19137,137,iowa,19,1,2015
+ia,muscatine county,19139,19139,139,iowa,19,1,2015
+ia,o'brien county,19141,19141,141,iowa,19,1,2015
+ia,osceola county,19143,19143,143,iowa,19,1,2015
+ia,page county,19145,19145,145,iowa,19,1,2015
+ia,palo alto county,19147,19147,147,iowa,19,1,2015
+ia,plymouth county,19149,19149,149,iowa,19,1,2015
+ia,pocahontas county,19151,19151,151,iowa,19,1,2015
+ia,polk county,19153,19153,153,iowa,19,1,2015
+ia,pottawattamie county,19155,19155,155,iowa,19,1,2015
+ia,poweshiek county,19157,19157,157,iowa,19,1,2015
+ia,ringgold county,19159,19159,159,iowa,19,1,2015
+ia,sac county,19161,19161,161,iowa,19,1,2015
+ia,scott county,19163,19163,163,iowa,19,1,2015
+ia,shelby county,19165,19165,165,iowa,19,1,2015
+ia,sioux county,19167,19167,167,iowa,19,1,2015
+ia,story county,19169,19169,169,iowa,19,1,2015
+ia,tama county,19171,19171,171,iowa,19,1,2015
+ia,taylor county,19173,19173,173,iowa,19,1,2015
+ia,union county,19175,19175,175,iowa,19,1,2015
+ia,van buren county,19177,19177,177,iowa,19,1,2015
+ia,wapello county,19179,19179,179,iowa,19,1,2015
+ia,warren county,19181,19181,181,iowa,19,1,2015
+ia,washington county,19183,19183,183,iowa,19,1,2015
+ia,wayne county,19185,19185,185,iowa,19,1,2015
+ia,webster county,19187,19187,187,iowa,19,1,2015
+ia,winnebago county,19189,19189,189,iowa,19,1,2015
+ia,winneshiek county,19191,19191,191,iowa,19,1,2015
+ia,woodbury county,19193,19193,193,iowa,19,1,2015
+ia,worth county,19195,19195,195,iowa,19,1,2015
+ia,wright county,19197,19197,197,iowa,19,1,2015
+id,ada county,16001,16001,1,idaho,16,0,2015
+id,adams county,16003,16003,3,idaho,16,0,2015
+id,bannock county,16005,16005,5,idaho,16,0,2015
+id,bear lake county,16007,16007,7,idaho,16,0,2015
+id,benewah county,16009,16009,9,idaho,16,0,2015
+id,bingham county,16011,16011,11,idaho,16,0,2015
+id,blaine county,16013,16013,13,idaho,16,0,2015
+id,boise county,16015,16015,15,idaho,16,0,2015
+id,bonner county,16017,16017,17,idaho,16,0,2015
+id,bonneville county,16019,16019,19,idaho,16,0,2015
+id,boundary county,16021,16021,21,idaho,16,0,2015
+id,butte county,16023,16023,23,idaho,16,0,2015
+id,camas county,16025,16025,25,idaho,16,0,2015
+id,canyon county,16027,16027,27,idaho,16,0,2015
+id,caribou county,16029,16029,29,idaho,16,0,2015
+id,cassia county,16031,16031,31,idaho,16,0,2015
+id,clark county,16033,16033,33,idaho,16,0,2015
+id,clearwater county,16035,16035,35,idaho,16,0,2015
+id,custer county,16037,16037,37,idaho,16,0,2015
+id,elmore county,16039,16039,39,idaho,16,0,2015
+id,franklin county,16041,16041,41,idaho,16,0,2015
+id,fremont county,16043,16043,43,idaho,16,0,2015
+id,gem county,16045,16045,45,idaho,16,0,2015
+id,gooding county,16047,16047,47,idaho,16,0,2015
+id,idaho county,16049,16049,49,idaho,16,0,2015
+id,jefferson county,16051,16051,51,idaho,16,0,2015
+id,jerome county,16053,16053,53,idaho,16,0,2015
+id,kootenai county,16055,16055,55,idaho,16,0,2015
+id,latah county,16057,16057,57,idaho,16,0,2015
+id,lemhi county,16059,16059,59,idaho,16,0,2015
+id,lewis county,16061,16061,61,idaho,16,0,2015
+id,lincoln county,16063,16063,63,idaho,16,0,2015
+id,madison county,16065,16065,65,idaho,16,0,2015
+id,minidoka county,16067,16067,67,idaho,16,0,2015
+id,nez perce county,16069,16069,69,idaho,16,0,2015
+id,oneida county,16071,16071,71,idaho,16,0,2015
+id,owyhee county,16073,16073,73,idaho,16,0,2015
+id,payette county,16075,16075,75,idaho,16,0,2015
+id,power county,16077,16077,77,idaho,16,0,2015
+id,shoshone county,16079,16079,79,idaho,16,0,2015
+id,teton county,16081,16081,81,idaho,16,0,2015
+id,twin falls county,16083,16083,83,idaho,16,0,2015
+id,valley county,16085,16085,85,idaho,16,0,2015
+id,washington county,16087,16087,87,idaho,16,0,2015
+il,adams county,17001,17001,1,illinois,17,0,2015
+il,alexander county,17003,17003,3,illinois,17,0,2015
+il,bond county,17005,17005,5,illinois,17,0,2015
+il,boone county,17007,17007,7,illinois,17,0,2015
+il,brown county,17009,17009,9,illinois,17,0,2015
+il,bureau county,17011,17011,11,illinois,17,0,2015
+il,calhoun county,17013,17013,13,illinois,17,0,2015
+il,carroll county,17015,17015,15,illinois,17,0,2015
+il,cass county,17017,17017,17,illinois,17,0,2015
+il,champaign county,17019,17019,19,illinois,17,0,2015
+il,christian county,17021,17021,21,illinois,17,0,2015
+il,clark county,17023,17023,23,illinois,17,0,2015
+il,clay county,17025,17025,25,illinois,17,0,2015
+il,clinton county,17027,17027,27,illinois,17,0,2015
+il,coles county,17029,17029,29,illinois,17,0,2015
+il,cook county,17031,17031,31,illinois,17,1,2015
+il,crawford county,17033,17033,33,illinois,17,0,2015
+il,cumberland county,17035,17035,35,illinois,17,0,2015
+il,de witt county,17039,17039,39,illinois,17,0,2015
+il,dekalb county,17037,17037,37,illinois,17,0,2015
+il,douglas county,17041,17041,41,illinois,17,0,2015
+il,dupage county,17043,17043,43,illinois,17,0,2015
+il,edgar county,17045,17045,45,illinois,17,0,2015
+il,edwards county,17047,17047,47,illinois,17,0,2015
+il,effingham county,17049,17049,49,illinois,17,0,2015
+il,fayette county,17051,17051,51,illinois,17,0,2015
+il,ford county,17053,17053,53,illinois,17,0,2015
+il,franklin county,17055,17055,55,illinois,17,0,2015
+il,fulton county,17057,17057,57,illinois,17,0,2015
+il,gallatin county,17059,17059,59,illinois,17,0,2015
+il,greene county,17061,17061,61,illinois,17,0,2015
+il,grundy county,17063,17063,63,illinois,17,0,2015
+il,hamilton county,17065,17065,65,illinois,17,0,2015
+il,hancock county,17067,17067,67,illinois,17,0,2015
+il,hardin county,17069,17069,69,illinois,17,0,2015
+il,henderson county,17071,17071,71,illinois,17,0,2015
+il,henry county,17073,17073,73,illinois,17,0,2015
+il,iroquois county,17075,17075,75,illinois,17,0,2015
+il,jackson county,17077,17077,77,illinois,17,0,2015
+il,jasper county,17079,17079,79,illinois,17,0,2015
+il,jefferson county,17081,17081,81,illinois,17,0,2015
+il,jersey county,17083,17083,83,illinois,17,0,2015
+il,jo daviess county,17085,17085,85,illinois,17,0,2015
+il,johnson county,17087,17087,87,illinois,17,0,2015
+il,kane county,17089,17089,89,illinois,17,0,2015
+il,kankakee county,17091,17091,91,illinois,17,0,2015
+il,kendall county,17093,17093,93,illinois,17,0,2015
+il,knox county,17095,17095,95,illinois,17,0,2015
+il,lake county,17097,17097,97,illinois,17,0,2015
+il,lasalle county,17099,17099,99,illinois,17,0,2015
+il,lawrence county,17101,17101,101,illinois,17,0,2015
+il,lee county,17103,17103,103,illinois,17,0,2015
+il,livingston county,17105,17105,105,illinois,17,0,2015
+il,logan county,17107,17107,107,illinois,17,0,2015
+il,macon county,17115,17115,115,illinois,17,0,2015
+il,macoupin county,17117,17117,117,illinois,17,0,2015
+il,madison county,17119,17119,119,illinois,17,0,2015
+il,marion county,17121,17121,121,illinois,17,0,2015
+il,marshall county,17123,17123,123,illinois,17,0,2015
+il,mason county,17125,17125,125,illinois,17,0,2015
+il,massac county,17127,17127,127,illinois,17,0,2015
+il,mcdonough county,17109,17109,109,illinois,17,0,2015
+il,mchenry county,17111,17111,111,illinois,17,0,2015
+il,mclean county,17113,17113,113,illinois,17,0,2015
+il,menard county,17129,17129,129,illinois,17,0,2015
+il,mercer county,17131,17131,131,illinois,17,0,2015
+il,monroe county,17133,17133,133,illinois,17,0,2015
+il,montgomery county,17135,17135,135,illinois,17,0,2015
+il,morgan county,17137,17137,137,illinois,17,0,2015
+il,moultrie county,17139,17139,139,illinois,17,0,2015
+il,ogle county,17141,17141,141,illinois,17,0,2015
+il,peoria county,17143,17143,143,illinois,17,0,2015
+il,perry county,17145,17145,145,illinois,17,0,2015
+il,piatt county,17147,17147,147,illinois,17,0,2015
+il,pike county,17149,17149,149,illinois,17,0,2015
+il,pope county,17151,17151,151,illinois,17,0,2015
+il,pulaski county,17153,17153,153,illinois,17,0,2015
+il,putnam county,17155,17155,155,illinois,17,0,2015
+il,randolph county,17157,17157,157,illinois,17,0,2015
+il,richland county,17159,17159,159,illinois,17,0,2015
+il,rock island county,17161,17161,161,illinois,17,0,2015
+il,saline county,17165,17165,165,illinois,17,0,2015
+il,sangamon county,17167,17167,167,illinois,17,0,2015
+il,schuyler county,17169,17169,169,illinois,17,0,2015
+il,scott county,17171,17171,171,illinois,17,0,2015
+il,shelby county,17173,17173,173,illinois,17,0,2015
+il,st. clair county,17163,17163,163,illinois,17,0,2015
+il,stark county,17175,17175,175,illinois,17,0,2015
+il,stephenson county,17177,17177,177,illinois,17,0,2015
+il,tazewell county,17179,17179,179,illinois,17,0,2015
+il,union county,17181,17181,181,illinois,17,0,2015
+il,vermilion county,17183,17183,183,illinois,17,0,2015
+il,wabash county,17185,17185,185,illinois,17,0,2015
+il,warren county,17187,17187,187,illinois,17,0,2015
+il,washington county,17189,17189,189,illinois,17,0,2015
+il,wayne county,17191,17191,191,illinois,17,0,2015
+il,white county,17193,17193,193,illinois,17,0,2015
+il,whiteside county,17195,17195,195,illinois,17,0,2015
+il,will county,17197,17197,197,illinois,17,0,2015
+il,williamson county,17199,17199,199,illinois,17,0,2015
+il,winnebago county,17201,17201,201,illinois,17,0,2015
+il,woodford county,17203,17203,203,illinois,17,0,2015
+in,adams county,18001,18001,1,indiana,18,1,2015
+in,allen county,18003,18003,3,indiana,18,1,2015
+in,bartholomew county,18005,18005,5,indiana,18,1,2015
+in,benton county,18007,18007,7,indiana,18,1,2015
+in,blackford county,18009,18009,9,indiana,18,1,2015
+in,boone county,18011,18011,11,indiana,18,1,2015
+in,brown county,18013,18013,13,indiana,18,1,2015
+in,carroll county,18015,18015,15,indiana,18,1,2015
+in,cass county,18017,18017,17,indiana,18,1,2015
+in,clark county,18019,18019,19,indiana,18,1,2015
+in,clay county,18021,18021,21,indiana,18,1,2015
+in,clinton county,18023,18023,23,indiana,18,1,2015
+in,crawford county,18025,18025,25,indiana,18,1,2015
+in,daviess county,18027,18027,27,indiana,18,1,2015
+in,dearborn county,18029,18029,29,indiana,18,1,2015
+in,decatur county,18031,18031,31,indiana,18,1,2015
+in,dekalb county,18033,18033,33,indiana,18,1,2015
+in,delaware county,18035,18035,35,indiana,18,1,2015
+in,dubois county,18037,18037,37,indiana,18,1,2015
+in,elkhart county,18039,18039,39,indiana,18,1,2015
+in,fayette county,18041,18041,41,indiana,18,1,2015
+in,floyd county,18043,18043,43,indiana,18,1,2015
+in,fountain county,18045,18045,45,indiana,18,1,2015
+in,franklin county,18047,18047,47,indiana,18,1,2015
+in,fulton county,18049,18049,49,indiana,18,1,2015
+in,gibson county,18051,18051,51,indiana,18,1,2015
+in,grant county,18053,18053,53,indiana,18,1,2015
+in,greene county,18055,18055,55,indiana,18,1,2015
+in,hamilton county,18057,18057,57,indiana,18,1,2015
+in,hancock county,18059,18059,59,indiana,18,1,2015
+in,harrison county,18061,18061,61,indiana,18,1,2015
+in,hendricks county,18063,18063,63,indiana,18,1,2015
+in,henry county,18065,18065,65,indiana,18,1,2015
+in,howard county,18067,18067,67,indiana,18,1,2015
+in,huntington county,18069,18069,69,indiana,18,1,2015
+in,jackson county,18071,18071,71,indiana,18,1,2015
+in,jasper county,18073,18073,73,indiana,18,1,2015
+in,jay county,18075,18075,75,indiana,18,1,2015
+in,jefferson county,18077,18077,77,indiana,18,1,2015
+in,jennings county,18079,18079,79,indiana,18,1,2015
+in,johnson county,18081,18081,81,indiana,18,1,2015
+in,knox county,18083,18083,83,indiana,18,1,2015
+in,kosciusko county,18085,18085,85,indiana,18,1,2015
+in,lagrange county,18087,18087,87,indiana,18,1,2015
+in,lake county,18089,18089,89,indiana,18,1,2015
+in,laporte county,18091,18091,91,indiana,18,1,2015
+in,lawrence county,18093,18093,93,indiana,18,1,2015
+in,madison county,18095,18095,95,indiana,18,1,2015
+in,marion county,18097,18097,97,indiana,18,1,2015
+in,marshall county,18099,18099,99,indiana,18,1,2015
+in,martin county,18101,18101,101,indiana,18,1,2015
+in,miami county,18103,18103,103,indiana,18,1,2015
+in,monroe county,18105,18105,105,indiana,18,1,2015
+in,montgomery county,18107,18107,107,indiana,18,1,2015
+in,morgan county,18109,18109,109,indiana,18,1,2015
+in,newton county,18111,18111,111,indiana,18,1,2015
+in,noble county,18113,18113,113,indiana,18,1,2015
+in,ohio county,18115,18115,115,indiana,18,1,2015
+in,orange county,18117,18117,117,indiana,18,1,2015
+in,owen county,18119,18119,119,indiana,18,1,2015
+in,parke county,18121,18121,121,indiana,18,1,2015
+in,perry county,18123,18123,123,indiana,18,1,2015
+in,pike county,18125,18125,125,indiana,18,1,2015
+in,porter county,18127,18127,127,indiana,18,1,2015
+in,posey county,18129,18129,129,indiana,18,1,2015
+in,pulaski county,18131,18131,131,indiana,18,1,2015
+in,putnam county,18133,18133,133,indiana,18,1,2015
+in,randolph county,18135,18135,135,indiana,18,1,2015
+in,ripley county,18137,18137,137,indiana,18,1,2015
+in,rush county,18139,18139,139,indiana,18,1,2015
+in,scott county,18143,18143,143,indiana,18,1,2015
+in,shelby county,18145,18145,145,indiana,18,1,2015
+in,spencer county,18147,18147,147,indiana,18,1,2015
+in,st. joseph county,18141,18141,141,indiana,18,1,2015
+in,starke county,18149,18149,149,indiana,18,1,2015
+in,steuben county,18151,18151,151,indiana,18,1,2015
+in,sullivan county,18153,18153,153,indiana,18,1,2015
+in,switzerland county,18155,18155,155,indiana,18,1,2015
+in,tippecanoe county,18157,18157,157,indiana,18,1,2015
+in,tipton county,18159,18159,159,indiana,18,1,2015
+in,union county,18161,18161,161,indiana,18,1,2015
+in,vanderburgh county,18163,18163,163,indiana,18,1,2015
+in,vermillion county,18165,18165,165,indiana,18,1,2015
+in,vigo county,18167,18167,167,indiana,18,1,2015
+in,wabash county,18169,18169,169,indiana,18,1,2015
+in,warren county,18171,18171,171,indiana,18,1,2015
+in,warrick county,18173,18173,173,indiana,18,1,2015
+in,washington county,18175,18175,175,indiana,18,1,2015
+in,wayne county,18177,18177,177,indiana,18,1,2015
+in,wells county,18179,18179,179,indiana,18,1,2015
+in,white county,18181,18181,181,indiana,18,1,2015
+in,whitley county,18183,18183,183,indiana,18,1,2015
+ks,allen county,20001,20001,1,kansas,20,1,2015
+ks,anderson county,20003,20003,3,kansas,20,1,2015
+ks,atchison county,20005,20005,5,kansas,20,1,2015
+ks,barber county,20007,20007,7,kansas,20,1,2015
+ks,barton county,20009,20009,9,kansas,20,1,2015
+ks,bourbon county,20011,20011,11,kansas,20,1,2015
+ks,brown county,20013,20013,13,kansas,20,1,2015
+ks,butler county,20015,20015,15,kansas,20,1,2015
+ks,chase county,20017,20017,17,kansas,20,1,2015
+ks,chautauqua county,20019,20019,19,kansas,20,1,2015
+ks,cherokee county,20021,20021,21,kansas,20,1,2015
+ks,cheyenne county,20023,20023,23,kansas,20,1,2015
+ks,clark county,20025,20025,25,kansas,20,1,2015
+ks,clay county,20027,20027,27,kansas,20,1,2015
+ks,cloud county,20029,20029,29,kansas,20,1,2015
+ks,coffey county,20031,20031,31,kansas,20,1,2015
+ks,comanche county,20033,20033,33,kansas,20,1,2015
+ks,cowley county,20035,20035,35,kansas,20,1,2015
+ks,crawford county,20037,20037,37,kansas,20,1,2015
+ks,decatur county,20039,20039,39,kansas,20,1,2015
+ks,dickinson county,20041,20041,41,kansas,20,1,2015
+ks,doniphan county,20043,20043,43,kansas,20,1,2015
+ks,douglas county,20045,20045,45,kansas,20,1,2015
+ks,edwards county,20047,20047,47,kansas,20,1,2015
+ks,elk county,20049,20049,49,kansas,20,1,2015
+ks,ellis county,20051,20051,51,kansas,20,1,2015
+ks,ellsworth county,20053,20053,53,kansas,20,1,2015
+ks,finney county,20055,20055,55,kansas,20,1,2015
+ks,ford county,20057,20057,57,kansas,20,1,2015
+ks,franklin county,20059,20059,59,kansas,20,1,2015
+ks,geary county,20061,20061,61,kansas,20,1,2015
+ks,gove county,20063,20063,63,kansas,20,1,2015
+ks,graham county,20065,20065,65,kansas,20,1,2015
+ks,grant county,20067,20067,67,kansas,20,1,2015
+ks,gray county,20069,20069,69,kansas,20,1,2015
+ks,greeley county,20071,20071,71,kansas,20,1,2015
+ks,greenwood county,20073,20073,73,kansas,20,1,2015
+ks,hamilton county,20075,20075,75,kansas,20,1,2015
+ks,harper county,20077,20077,77,kansas,20,1,2015
+ks,harvey county,20079,20079,79,kansas,20,1,2015
+ks,haskell county,20081,20081,81,kansas,20,1,2015
+ks,hodgeman county,20083,20083,83,kansas,20,1,2015
+ks,jackson county,20085,20085,85,kansas,20,1,2015
+ks,jefferson county,20087,20087,87,kansas,20,1,2015
+ks,jewell county,20089,20089,89,kansas,20,1,2015
+ks,johnson county,20091,20091,91,kansas,20,1,2015
+ks,kearny county,20093,20093,93,kansas,20,1,2015
+ks,kingman county,20095,20095,95,kansas,20,1,2015
+ks,kiowa county,20097,20097,97,kansas,20,1,2015
+ks,labette county,20099,20099,99,kansas,20,1,2015
+ks,lane county,20101,20101,101,kansas,20,1,2015
+ks,leavenworth county,20103,20103,103,kansas,20,1,2015
+ks,lincoln county,20105,20105,105,kansas,20,1,2015
+ks,linn county,20107,20107,107,kansas,20,1,2015
+ks,logan county,20109,20109,109,kansas,20,1,2015
+ks,lyon county,20111,20111,111,kansas,20,1,2015
+ks,marion county,20115,20115,115,kansas,20,1,2015
+ks,marshall county,20117,20117,117,kansas,20,1,2015
+ks,mcpherson county,20113,20113,113,kansas,20,1,2015
+ks,meade county,20119,20119,119,kansas,20,1,2015
+ks,miami county,20121,20121,121,kansas,20,1,2015
+ks,mitchell county,20123,20123,123,kansas,20,1,2015
+ks,montgomery county,20125,20125,125,kansas,20,1,2015
+ks,morris county,20127,20127,127,kansas,20,1,2015
+ks,morton county,20129,20129,129,kansas,20,1,2015
+ks,nemaha county,20131,20131,131,kansas,20,1,2015
+ks,neosho county,20133,20133,133,kansas,20,1,2015
+ks,ness county,20135,20135,135,kansas,20,1,2015
+ks,norton county,20137,20137,137,kansas,20,1,2015
+ks,osage county,20139,20139,139,kansas,20,1,2015
+ks,osborne county,20141,20141,141,kansas,20,1,2015
+ks,ottawa county,20143,20143,143,kansas,20,1,2015
+ks,pawnee county,20145,20145,145,kansas,20,1,2015
+ks,phillips county,20147,20147,147,kansas,20,1,2015
+ks,pottawatomie county,20149,20149,149,kansas,20,1,2015
+ks,pratt county,20151,20151,151,kansas,20,1,2015
+ks,rawlins county,20153,20153,153,kansas,20,1,2015
+ks,reno county,20155,20155,155,kansas,20,1,2015
+ks,republic county,20157,20157,157,kansas,20,1,2015
+ks,rice county,20159,20159,159,kansas,20,1,2015
+ks,riley county,20161,20161,161,kansas,20,1,2015
+ks,rooks county,20163,20163,163,kansas,20,1,2015
+ks,rush county,20165,20165,165,kansas,20,1,2015
+ks,russell county,20167,20167,167,kansas,20,1,2015
+ks,saline county,20169,20169,169,kansas,20,1,2015
+ks,scott county,20171,20171,171,kansas,20,1,2015
+ks,sedgwick county,20173,20173,173,kansas,20,1,2015
+ks,seward county,20175,20175,175,kansas,20,1,2015
+ks,shawnee county,20177,20177,177,kansas,20,1,2015
+ks,sheridan county,20179,20179,179,kansas,20,1,2015
+ks,sherman county,20181,20181,181,kansas,20,1,2015
+ks,smith county,20183,20183,183,kansas,20,1,2015
+ks,stafford county,20185,20185,185,kansas,20,1,2015
+ks,stanton county,20187,20187,187,kansas,20,1,2015
+ks,stevens county,20189,20189,189,kansas,20,1,2015
+ks,sumner county,20191,20191,191,kansas,20,1,2015
+ks,thomas county,20193,20193,193,kansas,20,1,2015
+ks,trego county,20195,20195,195,kansas,20,1,2015
+ks,wabaunsee county,20197,20197,197,kansas,20,1,2015
+ks,wallace county,20199,20199,199,kansas,20,1,2015
+ks,washington county,20201,20201,201,kansas,20,1,2015
+ks,wichita county,20203,20203,203,kansas,20,1,2015
+ks,wilson county,20205,20205,205,kansas,20,1,2015
+ks,woodson county,20207,20207,207,kansas,20,1,2015
+ks,wyandotte county,20209,20209,209,kansas,20,1,2015
+ky,adair county,21001,21001,1,kentucky,21,0,2015
+ky,allen county,21003,21003,3,kentucky,21,0,2015
+ky,anderson county,21005,21005,5,kentucky,21,0,2015
+ky,ballard county,21007,21007,7,kentucky,21,0,2015
+ky,barren county,21009,21009,9,kentucky,21,0,2015
+ky,bath county,21011,21011,11,kentucky,21,0,2015
+ky,bell county,21013,21013,13,kentucky,21,0,2015
+ky,boone county,21015,21015,15,kentucky,21,0,2015
+ky,bourbon county,21017,21017,17,kentucky,21,0,2015
+ky,boyd county,21019,21019,19,kentucky,21,0,2015
+ky,boyle county,21021,21021,21,kentucky,21,0,2015
+ky,bracken county,21023,21023,23,kentucky,21,0,2015
+ky,breathitt county,21025,21025,25,kentucky,21,0,2015
+ky,breckinridge county,21027,21027,27,kentucky,21,0,2015
+ky,bullitt county,21029,21029,29,kentucky,21,0,2015
+ky,butler county,21031,21031,31,kentucky,21,0,2015
+ky,caldwell county,21033,21033,33,kentucky,21,0,2015
+ky,calloway county,21035,21035,35,kentucky,21,0,2015
+ky,campbell county,21037,21037,37,kentucky,21,0,2015
+ky,carlisle county,21039,21039,39,kentucky,21,0,2015
+ky,carroll county,21041,21041,41,kentucky,21,0,2015
+ky,carter county,21043,21043,43,kentucky,21,0,2015
+ky,casey county,21045,21045,45,kentucky,21,0,2015
+ky,christian county,21047,21047,47,kentucky,21,0,2015
+ky,clark county,21049,21049,49,kentucky,21,0,2015
+ky,clay county,21051,21051,51,kentucky,21,0,2015
+ky,clinton county,21053,21053,53,kentucky,21,0,2015
+ky,crittenden county,21055,21055,55,kentucky,21,0,2015
+ky,cumberland county,21057,21057,57,kentucky,21,0,2015
+ky,daviess county,21059,21059,59,kentucky,21,0,2015
+ky,edmonson county,21061,21061,61,kentucky,21,0,2015
+ky,elliott county,21063,21063,63,kentucky,21,0,2015
+ky,estill county,21065,21065,65,kentucky,21,0,2015
+ky,fayette county,21067,21067,67,kentucky,21,1,2015
+ky,fleming county,21069,21069,69,kentucky,21,0,2015
+ky,floyd county,21071,21071,71,kentucky,21,0,2015
+ky,franklin county,21073,21073,73,kentucky,21,0,2015
+ky,fulton county,21075,21075,75,kentucky,21,0,2015
+ky,gallatin county,21077,21077,77,kentucky,21,0,2015
+ky,garrard county,21079,21079,79,kentucky,21,0,2015
+ky,grant county,21081,21081,81,kentucky,21,0,2015
+ky,graves county,21083,21083,83,kentucky,21,0,2015
+ky,grayson county,21085,21085,85,kentucky,21,0,2015
+ky,green county,21087,21087,87,kentucky,21,0,2015
+ky,greenup county,21089,21089,89,kentucky,21,0,2015
+ky,hancock county,21091,21091,91,kentucky,21,0,2015
+ky,hardin county,21093,21093,93,kentucky,21,0,2015
+ky,harlan county,21095,21095,95,kentucky,21,0,2015
+ky,harrison county,21097,21097,97,kentucky,21,0,2015
+ky,hart county,21099,21099,99,kentucky,21,0,2015
+ky,henderson county,21101,21101,101,kentucky,21,0,2015
+ky,henry county,21103,21103,103,kentucky,21,0,2015
+ky,hickman county,21105,21105,105,kentucky,21,0,2015
+ky,hopkins county,21107,21107,107,kentucky,21,0,2015
+ky,jackson county,21109,21109,109,kentucky,21,0,2015
+ky,jefferson county,21111,21111,111,kentucky,21,1,2015
+ky,jessamine county,21113,21113,113,kentucky,21,0,2015
+ky,johnson county,21115,21115,115,kentucky,21,0,2015
+ky,kenton county,21117,21117,117,kentucky,21,0,2015
+ky,knott county,21119,21119,119,kentucky,21,0,2015
+ky,knox county,21121,21121,121,kentucky,21,0,2015
+ky,larue county,21123,21123,123,kentucky,21,0,2015
+ky,laurel county,21125,21125,125,kentucky,21,0,2015
+ky,lawrence county,21127,21127,127,kentucky,21,0,2015
+ky,lee county,21129,21129,129,kentucky,21,0,2015
+ky,leslie county,21131,21131,131,kentucky,21,0,2015
+ky,letcher county,21133,21133,133,kentucky,21,0,2015
+ky,lewis county,21135,21135,135,kentucky,21,0,2015
+ky,lincoln county,21137,21137,137,kentucky,21,0,2015
+ky,livingston county,21139,21139,139,kentucky,21,0,2015
+ky,logan county,21141,21141,141,kentucky,21,0,2015
+ky,lyon county,21143,21143,143,kentucky,21,0,2015
+ky,madison county,21151,21151,151,kentucky,21,0,2015
+ky,magoffin county,21153,21153,153,kentucky,21,0,2015
+ky,marion county,21155,21155,155,kentucky,21,0,2015
+ky,marshall county,21157,21157,157,kentucky,21,0,2015
+ky,martin county,21159,21159,159,kentucky,21,0,2015
+ky,mason county,21161,21161,161,kentucky,21,0,2015
+ky,mccracken county,21145,21145,145,kentucky,21,0,2015
+ky,mccreary county,21147,21147,147,kentucky,21,0,2015
+ky,mclean county,21149,21149,149,kentucky,21,0,2015
+ky,meade county,21163,21163,163,kentucky,21,0,2015
+ky,menifee county,21165,21165,165,kentucky,21,0,2015
+ky,mercer county,21167,21167,167,kentucky,21,0,2015
+ky,metcalfe county,21169,21169,169,kentucky,21,0,2015
+ky,monroe county,21171,21171,171,kentucky,21,0,2015
+ky,montgomery county,21173,21173,173,kentucky,21,0,2015
+ky,morgan county,21175,21175,175,kentucky,21,0,2015
+ky,muhlenberg county,21177,21177,177,kentucky,21,0,2015
+ky,nelson county,21179,21179,179,kentucky,21,0,2015
+ky,nicholas county,21181,21181,181,kentucky,21,0,2015
+ky,ohio county,21183,21183,183,kentucky,21,0,2015
+ky,oldham county,21185,21185,185,kentucky,21,0,2015
+ky,owen county,21187,21187,187,kentucky,21,0,2015
+ky,owsley county,21189,21189,189,kentucky,21,0,2015
+ky,pendleton county,21191,21191,191,kentucky,21,0,2015
+ky,perry county,21193,21193,193,kentucky,21,0,2015
+ky,pike county,21195,21195,195,kentucky,21,0,2015
+ky,powell county,21197,21197,197,kentucky,21,0,2015
+ky,pulaski county,21199,21199,199,kentucky,21,0,2015
+ky,robertson county,21201,21201,201,kentucky,21,0,2015
+ky,rockcastle county,21203,21203,203,kentucky,21,0,2015
+ky,rowan county,21205,21205,205,kentucky,21,0,2015
+ky,russell county,21207,21207,207,kentucky,21,0,2015
+ky,scott county,21209,21209,209,kentucky,21,0,2015
+ky,shelby county,21211,21211,211,kentucky,21,0,2015
+ky,simpson county,21213,21213,213,kentucky,21,0,2015
+ky,spencer county,21215,21215,215,kentucky,21,0,2015
+ky,taylor county,21217,21217,217,kentucky,21,0,2015
+ky,todd county,21219,21219,219,kentucky,21,0,2015
+ky,trigg county,21221,21221,221,kentucky,21,0,2015
+ky,trimble county,21223,21223,223,kentucky,21,0,2015
+ky,union county,21225,21225,225,kentucky,21,0,2015
+ky,warren county,21227,21227,227,kentucky,21,0,2015
+ky,washington county,21229,21229,229,kentucky,21,0,2015
+ky,wayne county,21231,21231,231,kentucky,21,0,2015
+ky,webster county,21233,21233,233,kentucky,21,0,2015
+ky,whitley county,21235,21235,235,kentucky,21,0,2015
+ky,wolfe county,21237,21237,237,kentucky,21,0,2015
+ky,woodford county,21239,21239,239,kentucky,21,0,2015
+la,acadia parish,22001,22001,1,louisiana,22,0,2015
+la,allen parish,22003,22003,3,louisiana,22,0,2015
+la,ascension parish,22005,22005,5,louisiana,22,1,2015
+la,assumption parish,22007,22007,7,louisiana,22,0,2015
+la,avoyelles parish,22009,22009,9,louisiana,22,0,2015
+la,beauregard parish,22011,22011,11,louisiana,22,0,2015
+la,bienville parish,22013,22013,13,louisiana,22,0,2015
+la,bossier parish,22015,22015,15,louisiana,22,0,2015
+la,caddo parish,22017,22017,17,louisiana,22,1,2015
+la,calcasieu parish,22019,22019,19,louisiana,22,0,2015
+la,caldwell parish,22021,22021,21,louisiana,22,0,2015
+la,cameron parish,22023,22023,23,louisiana,22,0,2015
+la,catahoula parish,22025,22025,25,louisiana,22,0,2015
+la,claiborne parish,22027,22027,27,louisiana,22,0,2015
+la,concordia parish,22029,22029,29,louisiana,22,0,2015
+la,de soto parish,22031,22031,31,louisiana,22,0,2015
+la,east baton rouge parish,22033,22033,33,louisiana,22,1,2015
+la,east carroll parish,22035,22035,35,louisiana,22,0,2015
+la,east feliciana parish,22037,22037,37,louisiana,22,0,2015
+la,evangeline parish,22039,22039,39,louisiana,22,0,2015
+la,franklin parish,22041,22041,41,louisiana,22,0,2015
+la,grant parish,22043,22043,43,louisiana,22,0,2015
+la,iberia parish,22045,22045,45,louisiana,22,1,2015
+la,iberville parish,22047,22047,47,louisiana,22,1,2015
+la,jackson parish,22049,22049,49,louisiana,22,0,2015
+la,jefferson davis parish,22053,22053,53,louisiana,22,0,2015
+la,jefferson parish,22051,22051,51,louisiana,22,1,2015
+la,lafayette parish,22055,22055,55,louisiana,22,1,2015
+la,lafourche parish,22057,22057,57,louisiana,22,1,2015
+la,lasalle parish,22059,22059,59,louisiana,22,0,2015
+la,lincoln parish,22061,22061,61,louisiana,22,0,2015
+la,livingston parish,22063,22063,63,louisiana,22,1,2015
+la,madison parish,22065,22065,65,louisiana,22,0,2015
+la,morehouse parish,22067,22067,67,louisiana,22,0,2015
+la,natchitoches parish,22069,22069,69,louisiana,22,1,2015
+la,orleans parish,22071,22071,71,louisiana,22,1,2015
+la,ouachita parish,22073,22073,73,louisiana,22,0,2015
+la,plaquemines parish,22075,22075,75,louisiana,22,1,2015
+la,pointe coupee parish,22077,22077,77,louisiana,22,0,2015
+la,rapides parish,22079,22079,79,louisiana,22,0,2015
+la,red river parish,22081,22081,81,louisiana,22,0,2015
+la,richland parish,22083,22083,83,louisiana,22,0,2015
+la,sabine parish,22085,22085,85,louisiana,22,0,2015
+la,st. bernard parish,22087,22087,87,louisiana,22,1,2015
+la,st. charles parish,22089,22089,89,louisiana,22,1,2015
+la,st. helena parish,22091,22091,91,louisiana,22,0,2015
+la,st. james parish,22093,22093,93,louisiana,22,1,2015
+la,st. john the baptist parish,22095,22095,95,louisiana,22,1,2015
+la,st. landry parish,22097,22097,97,louisiana,22,1,2015
+la,st. martin parish,22099,22099,99,louisiana,22,1,2015
+la,st. mary parish,22101,22101,101,louisiana,22,1,2015
+la,st. tammany parish,22103,22103,103,louisiana,22,1,2015
+la,tangipahoa parish,22105,22105,105,louisiana,22,1,2015
+la,tensas parish,22107,22107,107,louisiana,22,0,2015
+la,terrebonne parish,22109,22109,109,louisiana,22,1,2015
+la,union parish,22111,22111,111,louisiana,22,0,2015
+la,vermilion parish,22113,22113,113,louisiana,22,0,2015
+la,vernon parish,22115,22115,115,louisiana,22,0,2015
+la,washington parish,22117,22117,117,louisiana,22,1,2015
+la,webster parish,22119,22119,119,louisiana,22,0,2015
+la,west baton rouge parish,22121,22121,121,louisiana,22,1,2015
+la,west carroll parish,22123,22123,123,louisiana,22,0,2015
+la,west feliciana parish,22125,22125,125,louisiana,22,1,2015
+la,winn parish,22127,22127,127,louisiana,22,0,2015
+ma,barnstable county,25001,25001,1,massachusetts,25,1,2015
+ma,berkshire county,25003,25003,3,massachusetts,25,0,2015
+ma,bristol county,25005,25005,5,massachusetts,25,0,2015
+ma,dukes county,25007,25007,7,massachusetts,25,0,2015
+ma,essex county,25009,25009,9,massachusetts,25,0,2015
+ma,franklin county,25011,25011,11,massachusetts,25,0,2015
+ma,hampden county,25013,25013,13,massachusetts,25,0,2015
+ma,hampshire county,25015,25015,15,massachusetts,25,0,2015
+ma,middlesex county,25017,25017,17,massachusetts,25,0,2015
+ma,nantucket county,25019,25019,19,massachusetts,25,0,2015
+ma,norfolk county,25021,25021,21,massachusetts,25,0,2015
+ma,plymouth county,25023,25023,23,massachusetts,25,0,2015
+ma,suffolk county,25025,25025,25,massachusetts,25,1,2015
+ma,worcester county,25027,25027,27,massachusetts,25,0,2015
+md,allegany county,24001,24001,1,maryland,24,1,2015
+md,anne arundel county,24003,24003,3,maryland,24,1,2015
+md,baltimore city,24510,24510,510,maryland,24,0,2015
+md,baltimore county,24005,24005,5,maryland,24,1,2015
+md,calvert county,24009,24009,9,maryland,24,0,2015
+md,caroline county,24011,24011,11,maryland,24,1,2015
+md,carroll county,24013,24013,13,maryland,24,0,2015
+md,cecil county,24015,24015,15,maryland,24,1,2015
+md,charles county,24017,24017,17,maryland,24,1,2015
+md,dorchester county,24019,24019,19,maryland,24,1,2015
+md,frederick county,24021,24021,21,maryland,24,1,2015
+md,garrett county,24023,24023,23,maryland,24,0,2015
+md,harford county,24025,24025,25,maryland,24,1,2015
+md,howard county,24027,24027,27,maryland,24,1,2015
+md,kent county,24029,24029,29,maryland,24,1,2015
+md,montgomery county,24031,24031,31,maryland,24,1,2015
+md,prince george's county,24033,24033,33,maryland,24,1,2015
+md,queen anne's county,24035,24035,35,maryland,24,1,2015
+md,somerset county,24039,24039,39,maryland,24,0,2015
+md,st. mary's county,24037,24037,37,maryland,24,0,2015
+md,talbot county,24041,24041,41,maryland,24,1,2015
+md,washington county,24043,24043,43,maryland,24,0,2015
+md,wicomico county,24045,24045,45,maryland,24,1,2015
+md,worcester county,24047,24047,47,maryland,24,1,2015
+me,androscoggin county,23001,23001,1,maine,23,1,2015
+me,aroostook county,23003,23003,3,maine,23,1,2015
+me,cumberland county,23005,23005,5,maine,23,1,2015
+me,franklin county,23007,23007,7,maine,23,1,2015
+me,hancock county,23009,23009,9,maine,23,1,2015
+me,kennebec county,23011,23011,11,maine,23,1,2015
+me,knox county,23013,23013,13,maine,23,1,2015
+me,lincoln county,23015,23015,15,maine,23,1,2015
+me,oxford county,23017,23017,17,maine,23,1,2015
+me,penobscot county,23019,23019,19,maine,23,1,2015
+me,piscataquis county,23021,23021,21,maine,23,1,2015
+me,sagadahoc county,23023,23023,23,maine,23,1,2015
+me,somerset county,23025,23025,25,maine,23,1,2015
+me,waldo county,23027,23027,27,maine,23,1,2015
+me,washington county,23029,23029,29,maine,23,1,2015
+me,york county,23031,23031,31,maine,23,1,2015
+mi,alcona county,26001,26001,1,michigan,26,0,2015
+mi,alger county,26003,26003,3,michigan,26,0,2015
+mi,allegan county,26005,26005,5,michigan,26,0,2015
+mi,alpena county,26007,26007,7,michigan,26,0,2015
+mi,antrim county,26009,26009,9,michigan,26,0,2015
+mi,arenac county,26011,26011,11,michigan,26,0,2015
+mi,baraga county,26013,26013,13,michigan,26,0,2015
+mi,barry county,26015,26015,15,michigan,26,0,2015
+mi,bay county,26017,26017,17,michigan,26,0,2015
+mi,benzie county,26019,26019,19,michigan,26,0,2015
+mi,berrien county,26021,26021,21,michigan,26,0,2015
+mi,branch county,26023,26023,23,michigan,26,0,2015
+mi,calhoun county,26025,26025,25,michigan,26,0,2015
+mi,cass county,26027,26027,27,michigan,26,0,2015
+mi,charlevoix county,26029,26029,29,michigan,26,0,2015
+mi,cheboygan county,26031,26031,31,michigan,26,0,2015
+mi,chippewa county,26033,26033,33,michigan,26,0,2015
+mi,clare county,26035,26035,35,michigan,26,0,2015
+mi,clinton county,26037,26037,37,michigan,26,0,2015
+mi,crawford county,26039,26039,39,michigan,26,0,2015
+mi,delta county,26041,26041,41,michigan,26,0,2015
+mi,dickinson county,26043,26043,43,michigan,26,0,2015
+mi,eaton county,26045,26045,45,michigan,26,0,2015
+mi,emmet county,26047,26047,47,michigan,26,0,2015
+mi,genesee county,26049,26049,49,michigan,26,0,2015
+mi,gladwin county,26051,26051,51,michigan,26,0,2015
+mi,gogebic county,26053,26053,53,michigan,26,0,2015
+mi,grand traverse county,26055,26055,55,michigan,26,0,2015
+mi,gratiot county,26057,26057,57,michigan,26,0,2015
+mi,hillsdale county,26059,26059,59,michigan,26,0,2015
+mi,houghton county,26061,26061,61,michigan,26,0,2015
+mi,huron county,26063,26063,63,michigan,26,0,2015
+mi,ingham county,26065,26065,65,michigan,26,0,2015
+mi,ionia county,26067,26067,67,michigan,26,0,2015
+mi,iosco county,26069,26069,69,michigan,26,0,2015
+mi,iron county,26071,26071,71,michigan,26,0,2015
+mi,isabella county,26073,26073,73,michigan,26,0,2015
+mi,jackson county,26075,26075,75,michigan,26,0,2015
+mi,kalamazoo county,26077,26077,77,michigan,26,0,2015
+mi,kalkaska county,26079,26079,79,michigan,26,0,2015
+mi,kent county,26081,26081,81,michigan,26,0,2015
+mi,keweenaw county,26083,26083,83,michigan,26,0,2015
+mi,lake county,26085,26085,85,michigan,26,0,2015
+mi,lapeer county,26087,26087,87,michigan,26,0,2015
+mi,leelanau county,26089,26089,89,michigan,26,0,2015
+mi,lenawee county,26091,26091,91,michigan,26,0,2015
+mi,livingston county,26093,26093,93,michigan,26,0,2015
+mi,luce county,26095,26095,95,michigan,26,0,2015
+mi,mackinac county,26097,26097,97,michigan,26,0,2015
+mi,macomb county,26099,26099,99,michigan,26,1,2015
+mi,manistee county,26101,26101,101,michigan,26,0,2015
+mi,marquette county,26103,26103,103,michigan,26,0,2015
+mi,mason county,26105,26105,105,michigan,26,0,2015
+mi,mecosta county,26107,26107,107,michigan,26,0,2015
+mi,menominee county,26109,26109,109,michigan,26,0,2015
+mi,midland county,26111,26111,111,michigan,26,0,2015
+mi,missaukee county,26113,26113,113,michigan,26,0,2015
+mi,monroe county,26115,26115,115,michigan,26,0,2015
+mi,montcalm county,26117,26117,117,michigan,26,0,2015
+mi,montmorency county,26119,26119,119,michigan,26,0,2015
+mi,muskegon county,26121,26121,121,michigan,26,0,2015
+mi,newaygo county,26123,26123,123,michigan,26,0,2015
+mi,oakland county,26125,26125,125,michigan,26,0,2015
+mi,oceana county,26127,26127,127,michigan,26,0,2015
+mi,ogemaw county,26129,26129,129,michigan,26,0,2015
+mi,ontonagon county,26131,26131,131,michigan,26,0,2015
+mi,osceola county,26133,26133,133,michigan,26,0,2015
+mi,oscoda county,26135,26135,135,michigan,26,0,2015
+mi,otsego county,26137,26137,137,michigan,26,0,2015
+mi,ottawa county,26139,26139,139,michigan,26,0,2015
+mi,presque isle county,26141,26141,141,michigan,26,0,2015
+mi,roscommon county,26143,26143,143,michigan,26,0,2015
+mi,saginaw county,26145,26145,145,michigan,26,0,2015
+mi,sanilac county,26151,26151,151,michigan,26,0,2015
+mi,schoolcraft county,26153,26153,153,michigan,26,0,2015
+mi,shiawassee county,26155,26155,155,michigan,26,0,2015
+mi,st. clair county,26147,26147,147,michigan,26,0,2015
+mi,st. joseph county,26149,26149,149,michigan,26,0,2015
+mi,tuscola county,26157,26157,157,michigan,26,0,2015
+mi,van buren county,26159,26159,159,michigan,26,0,2015
+mi,washtenaw county,26161,26161,161,michigan,26,0,2015
+mi,wayne county,26163,26163,163,michigan,26,1,2015
+mi,wexford county,26165,26165,165,michigan,26,0,2015
+mn,aitkin county,27001,27001,1,minnesota,27,0,2015
+mn,anoka county,27003,27003,3,minnesota,27,0,2015
+mn,becker county,27005,27005,5,minnesota,27,0,2015
+mn,beltrami county,27007,27007,7,minnesota,27,0,2015
+mn,benton county,27009,27009,9,minnesota,27,0,2015
+mn,big stone county,27011,27011,11,minnesota,27,0,2015
+mn,blue earth county,27013,27013,13,minnesota,27,0,2015
+mn,brown county,27015,27015,15,minnesota,27,0,2015
+mn,carlton county,27017,27017,17,minnesota,27,0,2015
+mn,carver county,27019,27019,19,minnesota,27,0,2015
+mn,cass county,27021,27021,21,minnesota,27,0,2015
+mn,chippewa county,27023,27023,23,minnesota,27,0,2015
+mn,chisago county,27025,27025,25,minnesota,27,0,2015
+mn,clay county,27027,27027,27,minnesota,27,0,2015
+mn,clearwater county,27029,27029,29,minnesota,27,0,2015
+mn,cook county,27031,27031,31,minnesota,27,0,2015
+mn,cottonwood county,27033,27033,33,minnesota,27,0,2015
+mn,crow wing county,27035,27035,35,minnesota,27,0,2015
+mn,dakota county,27037,27037,37,minnesota,27,0,2015
+mn,dodge county,27039,27039,39,minnesota,27,0,2015
+mn,douglas county,27041,27041,41,minnesota,27,0,2015
+mn,faribault county,27043,27043,43,minnesota,27,0,2015
+mn,fillmore county,27045,27045,45,minnesota,27,0,2015
+mn,freeborn county,27047,27047,47,minnesota,27,0,2015
+mn,goodhue county,27049,27049,49,minnesota,27,0,2015
+mn,grant county,27051,27051,51,minnesota,27,0,2015
+mn,hennepin county,27053,27053,53,minnesota,27,0,2015
+mn,houston county,27055,27055,55,minnesota,27,0,2015
+mn,hubbard county,27057,27057,57,minnesota,27,0,2015
+mn,isanti county,27059,27059,59,minnesota,27,0,2015
+mn,itasca county,27061,27061,61,minnesota,27,0,2015
+mn,jackson county,27063,27063,63,minnesota,27,0,2015
+mn,kanabec county,27065,27065,65,minnesota,27,0,2015
+mn,kandiyohi county,27067,27067,67,minnesota,27,0,2015
+mn,kittson county,27069,27069,69,minnesota,27,0,2015
+mn,koochiching county,27071,27071,71,minnesota,27,0,2015
+mn,lac qui parle county,27073,27073,73,minnesota,27,0,2015
+mn,lake county,27075,27075,75,minnesota,27,0,2015
+mn,lake of the woods county,27077,27077,77,minnesota,27,0,2015
+mn,le sueur county,27079,27079,79,minnesota,27,0,2015
+mn,lincoln county,27081,27081,81,minnesota,27,0,2015
+mn,lyon county,27083,27083,83,minnesota,27,0,2015
+mn,mahnomen county,27087,27087,87,minnesota,27,0,2015
+mn,marshall county,27089,27089,89,minnesota,27,0,2015
+mn,martin county,27091,27091,91,minnesota,27,0,2015
+mn,mcleod county,27085,27085,85,minnesota,27,0,2015
+mn,meeker county,27093,27093,93,minnesota,27,0,2015
+mn,mille lacs county,27095,27095,95,minnesota,27,0,2015
+mn,morrison county,27097,27097,97,minnesota,27,0,2015
+mn,mower county,27099,27099,99,minnesota,27,0,2015
+mn,murray county,27101,27101,101,minnesota,27,0,2015
+mn,nicollet county,27103,27103,103,minnesota,27,0,2015
+mn,nobles county,27105,27105,105,minnesota,27,0,2015
+mn,norman county,27107,27107,107,minnesota,27,0,2015
+mn,olmsted county,27109,27109,109,minnesota,27,0,2015
+mn,otter tail county,27111,27111,111,minnesota,27,0,2015
+mn,pennington county,27113,27113,113,minnesota,27,0,2015
+mn,pine county,27115,27115,115,minnesota,27,0,2015
+mn,pipestone county,27117,27117,117,minnesota,27,0,2015
+mn,polk county,27119,27119,119,minnesota,27,0,2015
+mn,pope county,27121,27121,121,minnesota,27,0,2015
+mn,ramsey county,27123,27123,123,minnesota,27,1,2015
+mn,red lake county,27125,27125,125,minnesota,27,0,2015
+mn,redwood county,27127,27127,127,minnesota,27,0,2015
+mn,renville county,27129,27129,129,minnesota,27,0,2015
+mn,rice county,27131,27131,131,minnesota,27,0,2015
+mn,rock county,27133,27133,133,minnesota,27,0,2015
+mn,roseau county,27135,27135,135,minnesota,27,0,2015
+mn,scott county,27139,27139,139,minnesota,27,0,2015
+mn,sherburne county,27141,27141,141,minnesota,27,0,2015
+mn,sibley county,27143,27143,143,minnesota,27,0,2015
+mn,st. louis county,27137,27137,137,minnesota,27,0,2015
+mn,stearns county,27145,27145,145,minnesota,27,0,2015
+mn,steele county,27147,27147,147,minnesota,27,0,2015
+mn,stevens county,27149,27149,149,minnesota,27,0,2015
+mn,swift county,27151,27151,151,minnesota,27,0,2015
+mn,todd county,27153,27153,153,minnesota,27,0,2015
+mn,traverse county,27155,27155,155,minnesota,27,0,2015
+mn,wabasha county,27157,27157,157,minnesota,27,0,2015
+mn,wadena county,27159,27159,159,minnesota,27,0,2015
+mn,waseca county,27161,27161,161,minnesota,27,0,2015
+mn,washington county,27163,27163,163,minnesota,27,0,2015
+mn,watonwan county,27165,27165,165,minnesota,27,0,2015
+mn,wilkin county,27167,27167,167,minnesota,27,0,2015
+mn,winona county,27169,27169,169,minnesota,27,0,2015
+mn,wright county,27171,27171,171,minnesota,27,0,2015
+mn,yellow medicine county,27173,27173,173,minnesota,27,0,2015
+mo,adair county,29001,29001,1,missouri,29,0,2015
+mo,andrew county,29003,29003,3,missouri,29,0,2015
+mo,atchison county,29005,29005,5,missouri,29,0,2015
+mo,audrain county,29007,29007,7,missouri,29,0,2015
+mo,barry county,29009,29009,9,missouri,29,0,2015
+mo,barton county,29011,29011,11,missouri,29,0,2015
+mo,bates county,29013,29013,13,missouri,29,0,2015
+mo,benton county,29015,29015,15,missouri,29,0,2015
+mo,bollinger county,29017,29017,17,missouri,29,0,2015
+mo,boone county,29019,29019,19,missouri,29,0,2015
+mo,buchanan county,29021,29021,21,missouri,29,0,2015
+mo,butler county,29023,29023,23,missouri,29,0,2015
+mo,caldwell county,29025,29025,25,missouri,29,0,2015
+mo,callaway county,29027,29027,27,missouri,29,0,2015
+mo,camden county,29029,29029,29,missouri,29,0,2015
+mo,cape girardeau county,29031,29031,31,missouri,29,0,2015
+mo,carroll county,29033,29033,33,missouri,29,0,2015
+mo,carter county,29035,29035,35,missouri,29,0,2015
+mo,cass county,29037,29037,37,missouri,29,0,2015
+mo,cedar county,29039,29039,39,missouri,29,0,2015
+mo,chariton county,29041,29041,41,missouri,29,0,2015
+mo,christian county,29043,29043,43,missouri,29,0,2015
+mo,clark county,29045,29045,45,missouri,29,0,2015
+mo,clay county,29047,29047,47,missouri,29,0,2015
+mo,clinton county,29049,29049,49,missouri,29,0,2015
+mo,cole county,29051,29051,51,missouri,29,0,2015
+mo,cooper county,29053,29053,53,missouri,29,0,2015
+mo,crawford county,29055,29055,55,missouri,29,0,2015
+mo,dade county,29057,29057,57,missouri,29,0,2015
+mo,dallas county,29059,29059,59,missouri,29,0,2015
+mo,daviess county,29061,29061,61,missouri,29,0,2015
+mo,dekalb county,29063,29063,63,missouri,29,0,2015
+mo,dent county,29065,29065,65,missouri,29,0,2015
+mo,douglas county,29067,29067,67,missouri,29,0,2015
+mo,dunklin county,29069,29069,69,missouri,29,0,2015
+mo,franklin county,29071,29071,71,missouri,29,0,2015
+mo,gasconade county,29073,29073,73,missouri,29,0,2015
+mo,gentry county,29075,29075,75,missouri,29,0,2015
+mo,greene county,29077,29077,77,missouri,29,0,2015
+mo,grundy county,29079,29079,79,missouri,29,0,2015
+mo,harrison county,29081,29081,81,missouri,29,0,2015
+mo,henry county,29083,29083,83,missouri,29,0,2015
+mo,hickory county,29085,29085,85,missouri,29,0,2015
+mo,holt county,29087,29087,87,missouri,29,0,2015
+mo,howard county,29089,29089,89,missouri,29,0,2015
+mo,howell county,29091,29091,91,missouri,29,0,2015
+mo,iron county,29093,29093,93,missouri,29,0,2015
+mo,jackson county,29095,29095,95,missouri,29,1,2015
+mo,jasper county,29097,29097,97,missouri,29,0,2015
+mo,jefferson county,29099,29099,99,missouri,29,1,2015
+mo,johnson county,29101,29101,101,missouri,29,0,2015
+mo,knox county,29103,29103,103,missouri,29,0,2015
+mo,laclede county,29105,29105,105,missouri,29,0,2015
+mo,lafayette county,29107,29107,107,missouri,29,0,2015
+mo,lawrence county,29109,29109,109,missouri,29,0,2015
+mo,lewis county,29111,29111,111,missouri,29,0,2015
+mo,lincoln county,29113,29113,113,missouri,29,0,2015
+mo,linn county,29115,29115,115,missouri,29,0,2015
+mo,livingston county,29117,29117,117,missouri,29,0,2015
+mo,macon county,29121,29121,121,missouri,29,0,2015
+mo,madison county,29123,29123,123,missouri,29,0,2015
+mo,maries county,29125,29125,125,missouri,29,0,2015
+mo,marion county,29127,29127,127,missouri,29,0,2015
+mo,mcdonald county,29119,29119,119,missouri,29,0,2015
+mo,mercer county,29129,29129,129,missouri,29,0,2015
+mo,miller county,29131,29131,131,missouri,29,0,2015
+mo,mississippi county,29133,29133,133,missouri,29,0,2015
+mo,moniteau county,29135,29135,135,missouri,29,0,2015
+mo,monroe county,29137,29137,137,missouri,29,0,2015
+mo,montgomery county,29139,29139,139,missouri,29,0,2015
+mo,morgan county,29141,29141,141,missouri,29,0,2015
+mo,new madrid county,29143,29143,143,missouri,29,0,2015
+mo,newton county,29145,29145,145,missouri,29,0,2015
+mo,nodaway county,29147,29147,147,missouri,29,0,2015
+mo,oregon county,29149,29149,149,missouri,29,0,2015
+mo,osage county,29151,29151,151,missouri,29,0,2015
+mo,ozark county,29153,29153,153,missouri,29,0,2015
+mo,pemiscot county,29155,29155,155,missouri,29,0,2015
+mo,perry county,29157,29157,157,missouri,29,0,2015
+mo,pettis county,29159,29159,159,missouri,29,0,2015
+mo,phelps county,29161,29161,161,missouri,29,0,2015
+mo,pike county,29163,29163,163,missouri,29,0,2015
+mo,platte county,29165,29165,165,missouri,29,0,2015
+mo,polk county,29167,29167,167,missouri,29,0,2015
+mo,pulaski county,29169,29169,169,missouri,29,0,2015
+mo,putnam county,29171,29171,171,missouri,29,0,2015
+mo,ralls county,29173,29173,173,missouri,29,0,2015
+mo,randolph county,29175,29175,175,missouri,29,0,2015
+mo,ray county,29177,29177,177,missouri,29,0,2015
+mo,reynolds county,29179,29179,179,missouri,29,0,2015
+mo,ripley county,29181,29181,181,missouri,29,0,2015
+mo,saline county,29195,29195,195,missouri,29,0,2015
+mo,schuyler county,29197,29197,197,missouri,29,0,2015
+mo,scotland county,29199,29199,199,missouri,29,0,2015
+mo,scott county,29201,29201,201,missouri,29,0,2015
+mo,shannon county,29203,29203,203,missouri,29,0,2015
+mo,shelby county,29205,29205,205,missouri,29,0,2015
+mo,st. charles county,29183,29183,183,missouri,29,1,2015
+mo,st. clair county,29185,29185,185,missouri,29,0,2015
+mo,st. francois county,29187,29187,187,missouri,29,0,2015
+mo,st. louis city,29510,29510,510,missouri,29,1,2015
+mo,st. louis county,29189,29189,189,missouri,29,0,2015
+mo,ste. genevieve county,29186,29186,186,missouri,29,0,2015
+mo,stoddard county,29207,29207,207,missouri,29,0,2015
+mo,stone county,29209,29209,209,missouri,29,0,2015
+mo,sullivan county,29211,29211,211,missouri,29,0,2015
+mo,taney county,29213,29213,213,missouri,29,0,2015
+mo,texas county,29215,29215,215,missouri,29,0,2015
+mo,vernon county,29217,29217,217,missouri,29,0,2015
+mo,warren county,29219,29219,219,missouri,29,0,2015
+mo,washington county,29221,29221,221,missouri,29,0,2015
+mo,wayne county,29223,29223,223,missouri,29,0,2015
+mo,webster county,29225,29225,225,missouri,29,0,2015
+mo,worth county,29227,29227,227,missouri,29,0,2015
+mo,wright county,29229,29229,229,missouri,29,0,2015
+ms,adams county,28001,28001,1,mississippi,28,1,2015
+ms,alcorn county,28003,28003,3,mississippi,28,1,2015
+ms,amite county,28005,28005,5,mississippi,28,1,2015
+ms,attala county,28007,28007,7,mississippi,28,1,2015
+ms,benton county,28009,28009,9,mississippi,28,1,2015
+ms,bolivar county,28011,28011,11,mississippi,28,1,2015
+ms,calhoun county,28013,28013,13,mississippi,28,1,2015
+ms,carroll county,28015,28015,15,mississippi,28,1,2015
+ms,chickasaw county,28017,28017,17,mississippi,28,1,2015
+ms,choctaw county,28019,28019,19,mississippi,28,1,2015
+ms,claiborne county,28021,28021,21,mississippi,28,1,2015
+ms,clarke county,28023,28023,23,mississippi,28,1,2015
+ms,clay county,28025,28025,25,mississippi,28,1,2015
+ms,coahoma county,28027,28027,27,mississippi,28,1,2015
+ms,copiah county,28029,28029,29,mississippi,28,1,2015
+ms,covington county,28031,28031,31,mississippi,28,1,2015
+ms,desoto county,28033,28033,33,mississippi,28,1,2015
+ms,forrest county,28035,28035,35,mississippi,28,1,2015
+ms,franklin county,28037,28037,37,mississippi,28,1,2015
+ms,george county,28039,28039,39,mississippi,28,1,2015
+ms,greene county,28041,28041,41,mississippi,28,1,2015
+ms,grenada county,28043,28043,43,mississippi,28,1,2015
+ms,hancock county,28045,28045,45,mississippi,28,1,2015
+ms,harrison county,28047,28047,47,mississippi,28,1,2015
+ms,hinds county,28049,28049,49,mississippi,28,1,2015
+ms,holmes county,28051,28051,51,mississippi,28,1,2015
+ms,humphreys county,28053,28053,53,mississippi,28,1,2015
+ms,issaquena county,28055,28055,55,mississippi,28,1,2015
+ms,itawamba county,28057,28057,57,mississippi,28,1,2015
+ms,jackson county,28059,28059,59,mississippi,28,1,2015
+ms,jasper county,28061,28061,61,mississippi,28,1,2015
+ms,jefferson county,28063,28063,63,mississippi,28,1,2015
+ms,jefferson davis county,28065,28065,65,mississippi,28,1,2015
+ms,jones county,28067,28067,67,mississippi,28,1,2015
+ms,kemper county,28069,28069,69,mississippi,28,1,2015
+ms,lafayette county,28071,28071,71,mississippi,28,1,2015
+ms,lamar county,28073,28073,73,mississippi,28,1,2015
+ms,lauderdale county,28075,28075,75,mississippi,28,1,2015
+ms,lawrence county,28077,28077,77,mississippi,28,1,2015
+ms,leake county,28079,28079,79,mississippi,28,1,2015
+ms,lee county,28081,28081,81,mississippi,28,1,2015
+ms,leflore county,28083,28083,83,mississippi,28,1,2015
+ms,lincoln county,28085,28085,85,mississippi,28,1,2015
+ms,lowndes county,28087,28087,87,mississippi,28,1,2015
+ms,madison county,28089,28089,89,mississippi,28,1,2015
+ms,marion county,28091,28091,91,mississippi,28,1,2015
+ms,marshall county,28093,28093,93,mississippi,28,1,2015
+ms,monroe county,28095,28095,95,mississippi,28,1,2015
+ms,montgomery county,28097,28097,97,mississippi,28,1,2015
+ms,neshoba county,28099,28099,99,mississippi,28,1,2015
+ms,newton county,28101,28101,101,mississippi,28,1,2015
+ms,noxubee county,28103,28103,103,mississippi,28,1,2015
+ms,oktibbeha county,28105,28105,105,mississippi,28,1,2015
+ms,panola county,28107,28107,107,mississippi,28,1,2015
+ms,pearl river county,28109,28109,109,mississippi,28,1,2015
+ms,perry county,28111,28111,111,mississippi,28,1,2015
+ms,pike county,28113,28113,113,mississippi,28,1,2015
+ms,pontotoc county,28115,28115,115,mississippi,28,1,2015
+ms,prentiss county,28117,28117,117,mississippi,28,1,2015
+ms,quitman county,28119,28119,119,mississippi,28,1,2015
+ms,rankin county,28121,28121,121,mississippi,28,1,2015
+ms,scott county,28123,28123,123,mississippi,28,1,2015
+ms,sharkey county,28125,28125,125,mississippi,28,1,2015
+ms,simpson county,28127,28127,127,mississippi,28,1,2015
+ms,smith county,28129,28129,129,mississippi,28,1,2015
+ms,stone county,28131,28131,131,mississippi,28,1,2015
+ms,sunflower county,28133,28133,133,mississippi,28,1,2015
+ms,tallahatchie county,28135,28135,135,mississippi,28,1,2015
+ms,tate county,28137,28137,137,mississippi,28,1,2015
+ms,tippah county,28139,28139,139,mississippi,28,1,2015
+ms,tishomingo county,28141,28141,141,mississippi,28,1,2015
+ms,tunica county,28143,28143,143,mississippi,28,1,2015
+ms,union county,28145,28145,145,mississippi,28,1,2015
+ms,walthall county,28147,28147,147,mississippi,28,1,2015
+ms,warren county,28149,28149,149,mississippi,28,1,2015
+ms,washington county,28151,28151,151,mississippi,28,1,2015
+ms,wayne county,28153,28153,153,mississippi,28,1,2015
+ms,webster county,28155,28155,155,mississippi,28,1,2015
+ms,wilkinson county,28157,28157,157,mississippi,28,1,2015
+ms,winston county,28159,28159,159,mississippi,28,1,2015
+ms,yalobusha county,28161,28161,161,mississippi,28,1,2015
+ms,yazoo county,28163,28163,163,mississippi,28,1,2015
+mt,beaverhead county,30001,30001,1,montana,30,1,2015
+mt,big horn county,30003,30003,3,montana,30,1,2015
+mt,blaine county,30005,30005,5,montana,30,1,2015
+mt,broadwater county,30007,30007,7,montana,30,1,2015
+mt,carbon county,30009,30009,9,montana,30,1,2015
+mt,carter county,30011,30011,11,montana,30,1,2015
+mt,cascade county,30013,30013,13,montana,30,1,2015
+mt,chouteau county,30015,30015,15,montana,30,1,2015
+mt,custer county,30017,30017,17,montana,30,1,2015
+mt,daniels county,30019,30019,19,montana,30,1,2015
+mt,dawson county,30021,30021,21,montana,30,1,2015
+mt,deer lodge county,30023,30023,23,montana,30,1,2015
+mt,fallon county,30025,30025,25,montana,30,1,2015
+mt,fergus county,30027,30027,27,montana,30,1,2015
+mt,flathead county,30029,30029,29,montana,30,1,2015
+mt,gallatin county,30031,30031,31,montana,30,1,2015
+mt,garfield county,30033,30033,33,montana,30,1,2015
+mt,glacier county,30035,30035,35,montana,30,1,2015
+mt,golden valley county,30037,30037,37,montana,30,1,2015
+mt,granite county,30039,30039,39,montana,30,1,2015
+mt,hill county,30041,30041,41,montana,30,1,2015
+mt,jefferson county,30043,30043,43,montana,30,1,2015
+mt,judith basin county,30045,30045,45,montana,30,1,2015
+mt,lake county,30047,30047,47,montana,30,1,2015
+mt,lewis and clark county,30049,30049,49,montana,30,1,2015
+mt,liberty county,30051,30051,51,montana,30,1,2015
+mt,lincoln county,30053,30053,53,montana,30,1,2015
+mt,madison county,30057,30057,57,montana,30,1,2015
+mt,mccone county,30055,30055,55,montana,30,1,2015
+mt,meagher county,30059,30059,59,montana,30,1,2015
+mt,mineral county,30061,30061,61,montana,30,1,2015
+mt,missoula county,30063,30063,63,montana,30,1,2015
+mt,musselshell county,30065,30065,65,montana,30,1,2015
+mt,park county,30067,30067,67,montana,30,1,2015
+mt,petroleum county,30069,30069,69,montana,30,1,2015
+mt,phillips county,30071,30071,71,montana,30,1,2015
+mt,pondera county,30073,30073,73,montana,30,1,2015
+mt,powder river county,30075,30075,75,montana,30,1,2015
+mt,powell county,30077,30077,77,montana,30,1,2015
+mt,prairie county,30079,30079,79,montana,30,1,2015
+mt,ravalli county,30081,30081,81,montana,30,1,2015
+mt,richland county,30083,30083,83,montana,30,1,2015
+mt,roosevelt county,30085,30085,85,montana,30,1,2015
+mt,rosebud county,30087,30087,87,montana,30,1,2015
+mt,sanders county,30089,30089,89,montana,30,1,2015
+mt,sheridan county,30091,30091,91,montana,30,1,2015
+mt,silver bow county,30093,30093,93,montana,30,1,2015
+mt,stillwater county,30095,30095,95,montana,30,1,2015
+mt,sweet grass county,30097,30097,97,montana,30,1,2015
+mt,teton county,30099,30099,99,montana,30,1,2015
+mt,toole county,30101,30101,101,montana,30,1,2015
+mt,treasure county,30103,30103,103,montana,30,1,2015
+mt,valley county,30105,30105,105,montana,30,1,2015
+mt,wheatland county,30107,30107,107,montana,30,1,2015
+mt,wibaux county,30109,30109,109,montana,30,1,2015
+mt,yellowstone county,30111,30111,111,montana,30,1,2015
+nc,alamance county,37001,37001,1,north carolina,37,0,2015
+nc,alexander county,37003,37003,3,north carolina,37,0,2015
+nc,alleghany county,37005,37005,5,north carolina,37,0,2015
+nc,anson county,37007,37007,7,north carolina,37,0,2015
+nc,ashe county,37009,37009,9,north carolina,37,0,2015
+nc,avery county,37011,37011,11,north carolina,37,0,2015
+nc,beaufort county,37013,37013,13,north carolina,37,0,2015
+nc,bertie county,37015,37015,15,north carolina,37,0,2015
+nc,bladen county,37017,37017,17,north carolina,37,0,2015
+nc,brunswick county,37019,37019,19,north carolina,37,0,2015
+nc,buncombe county,37021,37021,21,north carolina,37,0,2015
+nc,burke county,37023,37023,23,north carolina,37,0,2015
+nc,cabarrus county,37025,37025,25,north carolina,37,0,2015
+nc,caldwell county,37027,37027,27,north carolina,37,0,2015
+nc,camden county,37029,37029,29,north carolina,37,0,2015
+nc,carteret county,37031,37031,31,north carolina,37,0,2015
+nc,caswell county,37033,37033,33,north carolina,37,0,2015
+nc,catawba county,37035,37035,35,north carolina,37,0,2015
+nc,chatham county,37037,37037,37,north carolina,37,0,2015
+nc,cherokee county,37039,37039,39,north carolina,37,0,2015
+nc,chowan county,37041,37041,41,north carolina,37,0,2015
+nc,clay county,37043,37043,43,north carolina,37,0,2015
+nc,cleveland county,37045,37045,45,north carolina,37,0,2015
+nc,columbus county,37047,37047,47,north carolina,37,0,2015
+nc,craven county,37049,37049,49,north carolina,37,0,2015
+nc,cumberland county,37051,37051,51,north carolina,37,0,2015
+nc,currituck county,37053,37053,53,north carolina,37,0,2015
+nc,dare county,37055,37055,55,north carolina,37,0,2015
+nc,davidson county,37057,37057,57,north carolina,37,0,2015
+nc,davie county,37059,37059,59,north carolina,37,0,2015
+nc,duplin county,37061,37061,61,north carolina,37,0,2015
+nc,durham county,37063,37063,63,north carolina,37,0,2015
+nc,edgecombe county,37065,37065,65,north carolina,37,0,2015
+nc,forsyth county,37067,37067,67,north carolina,37,0,2015
+nc,franklin county,37069,37069,69,north carolina,37,0,2015
+nc,gaston county,37071,37071,71,north carolina,37,0,2015
+nc,gates county,37073,37073,73,north carolina,37,0,2015
+nc,graham county,37075,37075,75,north carolina,37,0,2015
+nc,granville county,37077,37077,77,north carolina,37,0,2015
+nc,greene county,37079,37079,79,north carolina,37,0,2015
+nc,guilford county,37081,37081,81,north carolina,37,0,2015
+nc,halifax county,37083,37083,83,north carolina,37,0,2015
+nc,harnett county,37085,37085,85,north carolina,37,0,2015
+nc,haywood county,37087,37087,87,north carolina,37,0,2015
+nc,henderson county,37089,37089,89,north carolina,37,0,2015
+nc,hertford county,37091,37091,91,north carolina,37,0,2015
+nc,hoke county,37093,37093,93,north carolina,37,0,2015
+nc,hyde county,37095,37095,95,north carolina,37,0,2015
+nc,iredell county,37097,37097,97,north carolina,37,0,2015
+nc,jackson county,37099,37099,99,north carolina,37,0,2015
+nc,johnston county,37101,37101,101,north carolina,37,0,2015
+nc,jones county,37103,37103,103,north carolina,37,0,2015
+nc,lee county,37105,37105,105,north carolina,37,0,2015
+nc,lenoir county,37107,37107,107,north carolina,37,0,2015
+nc,lincoln county,37109,37109,109,north carolina,37,0,2015
+nc,macon county,37113,37113,113,north carolina,37,0,2015
+nc,madison county,37115,37115,115,north carolina,37,0,2015
+nc,martin county,37117,37117,117,north carolina,37,0,2015
+nc,mcdowell county,37111,37111,111,north carolina,37,0,2015
+nc,mecklenburg county,37119,37119,119,north carolina,37,0,2015
+nc,mitchell county,37121,37121,121,north carolina,37,0,2015
+nc,montgomery county,37123,37123,123,north carolina,37,0,2015
+nc,moore county,37125,37125,125,north carolina,37,0,2015
+nc,nash county,37127,37127,127,north carolina,37,0,2015
+nc,new hanover county,37129,37129,129,north carolina,37,0,2015
+nc,northampton county,37131,37131,131,north carolina,37,0,2015
+nc,onslow county,37133,37133,133,north carolina,37,0,2015
+nc,orange county,37135,37135,135,north carolina,37,0,2015
+nc,pamlico county,37137,37137,137,north carolina,37,0,2015
+nc,pasquotank county,37139,37139,139,north carolina,37,0,2015
+nc,pender county,37141,37141,141,north carolina,37,0,2015
+nc,perquimans county,37143,37143,143,north carolina,37,0,2015
+nc,person county,37145,37145,145,north carolina,37,0,2015
+nc,pitt county,37147,37147,147,north carolina,37,0,2015
+nc,polk county,37149,37149,149,north carolina,37,0,2015
+nc,randolph county,37151,37151,151,north carolina,37,0,2015
+nc,richmond county,37153,37153,153,north carolina,37,0,2015
+nc,robeson county,37155,37155,155,north carolina,37,0,2015
+nc,rockingham county,37157,37157,157,north carolina,37,0,2015
+nc,rowan county,37159,37159,159,north carolina,37,0,2015
+nc,rutherford county,37161,37161,161,north carolina,37,0,2015
+nc,sampson county,37163,37163,163,north carolina,37,0,2015
+nc,scotland county,37165,37165,165,north carolina,37,0,2015
+nc,stanly county,37167,37167,167,north carolina,37,0,2015
+nc,stokes county,37169,37169,169,north carolina,37,0,2015
+nc,surry county,37171,37171,171,north carolina,37,0,2015
+nc,swain county,37173,37173,173,north carolina,37,0,2015
+nc,transylvania county,37175,37175,175,north carolina,37,0,2015
+nc,tyrrell county,37177,37177,177,north carolina,37,0,2015
+nc,union county,37179,37179,179,north carolina,37,0,2015
+nc,vance county,37181,37181,181,north carolina,37,0,2015
+nc,wake county,37183,37183,183,north carolina,37,0,2015
+nc,warren county,37185,37185,185,north carolina,37,0,2015
+nc,washington county,37187,37187,187,north carolina,37,0,2015
+nc,watauga county,37189,37189,189,north carolina,37,0,2015
+nc,wayne county,37191,37191,191,north carolina,37,0,2015
+nc,wilkes county,37193,37193,193,north carolina,37,0,2015
+nc,wilson county,37195,37195,195,north carolina,37,0,2015
+nc,yadkin county,37197,37197,197,north carolina,37,0,2015
+nc,yancey county,37199,37199,199,north carolina,37,0,2015
+nd,adams county,38001,38001,1,north dakota,38,0,2015
+nd,barnes county,38003,38003,3,north dakota,38,0,2015
+nd,benson county,38005,38005,5,north dakota,38,0,2015
+nd,billings county,38007,38007,7,north dakota,38,0,2015
+nd,bottineau county,38009,38009,9,north dakota,38,0,2015
+nd,bowman county,38011,38011,11,north dakota,38,0,2015
+nd,burke county,38013,38013,13,north dakota,38,0,2015
+nd,burleigh county,38015,38015,15,north dakota,38,1,2015
+nd,cass county,38017,38017,17,north dakota,38,1,2015
+nd,cavalier county,38019,38019,19,north dakota,38,0,2015
+nd,dickey county,38021,38021,21,north dakota,38,0,2015
+nd,divide county,38023,38023,23,north dakota,38,0,2015
+nd,dunn county,38025,38025,25,north dakota,38,0,2015
+nd,eddy county,38027,38027,27,north dakota,38,0,2015
+nd,emmons county,38029,38029,29,north dakota,38,0,2015
+nd,foster county,38031,38031,31,north dakota,38,0,2015
+nd,golden valley county,38033,38033,33,north dakota,38,0,2015
+nd,grand forks county,38035,38035,35,north dakota,38,0,2015
+nd,grant county,38037,38037,37,north dakota,38,0,2015
+nd,griggs county,38039,38039,39,north dakota,38,0,2015
+nd,hettinger county,38041,38041,41,north dakota,38,1,2015
+nd,kidder county,38043,38043,43,north dakota,38,0,2015
+nd,lamoure county,38045,38045,45,north dakota,38,0,2015
+nd,logan county,38047,38047,47,north dakota,38,0,2015
+nd,mchenry county,38049,38049,49,north dakota,38,0,2015
+nd,mcintosh county,38051,38051,51,north dakota,38,0,2015
+nd,mckenzie county,38053,38053,53,north dakota,38,0,2015
+nd,mclean county,38055,38055,55,north dakota,38,0,2015
+nd,mercer county,38057,38057,57,north dakota,38,0,2015
+nd,morton county,38059,38059,59,north dakota,38,1,2015
+nd,mountrail county,38061,38061,61,north dakota,38,0,2015
+nd,nelson county,38063,38063,63,north dakota,38,0,2015
+nd,oliver county,38065,38065,65,north dakota,38,0,2015
+nd,pembina county,38067,38067,67,north dakota,38,0,2015
+nd,pierce county,38069,38069,69,north dakota,38,0,2015
+nd,ramsey county,38071,38071,71,north dakota,38,0,2015
+nd,ransom county,38073,38073,73,north dakota,38,0,2015
+nd,renville county,38075,38075,75,north dakota,38,0,2015
+nd,richland county,38077,38077,77,north dakota,38,1,2015
+nd,rolette county,38079,38079,79,north dakota,38,0,2015
+nd,sargent county,38081,38081,81,north dakota,38,0,2015
+nd,sheridan county,38083,38083,83,north dakota,38,0,2015
+nd,sioux county,38085,38085,85,north dakota,38,0,2015
+nd,slope county,38087,38087,87,north dakota,38,0,2015
+nd,stark county,38089,38089,89,north dakota,38,0,2015
+nd,steele county,38091,38091,91,north dakota,38,1,2015
+nd,stutsman county,38093,38093,93,north dakota,38,1,2015
+nd,towner county,38095,38095,95,north dakota,38,0,2015
+nd,traill county,38097,38097,97,north dakota,38,0,2015
+nd,walsh county,38099,38099,99,north dakota,38,1,2015
+nd,ward county,38101,38101,101,north dakota,38,1,2015
+nd,wells county,38103,38103,103,north dakota,38,0,2015
+nd,williams county,38105,38105,105,north dakota,38,1,2015
+ne,adams county,31001,31001,1,nebraska,31,0,2015
+ne,antelope county,31003,31003,3,nebraska,31,0,2015
+ne,arthur county,31005,31005,5,nebraska,31,0,2015
+ne,banner county,31007,31007,7,nebraska,31,0,2015
+ne,blaine county,31009,31009,9,nebraska,31,0,2015
+ne,boone county,31011,31011,11,nebraska,31,0,2015
+ne,box butte county,31013,31013,13,nebraska,31,0,2015
+ne,boyd county,31015,31015,15,nebraska,31,0,2015
+ne,brown county,31017,31017,17,nebraska,31,0,2015
+ne,buffalo county,31019,31019,19,nebraska,31,0,2015
+ne,burt county,31021,31021,21,nebraska,31,0,2015
+ne,butler county,31023,31023,23,nebraska,31,0,2015
+ne,cass county,31025,31025,25,nebraska,31,0,2015
+ne,cedar county,31027,31027,27,nebraska,31,0,2015
+ne,chase county,31029,31029,29,nebraska,31,0,2015
+ne,cherry county,31031,31031,31,nebraska,31,0,2015
+ne,cheyenne county,31033,31033,33,nebraska,31,0,2015
+ne,clay county,31035,31035,35,nebraska,31,0,2015
+ne,colfax county,31037,31037,37,nebraska,31,0,2015
+ne,cuming county,31039,31039,39,nebraska,31,0,2015
+ne,custer county,31041,31041,41,nebraska,31,0,2015
+ne,dakota county,31043,31043,43,nebraska,31,0,2015
+ne,dawes county,31045,31045,45,nebraska,31,0,2015
+ne,dawson county,31047,31047,47,nebraska,31,0,2015
+ne,deuel county,31049,31049,49,nebraska,31,0,2015
+ne,dixon county,31051,31051,51,nebraska,31,0,2015
+ne,dodge county,31053,31053,53,nebraska,31,0,2015
+ne,douglas county,31055,31055,55,nebraska,31,0,2015
+ne,dundy county,31057,31057,57,nebraska,31,0,2015
+ne,fillmore county,31059,31059,59,nebraska,31,0,2015
+ne,franklin county,31061,31061,61,nebraska,31,0,2015
+ne,frontier county,31063,31063,63,nebraska,31,0,2015
+ne,furnas county,31065,31065,65,nebraska,31,0,2015
+ne,gage county,31067,31067,67,nebraska,31,0,2015
+ne,garden county,31069,31069,69,nebraska,31,0,2015
+ne,garfield county,31071,31071,71,nebraska,31,0,2015
+ne,gosper county,31073,31073,73,nebraska,31,0,2015
+ne,grant county,31075,31075,75,nebraska,31,0,2015
+ne,greeley county,31077,31077,77,nebraska,31,0,2015
+ne,hall county,31079,31079,79,nebraska,31,0,2015
+ne,hamilton county,31081,31081,81,nebraska,31,0,2015
+ne,harlan county,31083,31083,83,nebraska,31,0,2015
+ne,hayes county,31085,31085,85,nebraska,31,0,2015
+ne,hitchcock county,31087,31087,87,nebraska,31,0,2015
+ne,holt county,31089,31089,89,nebraska,31,0,2015
+ne,hooker county,31091,31091,91,nebraska,31,0,2015
+ne,howard county,31093,31093,93,nebraska,31,0,2015
+ne,jefferson county,31095,31095,95,nebraska,31,0,2015
+ne,johnson county,31097,31097,97,nebraska,31,0,2015
+ne,kearney county,31099,31099,99,nebraska,31,0,2015
+ne,keith county,31101,31101,101,nebraska,31,0,2015
+ne,keya paha county,31103,31103,103,nebraska,31,0,2015
+ne,kimball county,31105,31105,105,nebraska,31,0,2015
+ne,knox county,31107,31107,107,nebraska,31,0,2015
+ne,lancaster county,31109,31109,109,nebraska,31,0,2015
+ne,lincoln county,31111,31111,111,nebraska,31,0,2015
+ne,logan county,31113,31113,113,nebraska,31,0,2015
+ne,loup county,31115,31115,115,nebraska,31,0,2015
+ne,madison county,31119,31119,119,nebraska,31,0,2015
+ne,mcpherson county,31117,31117,117,nebraska,31,0,2015
+ne,merrick county,31121,31121,121,nebraska,31,0,2015
+ne,morrill county,31123,31123,123,nebraska,31,0,2015
+ne,nance county,31125,31125,125,nebraska,31,0,2015
+ne,nemaha county,31127,31127,127,nebraska,31,0,2015
+ne,nuckolls county,31129,31129,129,nebraska,31,0,2015
+ne,otoe county,31131,31131,131,nebraska,31,0,2015
+ne,pawnee county,31133,31133,133,nebraska,31,0,2015
+ne,perkins county,31135,31135,135,nebraska,31,0,2015
+ne,phelps county,31137,31137,137,nebraska,31,0,2015
+ne,pierce county,31139,31139,139,nebraska,31,0,2015
+ne,platte county,31141,31141,141,nebraska,31,0,2015
+ne,polk county,31143,31143,143,nebraska,31,0,2015
+ne,red willow county,31145,31145,145,nebraska,31,0,2015
+ne,richardson county,31147,31147,147,nebraska,31,0,2015
+ne,rock county,31149,31149,149,nebraska,31,0,2015
+ne,saline county,31151,31151,151,nebraska,31,0,2015
+ne,sarpy county,31153,31153,153,nebraska,31,0,2015
+ne,saunders county,31155,31155,155,nebraska,31,0,2015
+ne,scotts bluff county,31157,31157,157,nebraska,31,0,2015
+ne,seward county,31159,31159,159,nebraska,31,0,2015
+ne,sheridan county,31161,31161,161,nebraska,31,0,2015
+ne,sherman county,31163,31163,163,nebraska,31,0,2015
+ne,sioux county,31165,31165,165,nebraska,31,0,2015
+ne,stanton county,31167,31167,167,nebraska,31,0,2015
+ne,thayer county,31169,31169,169,nebraska,31,0,2015
+ne,thomas county,31171,31171,171,nebraska,31,0,2015
+ne,thurston county,31173,31173,173,nebraska,31,0,2015
+ne,valley county,31175,31175,175,nebraska,31,0,2015
+ne,washington county,31177,31177,177,nebraska,31,0,2015
+ne,wayne county,31179,31179,179,nebraska,31,0,2015
+ne,webster county,31181,31181,181,nebraska,31,0,2015
+ne,wheeler county,31183,31183,183,nebraska,31,0,2015
+ne,york county,31185,31185,185,nebraska,31,0,2015
+nh,belknap county,33001,33001,1,new hampshire,33,0,2015
+nh,carroll county,33003,33003,3,new hampshire,33,0,2015
+nh,cheshire county,33005,33005,5,new hampshire,33,0,2015
+nh,coos county,33007,33007,7,new hampshire,33,0,2015
+nh,grafton county,33009,33009,9,new hampshire,33,0,2015
+nh,hillsborough county,33011,33011,11,new hampshire,33,0,2015
+nh,merrimack county,33013,33013,13,new hampshire,33,0,2015
+nh,rockingham county,33015,33015,15,new hampshire,33,0,2015
+nh,strafford county,33017,33017,17,new hampshire,33,0,2015
+nh,sullivan county,33019,33019,19,new hampshire,33,0,2015
+nj,atlantic county,34001,34001,1,new jersey,34,1,2015
+nj,bergen county,34003,34003,3,new jersey,34,1,2015
+nj,burlington county,34005,34005,5,new jersey,34,0,2015
+nj,camden county,34007,34007,7,new jersey,34,0,2015
+nj,cape may county,34009,34009,9,new jersey,34,0,2015
+nj,cumberland county,34011,34011,11,new jersey,34,0,2015
+nj,essex county,34013,34013,13,new jersey,34,1,2015
+nj,gloucester county,34015,34015,15,new jersey,34,0,2015
+nj,hudson county,34017,34017,17,new jersey,34,1,2015
+nj,hunterdon county,34019,34019,19,new jersey,34,0,2015
+nj,mercer county,34021,34021,21,new jersey,34,1,2015
+nj,middlesex county,34023,34023,23,new jersey,34,0,2015
+nj,monmouth county,34025,34025,25,new jersey,34,0,2015
+nj,morris county,34027,34027,27,new jersey,34,0,2015
+nj,ocean county,34029,34029,29,new jersey,34,0,2015
+nj,passaic county,34031,34031,31,new jersey,34,0,2015
+nj,salem county,34033,34033,33,new jersey,34,0,2015
+nj,somerset county,34035,34035,35,new jersey,34,0,2015
+nj,sussex county,34037,34037,37,new jersey,34,0,2015
+nj,union county,34039,34039,39,new jersey,34,1,2015
+nj,warren county,34041,34041,41,new jersey,34,0,2015
+nm,bernalillo county,35001,35001,1,new mexico,35,0,2015
+nm,catron county,35003,35003,3,new mexico,35,0,2015
+nm,chaves county,35005,35005,5,new mexico,35,0,2015
+nm,cibola county,35006,35006,6,new mexico,35,0,2015
+nm,colfax county,35007,35007,7,new mexico,35,0,2015
+nm,curry county,35009,35009,9,new mexico,35,0,2015
+nm,de baca county,35011,35011,11,new mexico,35,0,2015
+nm,doña ana county,35013,35013,13,new mexico,35,0,2015
+nm,eddy county,35015,35015,15,new mexico,35,0,2015
+nm,grant county,35017,35017,17,new mexico,35,0,2015
+nm,guadalupe county,35019,35019,19,new mexico,35,0,2015
+nm,harding county,35021,35021,21,new mexico,35,0,2015
+nm,hidalgo county,35023,35023,23,new mexico,35,0,2015
+nm,lea county,35025,35025,25,new mexico,35,0,2015
+nm,lincoln county,35027,35027,27,new mexico,35,0,2015
+nm,los alamos county,35028,35028,28,new mexico,35,1,2015
+nm,luna county,35029,35029,29,new mexico,35,0,2015
+nm,mckinley county,35031,35031,31,new mexico,35,0,2015
+nm,mora county,35033,35033,33,new mexico,35,0,2015
+nm,otero county,35035,35035,35,new mexico,35,0,2015
+nm,quay county,35037,35037,37,new mexico,35,0,2015
+nm,rio arriba county,35039,35039,39,new mexico,35,0,2015
+nm,roosevelt county,35041,35041,41,new mexico,35,0,2015
+nm,san juan county,35045,35045,45,new mexico,35,0,2015
+nm,san miguel county,35047,35047,47,new mexico,35,0,2015
+nm,sandoval county,35043,35043,43,new mexico,35,0,2015
+nm,santa fe county,35049,35049,49,new mexico,35,0,2015
+nm,sierra county,35051,35051,51,new mexico,35,0,2015
+nm,socorro county,35053,35053,53,new mexico,35,0,2015
+nm,taos county,35055,35055,55,new mexico,35,0,2015
+nm,torrance county,35057,35057,57,new mexico,35,0,2015
+nm,union county,35059,35059,59,new mexico,35,0,2015
+nm,valencia county,35061,35061,61,new mexico,35,0,2015
+nv,carson city,32510,32510,510,nevada,32,1,2015
+nv,churchill county,32001,32001,1,nevada,32,0,2015
+nv,clark county,32003,32003,3,nevada,32,0,2015
+nv,douglas county,32005,32005,5,nevada,32,0,2015
+nv,elko county,32007,32007,7,nevada,32,0,2015
+nv,esmeralda county,32009,32009,9,nevada,32,0,2015
+nv,eureka county,32011,32011,11,nevada,32,0,2015
+nv,humboldt county,32013,32013,13,nevada,32,0,2015
+nv,lander county,32015,32015,15,nevada,32,0,2015
+nv,lincoln county,32017,32017,17,nevada,32,0,2015
+nv,lyon county,32019,32019,19,nevada,32,0,2015
+nv,mineral county,32021,32021,21,nevada,32,0,2015
+nv,nye county,32023,32023,23,nevada,32,0,2015
+nv,pershing county,32027,32027,27,nevada,32,0,2015
+nv,storey county,32029,32029,29,nevada,32,0,2015
+nv,washoe county,32031,32031,31,nevada,32,0,2015
+nv,white pine county,32033,32033,33,nevada,32,0,2015
+ny,albany county,36001,36001,1,new york,36,1,2015
+ny,allegany county,36003,36003,3,new york,36,1,2015
+ny,bronx county,36005,36005,5,new york,36,1,2015
+ny,broome county,36007,36007,7,new york,36,1,2015
+ny,cattaraugus county,36009,36009,9,new york,36,1,2015
+ny,cayuga county,36011,36011,11,new york,36,1,2015
+ny,chautauqua county,36013,36013,13,new york,36,1,2015
+ny,chemung county,36015,36015,15,new york,36,1,2015
+ny,chenango county,36017,36017,17,new york,36,1,2015
+ny,clinton county,36019,36019,19,new york,36,1,2015
+ny,columbia county,36021,36021,21,new york,36,1,2015
+ny,cortland county,36023,36023,23,new york,36,1,2015
+ny,delaware county,36025,36025,25,new york,36,1,2015
+ny,dutchess county,36027,36027,27,new york,36,1,2015
+ny,erie county,36029,36029,29,new york,36,1,2015
+ny,essex county,36031,36031,31,new york,36,1,2015
+ny,franklin county,36033,36033,33,new york,36,1,2015
+ny,fulton county,36035,36035,35,new york,36,1,2015
+ny,genesee county,36037,36037,37,new york,36,1,2015
+ny,greene county,36039,36039,39,new york,36,1,2015
+ny,hamilton county,36041,36041,41,new york,36,1,2015
+ny,herkimer county,36043,36043,43,new york,36,1,2015
+ny,jefferson county,36045,36045,45,new york,36,1,2015
+ny,kings county,36047,36047,47,new york,36,1,2015
+ny,lewis county,36049,36049,49,new york,36,1,2015
+ny,livingston county,36051,36051,51,new york,36,1,2015
+ny,madison county,36053,36053,53,new york,36,1,2015
+ny,monroe county,36055,36055,55,new york,36,1,2015
+ny,montgomery county,36057,36057,57,new york,36,1,2015
+ny,nassau county,36059,36059,59,new york,36,1,2015
+ny,new york county,36061,36061,61,new york,36,1,2015
+ny,niagara county,36063,36063,63,new york,36,1,2015
+ny,oneida county,36065,36065,65,new york,36,1,2015
+ny,onondaga county,36067,36067,67,new york,36,1,2015
+ny,ontario county,36069,36069,69,new york,36,1,2015
+ny,orange county,36071,36071,71,new york,36,1,2015
+ny,orleans county,36073,36073,73,new york,36,1,2015
+ny,oswego county,36075,36075,75,new york,36,1,2015
+ny,otsego county,36077,36077,77,new york,36,1,2015
+ny,putnam county,36079,36079,79,new york,36,1,2015
+ny,queens county,36081,36081,81,new york,36,1,2015
+ny,rensselaer county,36083,36083,83,new york,36,1,2015
+ny,richmond county,36085,36085,85,new york,36,1,2015
+ny,rockland county,36087,36087,87,new york,36,1,2015
+ny,saratoga county,36091,36091,91,new york,36,1,2015
+ny,schenectady county,36093,36093,93,new york,36,1,2015
+ny,schoharie county,36095,36095,95,new york,36,1,2015
+ny,schuyler county,36097,36097,97,new york,36,1,2015
+ny,seneca county,36099,36099,99,new york,36,1,2015
+ny,st. lawrence county,36089,36089,89,new york,36,1,2015
+ny,steuben county,36101,36101,101,new york,36,1,2015
+ny,suffolk county,36103,36103,103,new york,36,1,2015
+ny,sullivan county,36105,36105,105,new york,36,1,2015
+ny,tioga county,36107,36107,107,new york,36,1,2015
+ny,tompkins county,36109,36109,109,new york,36,1,2015
+ny,ulster county,36111,36111,111,new york,36,1,2015
+ny,warren county,36113,36113,113,new york,36,1,2015
+ny,washington county,36115,36115,115,new york,36,1,2015
+ny,wayne county,36117,36117,117,new york,36,1,2015
+ny,westchester county,36119,36119,119,new york,36,1,2015
+ny,wyoming county,36121,36121,121,new york,36,1,2015
+ny,yates county,36123,36123,123,new york,36,1,2015
+oh,adams county,39001,39001,1,ohio,39,0,2015
+oh,allen county,39003,39003,3,ohio,39,0,2015
+oh,ashland county,39005,39005,5,ohio,39,0,2015
+oh,ashtabula county,39007,39007,7,ohio,39,0,2015
+oh,athens county,39009,39009,9,ohio,39,0,2015
+oh,auglaize county,39011,39011,11,ohio,39,0,2015
+oh,belmont county,39013,39013,13,ohio,39,0,2015
+oh,brown county,39015,39015,15,ohio,39,0,2015
+oh,butler county,39017,39017,17,ohio,39,0,2015
+oh,carroll county,39019,39019,19,ohio,39,0,2015
+oh,champaign county,39021,39021,21,ohio,39,0,2015
+oh,clark county,39023,39023,23,ohio,39,0,2015
+oh,clermont county,39025,39025,25,ohio,39,0,2015
+oh,clinton county,39027,39027,27,ohio,39,0,2015
+oh,columbiana county,39029,39029,29,ohio,39,0,2015
+oh,coshocton county,39031,39031,31,ohio,39,0,2015
+oh,crawford county,39033,39033,33,ohio,39,0,2015
+oh,cuyahoga county,39035,39035,35,ohio,39,1,2015
+oh,darke county,39037,39037,37,ohio,39,0,2015
+oh,defiance county,39039,39039,39,ohio,39,0,2015
+oh,delaware county,39041,39041,41,ohio,39,0,2015
+oh,erie county,39043,39043,43,ohio,39,0,2015
+oh,fairfield county,39045,39045,45,ohio,39,0,2015
+oh,fayette county,39047,39047,47,ohio,39,0,2015
+oh,franklin county,39049,39049,49,ohio,39,0,2015
+oh,fulton county,39051,39051,51,ohio,39,0,2015
+oh,gallia county,39053,39053,53,ohio,39,0,2015
+oh,geauga county,39055,39055,55,ohio,39,0,2015
+oh,greene county,39057,39057,57,ohio,39,0,2015
+oh,guernsey county,39059,39059,59,ohio,39,0,2015
+oh,hamilton county,39061,39061,61,ohio,39,0,2015
+oh,hancock county,39063,39063,63,ohio,39,0,2015
+oh,hardin county,39065,39065,65,ohio,39,0,2015
+oh,harrison county,39067,39067,67,ohio,39,0,2015
+oh,henry county,39069,39069,69,ohio,39,0,2015
+oh,highland county,39071,39071,71,ohio,39,0,2015
+oh,hocking county,39073,39073,73,ohio,39,0,2015
+oh,holmes county,39075,39075,75,ohio,39,0,2015
+oh,huron county,39077,39077,77,ohio,39,0,2015
+oh,jackson county,39079,39079,79,ohio,39,0,2015
+oh,jefferson county,39081,39081,81,ohio,39,0,2015
+oh,knox county,39083,39083,83,ohio,39,0,2015
+oh,lake county,39085,39085,85,ohio,39,0,2015
+oh,lawrence county,39087,39087,87,ohio,39,0,2015
+oh,licking county,39089,39089,89,ohio,39,0,2015
+oh,logan county,39091,39091,91,ohio,39,0,2015
+oh,lorain county,39093,39093,93,ohio,39,0,2015
+oh,lucas county,39095,39095,95,ohio,39,0,2015
+oh,madison county,39097,39097,97,ohio,39,0,2015
+oh,mahoning county,39099,39099,99,ohio,39,0,2015
+oh,marion county,39101,39101,101,ohio,39,0,2015
+oh,medina county,39103,39103,103,ohio,39,0,2015
+oh,meigs county,39105,39105,105,ohio,39,0,2015
+oh,mercer county,39107,39107,107,ohio,39,0,2015
+oh,miami county,39109,39109,109,ohio,39,0,2015
+oh,monroe county,39111,39111,111,ohio,39,0,2015
+oh,montgomery county,39113,39113,113,ohio,39,0,2015
+oh,morgan county,39115,39115,115,ohio,39,0,2015
+oh,morrow county,39117,39117,117,ohio,39,0,2015
+oh,muskingum county,39119,39119,119,ohio,39,0,2015
+oh,noble county,39121,39121,121,ohio,39,0,2015
+oh,ottawa county,39123,39123,123,ohio,39,0,2015
+oh,paulding county,39125,39125,125,ohio,39,0,2015
+oh,perry county,39127,39127,127,ohio,39,0,2015
+oh,pickaway county,39129,39129,129,ohio,39,0,2015
+oh,pike county,39131,39131,131,ohio,39,0,2015
+oh,portage county,39133,39133,133,ohio,39,0,2015
+oh,preble county,39135,39135,135,ohio,39,0,2015
+oh,putnam county,39137,39137,137,ohio,39,0,2015
+oh,richland county,39139,39139,139,ohio,39,0,2015
+oh,ross county,39141,39141,141,ohio,39,0,2015
+oh,sandusky county,39143,39143,143,ohio,39,0,2015
+oh,scioto county,39145,39145,145,ohio,39,0,2015
+oh,seneca county,39147,39147,147,ohio,39,0,2015
+oh,shelby county,39149,39149,149,ohio,39,0,2015
+oh,stark county,39151,39151,151,ohio,39,0,2015
+oh,summit county,39153,39153,153,ohio,39,1,2015
+oh,trumbull county,39155,39155,155,ohio,39,0,2015
+oh,tuscarawas county,39157,39157,157,ohio,39,0,2015
+oh,union county,39159,39159,159,ohio,39,0,2015
+oh,van wert county,39161,39161,161,ohio,39,0,2015
+oh,vinton county,39163,39163,163,ohio,39,0,2015
+oh,warren county,39165,39165,165,ohio,39,0,2015
+oh,washington county,39167,39167,167,ohio,39,0,2015
+oh,wayne county,39169,39169,169,ohio,39,0,2015
+oh,williams county,39171,39171,171,ohio,39,0,2015
+oh,wood county,39173,39173,173,ohio,39,0,2015
+oh,wyandot county,39175,39175,175,ohio,39,0,2015
+ok,adair county,40001,40001,1,oklahoma,40,0,2015
+ok,alfalfa county,40003,40003,3,oklahoma,40,0,2015
+ok,atoka county,40005,40005,5,oklahoma,40,0,2015
+ok,beaver county,40007,40007,7,oklahoma,40,0,2015
+ok,beckham county,40009,40009,9,oklahoma,40,0,2015
+ok,blaine county,40011,40011,11,oklahoma,40,0,2015
+ok,bryan county,40013,40013,13,oklahoma,40,0,2015
+ok,caddo county,40015,40015,15,oklahoma,40,0,2015
+ok,canadian county,40017,40017,17,oklahoma,40,0,2015
+ok,carter county,40019,40019,19,oklahoma,40,0,2015
+ok,cherokee county,40021,40021,21,oklahoma,40,0,2015
+ok,choctaw county,40023,40023,23,oklahoma,40,0,2015
+ok,cimarron county,40025,40025,25,oklahoma,40,0,2015
+ok,cleveland county,40027,40027,27,oklahoma,40,0,2015
+ok,coal county,40029,40029,29,oklahoma,40,0,2015
+ok,comanche county,40031,40031,31,oklahoma,40,0,2015
+ok,cotton county,40033,40033,33,oklahoma,40,0,2015
+ok,craig county,40035,40035,35,oklahoma,40,0,2015
+ok,creek county,40037,40037,37,oklahoma,40,0,2015
+ok,custer county,40039,40039,39,oklahoma,40,0,2015
+ok,delaware county,40041,40041,41,oklahoma,40,0,2015
+ok,dewey county,40043,40043,43,oklahoma,40,0,2015
+ok,ellis county,40045,40045,45,oklahoma,40,0,2015
+ok,garfield county,40047,40047,47,oklahoma,40,0,2015
+ok,garvin county,40049,40049,49,oklahoma,40,0,2015
+ok,grady county,40051,40051,51,oklahoma,40,0,2015
+ok,grant county,40053,40053,53,oklahoma,40,0,2015
+ok,greer county,40055,40055,55,oklahoma,40,0,2015
+ok,harmon county,40057,40057,57,oklahoma,40,0,2015
+ok,harper county,40059,40059,59,oklahoma,40,0,2015
+ok,haskell county,40061,40061,61,oklahoma,40,0,2015
+ok,hughes county,40063,40063,63,oklahoma,40,0,2015
+ok,jackson county,40065,40065,65,oklahoma,40,0,2015
+ok,jefferson county,40067,40067,67,oklahoma,40,0,2015
+ok,johnston county,40069,40069,69,oklahoma,40,0,2015
+ok,kay county,40071,40071,71,oklahoma,40,0,2015
+ok,kingfisher county,40073,40073,73,oklahoma,40,0,2015
+ok,kiowa county,40075,40075,75,oklahoma,40,0,2015
+ok,latimer county,40077,40077,77,oklahoma,40,0,2015
+ok,le flore county,40079,40079,79,oklahoma,40,0,2015
+ok,lincoln county,40081,40081,81,oklahoma,40,0,2015
+ok,logan county,40083,40083,83,oklahoma,40,0,2015
+ok,love county,40085,40085,85,oklahoma,40,0,2015
+ok,major county,40093,40093,93,oklahoma,40,0,2015
+ok,marshall county,40095,40095,95,oklahoma,40,0,2015
+ok,mayes county,40097,40097,97,oklahoma,40,0,2015
+ok,mcclain county,40087,40087,87,oklahoma,40,0,2015
+ok,mccurtain county,40089,40089,89,oklahoma,40,0,2015
+ok,mcintosh county,40091,40091,91,oklahoma,40,0,2015
+ok,murray county,40099,40099,99,oklahoma,40,0,2015
+ok,muskogee county,40101,40101,101,oklahoma,40,0,2015
+ok,noble county,40103,40103,103,oklahoma,40,0,2015
+ok,nowata county,40105,40105,105,oklahoma,40,0,2015
+ok,okfuskee county,40107,40107,107,oklahoma,40,0,2015
+ok,oklahoma county,40109,40109,109,oklahoma,40,0,2015
+ok,okmulgee county,40111,40111,111,oklahoma,40,0,2015
+ok,osage county,40113,40113,113,oklahoma,40,0,2015
+ok,ottawa county,40115,40115,115,oklahoma,40,0,2015
+ok,pawnee county,40117,40117,117,oklahoma,40,0,2015
+ok,payne county,40119,40119,119,oklahoma,40,0,2015
+ok,pittsburg county,40121,40121,121,oklahoma,40,0,2015
+ok,pontotoc county,40123,40123,123,oklahoma,40,0,2015
+ok,pottawatomie county,40125,40125,125,oklahoma,40,0,2015
+ok,pushmataha county,40127,40127,127,oklahoma,40,0,2015
+ok,roger mills county,40129,40129,129,oklahoma,40,0,2015
+ok,rogers county,40131,40131,131,oklahoma,40,0,2015
+ok,seminole county,40133,40133,133,oklahoma,40,0,2015
+ok,sequoyah county,40135,40135,135,oklahoma,40,0,2015
+ok,stephens county,40137,40137,137,oklahoma,40,0,2015
+ok,texas county,40139,40139,139,oklahoma,40,0,2015
+ok,tillman county,40141,40141,141,oklahoma,40,0,2015
+ok,tulsa county,40143,40143,143,oklahoma,40,0,2015
+ok,wagoner county,40145,40145,145,oklahoma,40,0,2015
+ok,washington county,40147,40147,147,oklahoma,40,0,2015
+ok,washita county,40149,40149,149,oklahoma,40,0,2015
+ok,woods county,40151,40151,151,oklahoma,40,0,2015
+ok,woodward county,40153,40153,153,oklahoma,40,0,2015
+or,baker county,41001,41001,1,oregon,41,0,2015
+or,benton county,41003,41003,3,oregon,41,1,2015
+or,clackamas county,41005,41005,5,oregon,41,0,2015
+or,clatsop county,41007,41007,7,oregon,41,1,2015
+or,columbia county,41009,41009,9,oregon,41,0,2015
+or,coos county,41011,41011,11,oregon,41,0,2015
+or,crook county,41013,41013,13,oregon,41,0,2015
+or,curry county,41015,41015,15,oregon,41,0,2015
+or,deschutes county,41017,41017,17,oregon,41,0,2015
+or,douglas county,41019,41019,19,oregon,41,0,2015
+or,gilliam county,41021,41021,21,oregon,41,0,2015
+or,grant county,41023,41023,23,oregon,41,0,2015
+or,harney county,41025,41025,25,oregon,41,0,2015
+or,hood river county,41027,41027,27,oregon,41,1,2015
+or,jackson county,41029,41029,29,oregon,41,1,2015
+or,jefferson county,41031,41031,31,oregon,41,0,2015
+or,josephine county,41033,41033,33,oregon,41,1,2015
+or,klamath county,41035,41035,35,oregon,41,0,2015
+or,lake county,41037,41037,37,oregon,41,0,2015
+or,lane county,41039,41039,39,oregon,41,1,2015
+or,lincoln county,41041,41041,41,oregon,41,0,2015
+or,linn county,41043,41043,43,oregon,41,0,2015
+or,malheur county,41045,41045,45,oregon,41,0,2015
+or,marion county,41047,41047,47,oregon,41,0,2015
+or,morrow county,41049,41049,49,oregon,41,0,2015
+or,multnomah county,41051,41051,51,oregon,41,1,2015
+or,polk county,41053,41053,53,oregon,41,0,2015
+or,sherman county,41055,41055,55,oregon,41,0,2015
+or,tillamook county,41057,41057,57,oregon,41,0,2015
+or,umatilla county,41059,41059,59,oregon,41,1,2015
+or,union county,41061,41061,61,oregon,41,0,2015
+or,wallowa county,41063,41063,63,oregon,41,0,2015
+or,wasco county,41065,41065,65,oregon,41,0,2015
+or,washington county,41067,41067,67,oregon,41,1,2015
+or,wheeler county,41069,41069,69,oregon,41,0,2015
+or,yamhill county,41071,41071,71,oregon,41,0,2015
+pa,adams county,42001,42001,1,pennsylvania,42,0,2015
+pa,allegheny county,42003,42003,3,pennsylvania,42,1,2015
+pa,armstrong county,42005,42005,5,pennsylvania,42,0,2015
+pa,beaver county,42007,42007,7,pennsylvania,42,0,2015
+pa,bedford county,42009,42009,9,pennsylvania,42,0,2015
+pa,berks county,42011,42011,11,pennsylvania,42,0,2015
+pa,blair county,42013,42013,13,pennsylvania,42,0,2015
+pa,bradford county,42015,42015,15,pennsylvania,42,0,2015
+pa,bucks county,42017,42017,17,pennsylvania,42,0,2015
+pa,butler county,42019,42019,19,pennsylvania,42,0,2015
+pa,cambria county,42021,42021,21,pennsylvania,42,0,2015
+pa,cameron county,42023,42023,23,pennsylvania,42,0,2015
+pa,carbon county,42025,42025,25,pennsylvania,42,0,2015
+pa,centre county,42027,42027,27,pennsylvania,42,0,2015
+pa,chester county,42029,42029,29,pennsylvania,42,0,2015
+pa,clarion county,42031,42031,31,pennsylvania,42,0,2015
+pa,clearfield county,42033,42033,33,pennsylvania,42,0,2015
+pa,clinton county,42035,42035,35,pennsylvania,42,0,2015
+pa,columbia county,42037,42037,37,pennsylvania,42,0,2015
+pa,crawford county,42039,42039,39,pennsylvania,42,0,2015
+pa,cumberland county,42041,42041,41,pennsylvania,42,0,2015
+pa,dauphin county,42043,42043,43,pennsylvania,42,0,2015
+pa,delaware county,42045,42045,45,pennsylvania,42,1,2015
+pa,elk county,42047,42047,47,pennsylvania,42,0,2015
+pa,erie county,42049,42049,49,pennsylvania,42,1,2015
+pa,fayette county,42051,42051,51,pennsylvania,42,0,2015
+pa,forest county,42053,42053,53,pennsylvania,42,0,2015
+pa,franklin county,42055,42055,55,pennsylvania,42,0,2015
+pa,fulton county,42057,42057,57,pennsylvania,42,0,2015
+pa,greene county,42059,42059,59,pennsylvania,42,0,2015
+pa,huntingdon county,42061,42061,61,pennsylvania,42,0,2015
+pa,indiana county,42063,42063,63,pennsylvania,42,0,2015
+pa,jefferson county,42065,42065,65,pennsylvania,42,0,2015
+pa,juniata county,42067,42067,67,pennsylvania,42,0,2015
+pa,lackawanna county,42069,42069,69,pennsylvania,42,1,2015
+pa,lancaster county,42071,42071,71,pennsylvania,42,0,2015
+pa,lawrence county,42073,42073,73,pennsylvania,42,0,2015
+pa,lebanon county,42075,42075,75,pennsylvania,42,0,2015
+pa,lehigh county,42077,42077,77,pennsylvania,42,1,2015
+pa,luzerne county,42079,42079,79,pennsylvania,42,1,2015
+pa,lycoming county,42081,42081,81,pennsylvania,42,0,2015
+pa,mckean county,42083,42083,83,pennsylvania,42,0,2015
+pa,mercer county,42085,42085,85,pennsylvania,42,0,2015
+pa,mifflin county,42087,42087,87,pennsylvania,42,0,2015
+pa,monroe county,42089,42089,89,pennsylvania,42,0,2015
+pa,montgomery county,42091,42091,91,pennsylvania,42,0,2015
+pa,montour county,42093,42093,93,pennsylvania,42,0,2015
+pa,northampton county,42095,42095,95,pennsylvania,42,1,2015
+pa,northumberland county,42097,42097,97,pennsylvania,42,0,2015
+pa,perry county,42099,42099,99,pennsylvania,42,0,2015
+pa,philadelphia county,42101,42101,101,pennsylvania,42,1,2015
+pa,pike county,42103,42103,103,pennsylvania,42,0,2015
+pa,potter county,42105,42105,105,pennsylvania,42,0,2015
+pa,schuylkill county,42107,42107,107,pennsylvania,42,0,2015
+pa,snyder county,42109,42109,109,pennsylvania,42,0,2015
+pa,somerset county,42111,42111,111,pennsylvania,42,0,2015
+pa,sullivan county,42113,42113,113,pennsylvania,42,0,2015
+pa,susquehanna county,42115,42115,115,pennsylvania,42,0,2015
+pa,tioga county,42117,42117,117,pennsylvania,42,0,2015
+pa,union county,42119,42119,119,pennsylvania,42,0,2015
+pa,venango county,42121,42121,121,pennsylvania,42,0,2015
+pa,warren county,42123,42123,123,pennsylvania,42,0,2015
+pa,washington county,42125,42125,125,pennsylvania,42,0,2015
+pa,wayne county,42127,42127,127,pennsylvania,42,0,2015
+pa,westmoreland county,42129,42129,129,pennsylvania,42,0,2015
+pa,wyoming county,42131,42131,131,pennsylvania,42,0,2015
+pa,york county,42133,42133,133,pennsylvania,42,0,2015
+ri,bristol county,44001,44001,1,rhode island,44,0,2015
+ri,kent county,44003,44003,3,rhode island,44,0,2015
+ri,newport county,44005,44005,5,rhode island,44,0,2015
+ri,providence county,44007,44007,7,rhode island,44,0,2015
+ri,washington county,44009,44009,9,rhode island,44,0,2015
+sc,abbeville county,45001,45001,1,south carolina,45,1,2015
+sc,aiken county,45003,45003,3,south carolina,45,1,2015
+sc,allendale county,45005,45005,5,south carolina,45,1,2015
+sc,anderson county,45007,45007,7,south carolina,45,1,2015
+sc,bamberg county,45009,45009,9,south carolina,45,1,2015
+sc,barnwell county,45011,45011,11,south carolina,45,1,2015
+sc,beaufort county,45013,45013,13,south carolina,45,1,2015
+sc,berkeley county,45015,45015,15,south carolina,45,1,2015
+sc,calhoun county,45017,45017,17,south carolina,45,1,2015
+sc,charleston county,45019,45019,19,south carolina,45,1,2015
+sc,cherokee county,45021,45021,21,south carolina,45,1,2015
+sc,chester county,45023,45023,23,south carolina,45,1,2015
+sc,chesterfield county,45025,45025,25,south carolina,45,1,2015
+sc,clarendon county,45027,45027,27,south carolina,45,1,2015
+sc,colleton county,45029,45029,29,south carolina,45,1,2015
+sc,darlington county,45031,45031,31,south carolina,45,1,2015
+sc,dillon county,45033,45033,33,south carolina,45,1,2015
+sc,dorchester county,45035,45035,35,south carolina,45,1,2015
+sc,edgefield county,45037,45037,37,south carolina,45,1,2015
+sc,fairfield county,45039,45039,39,south carolina,45,1,2015
+sc,florence county,45041,45041,41,south carolina,45,1,2015
+sc,georgetown county,45043,45043,43,south carolina,45,1,2015
+sc,greenville county,45045,45045,45,south carolina,45,1,2015
+sc,greenwood county,45047,45047,47,south carolina,45,1,2015
+sc,hampton county,45049,45049,49,south carolina,45,1,2015
+sc,horry county,45051,45051,51,south carolina,45,1,2015
+sc,jasper county,45053,45053,53,south carolina,45,1,2015
+sc,kershaw county,45055,45055,55,south carolina,45,1,2015
+sc,lancaster county,45057,45057,57,south carolina,45,1,2015
+sc,laurens county,45059,45059,59,south carolina,45,1,2015
+sc,lee county,45061,45061,61,south carolina,45,1,2015
+sc,lexington county,45063,45063,63,south carolina,45,1,2015
+sc,marion county,45067,45067,67,south carolina,45,1,2015
+sc,marlboro county,45069,45069,69,south carolina,45,1,2015
+sc,mccormick county,45065,45065,65,south carolina,45,1,2015
+sc,newberry county,45071,45071,71,south carolina,45,1,2015
+sc,oconee county,45073,45073,73,south carolina,45,1,2015
+sc,orangeburg county,45075,45075,75,south carolina,45,1,2015
+sc,pickens county,45077,45077,77,south carolina,45,1,2015
+sc,richland county,45079,45079,79,south carolina,45,1,2015
+sc,saluda county,45081,45081,81,south carolina,45,1,2015
+sc,spartanburg county,45083,45083,83,south carolina,45,1,2015
+sc,sumter county,45085,45085,85,south carolina,45,1,2015
+sc,union county,45087,45087,87,south carolina,45,1,2015
+sc,williamsburg county,45089,45089,89,south carolina,45,1,2015
+sc,york county,45091,45091,91,south carolina,45,1,2015
+sd,aurora county,46003,46003,3,south dakota,46,0,2015
+sd,beadle county,46005,46005,5,south dakota,46,0,2015
+sd,bennett county,46007,46007,7,south dakota,46,0,2015
+sd,bon homme county,46009,46009,9,south dakota,46,0,2015
+sd,brookings county,46011,46011,11,south dakota,46,0,2015
+sd,brown county,46013,46013,13,south dakota,46,0,2015
+sd,brule county,46015,46015,15,south dakota,46,0,2015
+sd,buffalo county,46017,46017,17,south dakota,46,0,2015
+sd,butte county,46019,46019,19,south dakota,46,0,2015
+sd,campbell county,46021,46021,21,south dakota,46,0,2015
+sd,charles mix county,46023,46023,23,south dakota,46,0,2015
+sd,clark county,46025,46025,25,south dakota,46,0,2015
+sd,clay county,46027,46027,27,south dakota,46,0,2015
+sd,codington county,46029,46029,29,south dakota,46,0,2015
+sd,corson county,46031,46031,31,south dakota,46,0,2015
+sd,custer county,46033,46033,33,south dakota,46,0,2015
+sd,davison county,46035,46035,35,south dakota,46,0,2015
+sd,day county,46037,46037,37,south dakota,46,0,2015
+sd,deuel county,46039,46039,39,south dakota,46,0,2015
+sd,dewey county,46041,46041,41,south dakota,46,0,2015
+sd,douglas county,46043,46043,43,south dakota,46,0,2015
+sd,edmunds county,46045,46045,45,south dakota,46,0,2015
+sd,fall river county,46047,46047,47,south dakota,46,0,2015
+sd,faulk county,46049,46049,49,south dakota,46,0,2015
+sd,grant county,46051,46051,51,south dakota,46,0,2015
+sd,gregory county,46053,46053,53,south dakota,46,0,2015
+sd,haakon county,46055,46055,55,south dakota,46,0,2015
+sd,hamlin county,46057,46057,57,south dakota,46,0,2015
+sd,hand county,46059,46059,59,south dakota,46,0,2015
+sd,hanson county,46061,46061,61,south dakota,46,0,2015
+sd,harding county,46063,46063,63,south dakota,46,0,2015
+sd,hughes county,46065,46065,65,south dakota,46,0,2015
+sd,hutchinson county,46067,46067,67,south dakota,46,0,2015
+sd,hyde county,46069,46069,69,south dakota,46,0,2015
+sd,jackson county,46071,46071,71,south dakota,46,0,2015
+sd,jerauld county,46073,46073,73,south dakota,46,0,2015
+sd,jones county,46075,46075,75,south dakota,46,0,2015
+sd,kingsbury county,46077,46077,77,south dakota,46,0,2015
+sd,lake county,46079,46079,79,south dakota,46,0,2015
+sd,lawrence county,46081,46081,81,south dakota,46,0,2015
+sd,lincoln county,46083,46083,83,south dakota,46,0,2015
+sd,lyman county,46085,46085,85,south dakota,46,0,2015
+sd,marshall county,46091,46091,91,south dakota,46,0,2015
+sd,mccook county,46087,46087,87,south dakota,46,0,2015
+sd,mcpherson county,46089,46089,89,south dakota,46,0,2015
+sd,meade county,46093,46093,93,south dakota,46,0,2015
+sd,mellette county,46095,46095,95,south dakota,46,0,2015
+sd,miner county,46097,46097,97,south dakota,46,0,2015
+sd,minnehaha county,46099,46099,99,south dakota,46,0,2015
+sd,moody county,46101,46101,101,south dakota,46,0,2015
+sd,pennington county,46103,46103,103,south dakota,46,0,2015
+sd,perkins county,46105,46105,105,south dakota,46,0,2015
+sd,potter county,46107,46107,107,south dakota,46,0,2015
+sd,roberts county,46109,46109,109,south dakota,46,0,2015
+sd,sanborn county,46111,46111,111,south dakota,46,0,2015
+sd,shannon county,46113,46113,113,south dakota,46,0,2015
+sd,spink county,46115,46115,115,south dakota,46,0,2015
+sd,stanley county,46117,46117,117,south dakota,46,0,2015
+sd,sully county,46119,46119,119,south dakota,46,0,2015
+sd,todd county,46121,46121,121,south dakota,46,1,2015
+sd,tripp county,46123,46123,123,south dakota,46,0,2015
+sd,turner county,46125,46125,125,south dakota,46,0,2015
+sd,union county,46127,46127,127,south dakota,46,0,2015
+sd,walworth county,46129,46129,129,south dakota,46,0,2015
+sd,yankton county,46135,46135,135,south dakota,46,0,2015
+sd,ziebach county,46137,46137,137,south dakota,46,0,2015
+tn,anderson county,47001,47001,1,tennessee,47,0,2015
+tn,bedford county,47003,47003,3,tennessee,47,0,2015
+tn,benton county,47005,47005,5,tennessee,47,0,2015
+tn,bledsoe county,47007,47007,7,tennessee,47,0,2015
+tn,blount county,47009,47009,9,tennessee,47,0,2015
+tn,bradley county,47011,47011,11,tennessee,47,0,2015
+tn,campbell county,47013,47013,13,tennessee,47,0,2015
+tn,cannon county,47015,47015,15,tennessee,47,0,2015
+tn,carroll county,47017,47017,17,tennessee,47,0,2015
+tn,carter county,47019,47019,19,tennessee,47,0,2015
+tn,cheatham county,47021,47021,21,tennessee,47,0,2015
+tn,chester county,47023,47023,23,tennessee,47,0,2015
+tn,claiborne county,47025,47025,25,tennessee,47,0,2015
+tn,clay county,47027,47027,27,tennessee,47,0,2015
+tn,cocke county,47029,47029,29,tennessee,47,0,2015
+tn,coffee county,47031,47031,31,tennessee,47,0,2015
+tn,crockett county,47033,47033,33,tennessee,47,0,2015
+tn,cumberland county,47035,47035,35,tennessee,47,0,2015
+tn,davidson county,47037,47037,37,tennessee,47,0,2015
+tn,decatur county,47039,47039,39,tennessee,47,0,2015
+tn,dekalb county,47041,47041,41,tennessee,47,0,2015
+tn,dickson county,47043,47043,43,tennessee,47,0,2015
+tn,dyer county,47045,47045,45,tennessee,47,0,2015
+tn,fayette county,47047,47047,47,tennessee,47,0,2015
+tn,fentress county,47049,47049,49,tennessee,47,0,2015
+tn,franklin county,47051,47051,51,tennessee,47,0,2015
+tn,gibson county,47053,47053,53,tennessee,47,0,2015
+tn,giles county,47055,47055,55,tennessee,47,0,2015
+tn,grainger county,47057,47057,57,tennessee,47,0,2015
+tn,greene county,47059,47059,59,tennessee,47,0,2015
+tn,grundy county,47061,47061,61,tennessee,47,0,2015
+tn,hamblen county,47063,47063,63,tennessee,47,0,2015
+tn,hamilton county,47065,47065,65,tennessee,47,0,2015
+tn,hancock county,47067,47067,67,tennessee,47,0,2015
+tn,hardeman county,47069,47069,69,tennessee,47,0,2015
+tn,hardin county,47071,47071,71,tennessee,47,0,2015
+tn,hawkins county,47073,47073,73,tennessee,47,0,2015
+tn,haywood county,47075,47075,75,tennessee,47,0,2015
+tn,henderson county,47077,47077,77,tennessee,47,0,2015
+tn,henry county,47079,47079,79,tennessee,47,0,2015
+tn,hickman county,47081,47081,81,tennessee,47,0,2015
+tn,houston county,47083,47083,83,tennessee,47,0,2015
+tn,humphreys county,47085,47085,85,tennessee,47,0,2015
+tn,jackson county,47087,47087,87,tennessee,47,0,2015
+tn,jefferson county,47089,47089,89,tennessee,47,0,2015
+tn,johnson county,47091,47091,91,tennessee,47,0,2015
+tn,knox county,47093,47093,93,tennessee,47,1,2015
+tn,lake county,47095,47095,95,tennessee,47,0,2015
+tn,lauderdale county,47097,47097,97,tennessee,47,0,2015
+tn,lawrence county,47099,47099,99,tennessee,47,0,2015
+tn,lewis county,47101,47101,101,tennessee,47,0,2015
+tn,lincoln county,47103,47103,103,tennessee,47,0,2015
+tn,loudon county,47105,47105,105,tennessee,47,0,2015
+tn,macon county,47111,47111,111,tennessee,47,0,2015
+tn,madison county,47113,47113,113,tennessee,47,0,2015
+tn,marion county,47115,47115,115,tennessee,47,0,2015
+tn,marshall county,47117,47117,117,tennessee,47,0,2015
+tn,maury county,47119,47119,119,tennessee,47,0,2015
+tn,mcminn county,47107,47107,107,tennessee,47,0,2015
+tn,mcnairy county,47109,47109,109,tennessee,47,0,2015
+tn,meigs county,47121,47121,121,tennessee,47,0,2015
+tn,monroe county,47123,47123,123,tennessee,47,0,2015
+tn,montgomery county,47125,47125,125,tennessee,47,0,2015
+tn,moore county,47127,47127,127,tennessee,47,0,2015
+tn,morgan county,47129,47129,129,tennessee,47,0,2015
+tn,obion county,47131,47131,131,tennessee,47,0,2015
+tn,overton county,47133,47133,133,tennessee,47,0,2015
+tn,perry county,47135,47135,135,tennessee,47,0,2015
+tn,pickett county,47137,47137,137,tennessee,47,0,2015
+tn,polk county,47139,47139,139,tennessee,47,0,2015
+tn,putnam county,47141,47141,141,tennessee,47,0,2015
+tn,rhea county,47143,47143,143,tennessee,47,0,2015
+tn,roane county,47145,47145,145,tennessee,47,0,2015
+tn,robertson county,47147,47147,147,tennessee,47,0,2015
+tn,rutherford county,47149,47149,149,tennessee,47,0,2015
+tn,scott county,47151,47151,151,tennessee,47,0,2015
+tn,sequatchie county,47153,47153,153,tennessee,47,0,2015
+tn,sevier county,47155,47155,155,tennessee,47,0,2015
+tn,shelby county,47157,47157,157,tennessee,47,1,2015
+tn,smith county,47159,47159,159,tennessee,47,0,2015
+tn,stewart county,47161,47161,161,tennessee,47,0,2015
+tn,sullivan county,47163,47163,163,tennessee,47,0,2015
+tn,sumner county,47165,47165,165,tennessee,47,0,2015
+tn,tipton county,47167,47167,167,tennessee,47,0,2015
+tn,trousdale county,47169,47169,169,tennessee,47,0,2015
+tn,unicoi county,47171,47171,171,tennessee,47,0,2015
+tn,union county,47173,47173,173,tennessee,47,0,2015
+tn,van buren county,47175,47175,175,tennessee,47,0,2015
+tn,warren county,47177,47177,177,tennessee,47,0,2015
+tn,washington county,47179,47179,179,tennessee,47,0,2015
+tn,wayne county,47181,47181,181,tennessee,47,0,2015
+tn,weakley county,47183,47183,183,tennessee,47,0,2015
+tn,white county,47185,47185,185,tennessee,47,0,2015
+tn,williamson county,47187,47187,187,tennessee,47,0,2015
+tn,wilson county,47189,47189,189,tennessee,47,0,2015
+tx,anderson county,48001,48001,1,texas,48,0,2015
+tx,andrews county,48003,48003,3,texas,48,0,2015
+tx,angelina county,48005,48005,5,texas,48,0,2015
+tx,aransas county,48007,48007,7,texas,48,0,2015
+tx,archer county,48009,48009,9,texas,48,0,2015
+tx,armstrong county,48011,48011,11,texas,48,0,2015
+tx,atascosa county,48013,48013,13,texas,48,0,2015
+tx,austin county,48015,48015,15,texas,48,0,2015
+tx,bailey county,48017,48017,17,texas,48,0,2015
+tx,bandera county,48019,48019,19,texas,48,0,2015
+tx,bastrop county,48021,48021,21,texas,48,0,2015
+tx,baylor county,48023,48023,23,texas,48,0,2015
+tx,bee county,48025,48025,25,texas,48,0,2015
+tx,bell county,48027,48027,27,texas,48,0,2015
+tx,bexar county,48029,48029,29,texas,48,0,2015
+tx,blanco county,48031,48031,31,texas,48,0,2015
+tx,borden county,48033,48033,33,texas,48,0,2015
+tx,bosque county,48035,48035,35,texas,48,0,2015
+tx,bowie county,48037,48037,37,texas,48,0,2015
+tx,brazoria county,48039,48039,39,texas,48,0,2015
+tx,brazos county,48041,48041,41,texas,48,0,2015
+tx,brewster county,48043,48043,43,texas,48,0,2015
+tx,briscoe county,48045,48045,45,texas,48,0,2015
+tx,brooks county,48047,48047,47,texas,48,0,2015
+tx,brown county,48049,48049,49,texas,48,0,2015
+tx,burleson county,48051,48051,51,texas,48,0,2015
+tx,burnet county,48053,48053,53,texas,48,0,2015
+tx,caldwell county,48055,48055,55,texas,48,0,2015
+tx,calhoun county,48057,48057,57,texas,48,0,2015
+tx,callahan county,48059,48059,59,texas,48,0,2015
+tx,cameron county,48061,48061,61,texas,48,0,2015
+tx,camp county,48063,48063,63,texas,48,0,2015
+tx,carson county,48065,48065,65,texas,48,0,2015
+tx,cass county,48067,48067,67,texas,48,0,2015
+tx,castro county,48069,48069,69,texas,48,0,2015
+tx,chambers county,48071,48071,71,texas,48,0,2015
+tx,cherokee county,48073,48073,73,texas,48,0,2015
+tx,childress county,48075,48075,75,texas,48,0,2015
+tx,clay county,48077,48077,77,texas,48,0,2015
+tx,cochran county,48079,48079,79,texas,48,0,2015
+tx,coke county,48081,48081,81,texas,48,0,2015
+tx,coleman county,48083,48083,83,texas,48,0,2015
+tx,collin county,48085,48085,85,texas,48,0,2015
+tx,collingsworth county,48087,48087,87,texas,48,0,2015
+tx,colorado county,48089,48089,89,texas,48,0,2015
+tx,comal county,48091,48091,91,texas,48,0,2015
+tx,comanche county,48093,48093,93,texas,48,0,2015
+tx,concho county,48095,48095,95,texas,48,0,2015
+tx,cooke county,48097,48097,97,texas,48,0,2015
+tx,coryell county,48099,48099,99,texas,48,0,2015
+tx,cottle county,48101,48101,101,texas,48,0,2015
+tx,crane county,48103,48103,103,texas,48,0,2015
+tx,crockett county,48105,48105,105,texas,48,0,2015
+tx,crosby county,48107,48107,107,texas,48,0,2015
+tx,culberson county,48109,48109,109,texas,48,0,2015
+tx,dallam county,48111,48111,111,texas,48,0,2015
+tx,dallas county,48113,48113,113,texas,48,0,2015
+tx,dawson county,48115,48115,115,texas,48,0,2015
+tx,deaf smith county,48117,48117,117,texas,48,0,2015
+tx,delta county,48119,48119,119,texas,48,0,2015
+tx,denton county,48121,48121,121,texas,48,0,2015
+tx,dewitt county,48123,48123,123,texas,48,0,2015
+tx,dickens county,48125,48125,125,texas,48,0,2015
+tx,dimmit county,48127,48127,127,texas,48,0,2015
+tx,donley county,48129,48129,129,texas,48,0,2015
+tx,duval county,48131,48131,131,texas,48,0,2015
+tx,eastland county,48133,48133,133,texas,48,0,2015
+tx,ector county,48135,48135,135,texas,48,0,2015
+tx,edwards county,48137,48137,137,texas,48,0,2015
+tx,el paso county,48141,48141,141,texas,48,0,2015
+tx,ellis county,48139,48139,139,texas,48,0,2015
+tx,erath county,48143,48143,143,texas,48,0,2015
+tx,falls county,48145,48145,145,texas,48,0,2015
+tx,fannin county,48147,48147,147,texas,48,0,2015
+tx,fayette county,48149,48149,149,texas,48,0,2015
+tx,fisher county,48151,48151,151,texas,48,0,2015
+tx,floyd county,48153,48153,153,texas,48,0,2015
+tx,foard county,48155,48155,155,texas,48,0,2015
+tx,fort bend county,48157,48157,157,texas,48,0,2015
+tx,franklin county,48159,48159,159,texas,48,0,2015
+tx,freestone county,48161,48161,161,texas,48,0,2015
+tx,frio county,48163,48163,163,texas,48,0,2015
+tx,gaines county,48165,48165,165,texas,48,0,2015
+tx,galveston county,48167,48167,167,texas,48,0,2015
+tx,garza county,48169,48169,169,texas,48,0,2015
+tx,gillespie county,48171,48171,171,texas,48,0,2015
+tx,glasscock county,48173,48173,173,texas,48,0,2015
+tx,goliad county,48175,48175,175,texas,48,0,2015
+tx,gonzales county,48177,48177,177,texas,48,0,2015
+tx,gray county,48179,48179,179,texas,48,0,2015
+tx,grayson county,48181,48181,181,texas,48,0,2015
+tx,gregg county,48183,48183,183,texas,48,0,2015
+tx,grimes county,48185,48185,185,texas,48,0,2015
+tx,guadalupe county,48187,48187,187,texas,48,0,2015
+tx,hale county,48189,48189,189,texas,48,0,2015
+tx,hall county,48191,48191,191,texas,48,0,2015
+tx,hamilton county,48193,48193,193,texas,48,0,2015
+tx,hansford county,48195,48195,195,texas,48,0,2015
+tx,hardeman county,48197,48197,197,texas,48,0,2015
+tx,hardin county,48199,48199,199,texas,48,0,2015
+tx,harris county,48201,48201,201,texas,48,0,2015
+tx,harrison county,48203,48203,203,texas,48,0,2015
+tx,hartley county,48205,48205,205,texas,48,0,2015
+tx,haskell county,48207,48207,207,texas,48,0,2015
+tx,hays county,48209,48209,209,texas,48,0,2015
+tx,hemphill county,48211,48211,211,texas,48,0,2015
+tx,henderson county,48213,48213,213,texas,48,0,2015
+tx,hidalgo county,48215,48215,215,texas,48,0,2015
+tx,hill county,48217,48217,217,texas,48,0,2015
+tx,hockley county,48219,48219,219,texas,48,0,2015
+tx,hood county,48221,48221,221,texas,48,0,2015
+tx,hopkins county,48223,48223,223,texas,48,0,2015
+tx,houston county,48225,48225,225,texas,48,0,2015
+tx,howard county,48227,48227,227,texas,48,0,2015
+tx,hudspeth county,48229,48229,229,texas,48,0,2015
+tx,hunt county,48231,48231,231,texas,48,0,2015
+tx,hutchinson county,48233,48233,233,texas,48,0,2015
+tx,irion county,48235,48235,235,texas,48,0,2015
+tx,jack county,48237,48237,237,texas,48,0,2015
+tx,jackson county,48239,48239,239,texas,48,0,2015
+tx,jasper county,48241,48241,241,texas,48,0,2015
+tx,jeff davis county,48243,48243,243,texas,48,0,2015
+tx,jefferson county,48245,48245,245,texas,48,0,2015
+tx,jim hogg county,48247,48247,247,texas,48,0,2015
+tx,jim wells county,48249,48249,249,texas,48,0,2015
+tx,johnson county,48251,48251,251,texas,48,0,2015
+tx,jones county,48253,48253,253,texas,48,0,2015
+tx,karnes county,48255,48255,255,texas,48,0,2015
+tx,kaufman county,48257,48257,257,texas,48,0,2015
+tx,kendall county,48259,48259,259,texas,48,0,2015
+tx,kenedy county,48261,48261,261,texas,48,0,2015
+tx,kent county,48263,48263,263,texas,48,0,2015
+tx,kerr county,48265,48265,265,texas,48,0,2015
+tx,kimble county,48267,48267,267,texas,48,0,2015
+tx,king county,48269,48269,269,texas,48,0,2015
+tx,kinney county,48271,48271,271,texas,48,0,2015
+tx,kleberg county,48273,48273,273,texas,48,0,2015
+tx,knox county,48275,48275,275,texas,48,0,2015
+tx,la salle county,48283,48283,283,texas,48,0,2015
+tx,lamar county,48277,48277,277,texas,48,0,2015
+tx,lamb county,48279,48279,279,texas,48,0,2015
+tx,lampasas county,48281,48281,281,texas,48,0,2015
+tx,lavaca county,48285,48285,285,texas,48,0,2015
+tx,lee county,48287,48287,287,texas,48,0,2015
+tx,leon county,48289,48289,289,texas,48,0,2015
+tx,liberty county,48291,48291,291,texas,48,0,2015
+tx,limestone county,48293,48293,293,texas,48,0,2015
+tx,lipscomb county,48295,48295,295,texas,48,0,2015
+tx,live oak county,48297,48297,297,texas,48,0,2015
+tx,llano county,48299,48299,299,texas,48,0,2015
+tx,loving county,48301,48301,301,texas,48,0,2015
+tx,lubbock county,48303,48303,303,texas,48,0,2015
+tx,lynn county,48305,48305,305,texas,48,0,2015
+tx,madison county,48313,48313,313,texas,48,0,2015
+tx,marion county,48315,48315,315,texas,48,0,2015
+tx,martin county,48317,48317,317,texas,48,0,2015
+tx,mason county,48319,48319,319,texas,48,0,2015
+tx,matagorda county,48321,48321,321,texas,48,0,2015
+tx,maverick county,48323,48323,323,texas,48,0,2015
+tx,mcculloch county,48307,48307,307,texas,48,0,2015
+tx,mclennan county,48309,48309,309,texas,48,0,2015
+tx,mcmullen county,48311,48311,311,texas,48,0,2015
+tx,medina county,48325,48325,325,texas,48,0,2015
+tx,menard county,48327,48327,327,texas,48,0,2015
+tx,midland county,48329,48329,329,texas,48,0,2015
+tx,milam county,48331,48331,331,texas,48,0,2015
+tx,mills county,48333,48333,333,texas,48,0,2015
+tx,mitchell county,48335,48335,335,texas,48,0,2015
+tx,montague county,48337,48337,337,texas,48,0,2015
+tx,montgomery county,48339,48339,339,texas,48,0,2015
+tx,moore county,48341,48341,341,texas,48,0,2015
+tx,morris county,48343,48343,343,texas,48,0,2015
+tx,motley county,48345,48345,345,texas,48,0,2015
+tx,nacogdoches county,48347,48347,347,texas,48,0,2015
+tx,navarro county,48349,48349,349,texas,48,0,2015
+tx,newton county,48351,48351,351,texas,48,0,2015
+tx,nolan county,48353,48353,353,texas,48,0,2015
+tx,nueces county,48355,48355,355,texas,48,0,2015
+tx,ochiltree county,48357,48357,357,texas,48,0,2015
+tx,oldham county,48359,48359,359,texas,48,0,2015
+tx,orange county,48361,48361,361,texas,48,0,2015
+tx,palo pinto county,48363,48363,363,texas,48,0,2015
+tx,panola county,48365,48365,365,texas,48,0,2015
+tx,parker county,48367,48367,367,texas,48,0,2015
+tx,parmer county,48369,48369,369,texas,48,0,2015
+tx,pecos county,48371,48371,371,texas,48,0,2015
+tx,polk county,48373,48373,373,texas,48,0,2015
+tx,potter county,48375,48375,375,texas,48,0,2015
+tx,presidio county,48377,48377,377,texas,48,0,2015
+tx,rains county,48379,48379,379,texas,48,0,2015
+tx,randall county,48381,48381,381,texas,48,0,2015
+tx,reagan county,48383,48383,383,texas,48,0,2015
+tx,real county,48385,48385,385,texas,48,0,2015
+tx,red river county,48387,48387,387,texas,48,0,2015
+tx,reeves county,48389,48389,389,texas,48,0,2015
+tx,refugio county,48391,48391,391,texas,48,0,2015
+tx,roberts county,48393,48393,393,texas,48,0,2015
+tx,robertson county,48395,48395,395,texas,48,0,2015
+tx,rockwall county,48397,48397,397,texas,48,0,2015
+tx,runnels county,48399,48399,399,texas,48,0,2015
+tx,rusk county,48401,48401,401,texas,48,0,2015
+tx,sabine county,48403,48403,403,texas,48,0,2015
+tx,san augustine county,48405,48405,405,texas,48,0,2015
+tx,san jacinto county,48407,48407,407,texas,48,0,2015
+tx,san patricio county,48409,48409,409,texas,48,0,2015
+tx,san saba county,48411,48411,411,texas,48,0,2015
+tx,schleicher county,48413,48413,413,texas,48,0,2015
+tx,scurry county,48415,48415,415,texas,48,0,2015
+tx,shackelford county,48417,48417,417,texas,48,0,2015
+tx,shelby county,48419,48419,419,texas,48,0,2015
+tx,sherman county,48421,48421,421,texas,48,0,2015
+tx,smith county,48423,48423,423,texas,48,0,2015
+tx,somervell county,48425,48425,425,texas,48,0,2015
+tx,starr county,48427,48427,427,texas,48,0,2015
+tx,stephens county,48429,48429,429,texas,48,0,2015
+tx,sterling county,48431,48431,431,texas,48,0,2015
+tx,stonewall county,48433,48433,433,texas,48,0,2015
+tx,sutton county,48435,48435,435,texas,48,0,2015
+tx,swisher county,48437,48437,437,texas,48,0,2015
+tx,tarrant county,48439,48439,439,texas,48,0,2015
+tx,taylor county,48441,48441,441,texas,48,0,2015
+tx,terrell county,48443,48443,443,texas,48,0,2015
+tx,terry county,48445,48445,445,texas,48,0,2015
+tx,throckmorton county,48447,48447,447,texas,48,0,2015
+tx,titus county,48449,48449,449,texas,48,0,2015
+tx,tom green county,48451,48451,451,texas,48,0,2015
+tx,travis county,48453,48453,453,texas,48,0,2015
+tx,trinity county,48455,48455,455,texas,48,0,2015
+tx,tyler county,48457,48457,457,texas,48,0,2015
+tx,upshur county,48459,48459,459,texas,48,0,2015
+tx,upton county,48461,48461,461,texas,48,0,2015
+tx,uvalde county,48463,48463,463,texas,48,0,2015
+tx,val verde county,48465,48465,465,texas,48,0,2015
+tx,van zandt county,48467,48467,467,texas,48,0,2015
+tx,victoria county,48469,48469,469,texas,48,0,2015
+tx,walker county,48471,48471,471,texas,48,0,2015
+tx,waller county,48473,48473,473,texas,48,0,2015
+tx,ward county,48475,48475,475,texas,48,0,2015
+tx,washington county,48477,48477,477,texas,48,0,2015
+tx,webb county,48479,48479,479,texas,48,0,2015
+tx,wharton county,48481,48481,481,texas,48,0,2015
+tx,wheeler county,48483,48483,483,texas,48,0,2015
+tx,wichita county,48485,48485,485,texas,48,0,2015
+tx,wilbarger county,48487,48487,487,texas,48,0,2015
+tx,willacy county,48489,48489,489,texas,48,0,2015
+tx,williamson county,48491,48491,491,texas,48,0,2015
+tx,wilson county,48493,48493,493,texas,48,0,2015
+tx,winkler county,48495,48495,495,texas,48,0,2015
+tx,wise county,48497,48497,497,texas,48,0,2015
+tx,wood county,48499,48499,499,texas,48,0,2015
+tx,yoakum county,48501,48501,501,texas,48,0,2015
+tx,young county,48503,48503,503,texas,48,0,2015
+tx,zapata county,48505,48505,505,texas,48,0,2015
+tx,zavala county,48507,48507,507,texas,48,0,2015
+ut,beaver county,49001,49001,1,utah,49,0,2015
+ut,box elder county,49003,49003,3,utah,49,0,2015
+ut,cache county,49005,49005,5,utah,49,0,2015
+ut,carbon county,49007,49007,7,utah,49,0,2015
+ut,daggett county,49009,49009,9,utah,49,0,2015
+ut,davis county,49011,49011,11,utah,49,0,2015
+ut,duchesne county,49013,49013,13,utah,49,0,2015
+ut,emery county,49015,49015,15,utah,49,0,2015
+ut,garfield county,49017,49017,17,utah,49,0,2015
+ut,grand county,49019,49019,19,utah,49,0,2015
+ut,iron county,49021,49021,21,utah,49,0,2015
+ut,juab county,49023,49023,23,utah,49,0,2015
+ut,kane county,49025,49025,25,utah,49,0,2015
+ut,millard county,49027,49027,27,utah,49,0,2015
+ut,morgan county,49029,49029,29,utah,49,0,2015
+ut,piute county,49031,49031,31,utah,49,0,2015
+ut,rich county,49033,49033,33,utah,49,0,2015
+ut,salt lake county,49035,49035,35,utah,49,0,2015
+ut,san juan county,49037,49037,37,utah,49,0,2015
+ut,sanpete county,49039,49039,39,utah,49,0,2015
+ut,sevier county,49041,49041,41,utah,49,0,2015
+ut,summit county,49043,49043,43,utah,49,0,2015
+ut,tooele county,49045,49045,45,utah,49,0,2015
+ut,uintah county,49047,49047,47,utah,49,0,2015
+ut,utah county,49049,49049,49,utah,49,0,2015
+ut,wasatch county,49051,49051,51,utah,49,0,2015
+ut,washington county,49053,49053,53,utah,49,0,2015
+ut,wayne county,49055,49055,55,utah,49,0,2015
+ut,weber county,49057,49057,57,utah,49,0,2015
+va,accomack county,51001,51001,1,virginia,51,0,2015
+va,albemarle county,51003,51003,3,virginia,51,0,2015
+va,alexandria city,51510,51510,510,virginia,51,0,2015
+va,alleghany county,51005,51005,5,virginia,51,0,2015
+va,amelia county,51007,51007,7,virginia,51,0,2015
+va,amherst county,51009,51009,9,virginia,51,0,2015
+va,appomattox county,51011,51011,11,virginia,51,0,2015
+va,arlington county,51013,51013,13,virginia,51,0,2015
+va,augusta county,51015,51015,15,virginia,51,0,2015
+va,bath county,51017,51017,17,virginia,51,0,2015
+va,bedford city,51515,51515,515,virginia,51,0,2015
+va,bedford county,51019,51019,19,virginia,51,0,2015
+va,bland county,51021,51021,21,virginia,51,0,2015
+va,botetourt county,51023,51023,23,virginia,51,0,2015
+va,bristol city,51520,51520,520,virginia,51,0,2015
+va,brunswick county,51025,51025,25,virginia,51,0,2015
+va,buchanan county,51027,51027,27,virginia,51,0,2015
+va,buckingham county,51029,51029,29,virginia,51,0,2015
+va,buena vista city,51530,51530,530,virginia,51,0,2015
+va,campbell county,51031,51031,31,virginia,51,0,2015
+va,caroline county,51033,51033,33,virginia,51,0,2015
+va,carroll county,51035,51035,35,virginia,51,0,2015
+va,charles city county,51036,51036,36,virginia,51,0,2015
+va,charlotte county,51037,51037,37,virginia,51,0,2015
+va,charlottesville city,51540,51540,540,virginia,51,0,2015
+va,chesapeake city,51550,51550,550,virginia,51,0,2015
+va,chesterfield county,51041,51041,41,virginia,51,0,2015
+va,clarke county,51043,51043,43,virginia,51,0,2015
+va,colonial heights city,51570,51570,570,virginia,51,0,2015
+va,covington city,51580,51580,580,virginia,51,0,2015
+va,craig county,51045,51045,45,virginia,51,0,2015
+va,culpeper county,51047,51047,47,virginia,51,0,2015
+va,cumberland county,51049,51049,49,virginia,51,0,2015
+va,danville city,51590,51590,590,virginia,51,0,2015
+va,dickenson county,51051,51051,51,virginia,51,0,2015
+va,dinwiddie county,51053,51053,53,virginia,51,0,2015
+va,emporia city,51595,51595,595,virginia,51,0,2015
+va,essex county,51057,51057,57,virginia,51,0,2015
+va,fairfax city,51600,51600,600,virginia,51,0,2015
+va,fairfax county,51059,51059,59,virginia,51,0,2015
+va,falls church city,51610,51610,610,virginia,51,0,2015
+va,fauquier county,51061,51061,61,virginia,51,0,2015
+va,floyd county,51063,51063,63,virginia,51,0,2015
+va,fluvanna county,51065,51065,65,virginia,51,0,2015
+va,franklin city,51620,51620,620,virginia,51,0,2015
+va,franklin county,51067,51067,67,virginia,51,0,2015
+va,frederick county,51069,51069,69,virginia,51,0,2015
+va,fredericksburg city,51630,51630,630,virginia,51,0,2015
+va,galax city,51640,51640,640,virginia,51,0,2015
+va,giles county,51071,51071,71,virginia,51,0,2015
+va,gloucester county,51073,51073,73,virginia,51,0,2015
+va,goochland county,51075,51075,75,virginia,51,0,2015
+va,grayson county,51077,51077,77,virginia,51,0,2015
+va,greene county,51079,51079,79,virginia,51,0,2015
+va,greensville county,51081,51081,81,virginia,51,0,2015
+va,halifax county,51083,51083,83,virginia,51,0,2015
+va,hampton city,51650,51650,650,virginia,51,0,2015
+va,hanover county,51085,51085,85,virginia,51,0,2015
+va,harrisonburg city,51660,51660,660,virginia,51,0,2015
+va,henrico county,51087,51087,87,virginia,51,0,2015
+va,henry county,51089,51089,89,virginia,51,0,2015
+va,highland county,51091,51091,91,virginia,51,0,2015
+va,hopewell city,51670,51670,670,virginia,51,0,2015
+va,isle of wight county,51093,51093,93,virginia,51,0,2015
+va,james city county,51095,51095,95,virginia,51,0,2015
+va,king and queen county,51097,51097,97,virginia,51,0,2015
+va,king george county,51099,51099,99,virginia,51,0,2015
+va,king william county,51101,51101,101,virginia,51,0,2015
+va,lancaster county,51103,51103,103,virginia,51,0,2015
+va,lee county,51105,51105,105,virginia,51,0,2015
+va,lexington city,51678,51678,678,virginia,51,0,2015
+va,loudoun county,51107,51107,107,virginia,51,0,2015
+va,louisa county,51109,51109,109,virginia,51,0,2015
+va,lunenburg county,51111,51111,111,virginia,51,0,2015
+va,lynchburg city,51680,51680,680,virginia,51,0,2015
+va,madison county,51113,51113,113,virginia,51,0,2015
+va,manassas city,51683,51683,683,virginia,51,0,2015
+va,manassas park city,51685,51685,685,virginia,51,0,2015
+va,martinsville city,51690,51690,690,virginia,51,0,2015
+va,mathews county,51115,51115,115,virginia,51,0,2015
+va,mecklenburg county,51117,51117,117,virginia,51,0,2015
+va,middlesex county,51119,51119,119,virginia,51,0,2015
+va,montgomery county,51121,51121,121,virginia,51,0,2015
+va,nelson county,51125,51125,125,virginia,51,0,2015
+va,new kent county,51127,51127,127,virginia,51,0,2015
+va,newport news city,51700,51700,700,virginia,51,0,2015
+va,norfolk city,51710,51710,710,virginia,51,0,2015
+va,northampton county,51131,51131,131,virginia,51,0,2015
+va,northumberland county,51133,51133,133,virginia,51,0,2015
+va,norton city,51720,51720,720,virginia,51,0,2015
+va,nottoway county,51135,51135,135,virginia,51,0,2015
+va,orange county,51137,51137,137,virginia,51,0,2015
+va,page county,51139,51139,139,virginia,51,0,2015
+va,patrick county,51141,51141,141,virginia,51,0,2015
+va,petersburg city,51730,51730,730,virginia,51,0,2015
+va,pittsylvania county,51143,51143,143,virginia,51,0,2015
+va,poquoson city,51735,51735,735,virginia,51,0,2015
+va,portsmouth city,51740,51740,740,virginia,51,0,2015
+va,powhatan county,51145,51145,145,virginia,51,0,2015
+va,prince edward county,51147,51147,147,virginia,51,0,2015
+va,prince george county,51149,51149,149,virginia,51,0,2015
+va,prince william county,51153,51153,153,virginia,51,0,2015
+va,pulaski county,51155,51155,155,virginia,51,0,2015
+va,radford city,51750,51750,750,virginia,51,0,2015
+va,rappahannock county,51157,51157,157,virginia,51,0,2015
+va,richmond city,51760,51760,760,virginia,51,0,2015
+va,richmond county,51159,51159,159,virginia,51,0,2015
+va,roanoke city,51770,51770,770,virginia,51,0,2015
+va,roanoke county,51161,51161,161,virginia,51,0,2015
+va,rockbridge county,51163,51163,163,virginia,51,0,2015
+va,rockingham county,51165,51165,165,virginia,51,0,2015
+va,russell county,51167,51167,167,virginia,51,0,2015
+va,salem city,51775,51775,775,virginia,51,0,2015
+va,scott county,51169,51169,169,virginia,51,0,2015
+va,shenandoah county,51171,51171,171,virginia,51,0,2015
+va,smyth county,51173,51173,173,virginia,51,0,2015
+va,southampton county,51175,51175,175,virginia,51,0,2015
+va,spotsylvania county,51177,51177,177,virginia,51,0,2015
+va,stafford county,51179,51179,179,virginia,51,0,2015
+va,staunton city,51790,51790,790,virginia,51,0,2015
+va,suffolk city,51800,51800,800,virginia,51,0,2015
+va,surry county,51181,51181,181,virginia,51,0,2015
+va,sussex county,51183,51183,183,virginia,51,0,2015
+va,tazewell county,51185,51185,185,virginia,51,0,2015
+va,virginia beach city,51810,51810,810,virginia,51,0,2015
+va,warren county,51187,51187,187,virginia,51,0,2015
+va,washington county,51191,51191,191,virginia,51,0,2015
+va,waynesboro city,51820,51820,820,virginia,51,0,2015
+va,westmoreland county,51193,51193,193,virginia,51,0,2015
+va,williamsburg city,51830,51830,830,virginia,51,0,2015
+va,winchester city,51840,51840,840,virginia,51,0,2015
+va,wise county,51195,51195,195,virginia,51,0,2015
+va,wythe county,51197,51197,197,virginia,51,0,2015
+va,york county,51199,51199,199,virginia,51,0,2015
+vt,addison county,50001,50001,1,vermont,50,0,2015
+vt,bennington county,50003,50003,3,vermont,50,0,2015
+vt,caledonia county,50005,50005,5,vermont,50,0,2015
+vt,chittenden county,50007,50007,7,vermont,50,0,2015
+vt,essex county,50009,50009,9,vermont,50,0,2015
+vt,franklin county,50011,50011,11,vermont,50,0,2015
+vt,grand isle county,50013,50013,13,vermont,50,0,2015
+vt,lamoille county,50015,50015,15,vermont,50,0,2015
+vt,orange county,50017,50017,17,vermont,50,0,2015
+vt,orleans county,50019,50019,19,vermont,50,0,2015
+vt,rutland county,50021,50021,21,vermont,50,0,2015
+vt,washington county,50023,50023,23,vermont,50,0,2015
+vt,windham county,50025,50025,25,vermont,50,0,2015
+vt,windsor county,50027,50027,27,vermont,50,0,2015
+wa,adams county,53001,53001,1,washington,53,0,2015
+wa,asotin county,53003,53003,3,washington,53,0,2015
+wa,benton county,53005,53005,5,washington,53,0,2015
+wa,chelan county,53007,53007,7,washington,53,0,2015
+wa,clallam county,53009,53009,9,washington,53,1,2015
+wa,clark county,53011,53011,11,washington,53,1,2015
+wa,columbia county,53013,53013,13,washington,53,0,2015
+wa,cowlitz county,53015,53015,15,washington,53,0,2015
+wa,douglas county,53017,53017,17,washington,53,0,2015
+wa,ferry county,53019,53019,19,washington,53,0,2015
+wa,franklin county,53021,53021,21,washington,53,0,2015
+wa,garfield county,53023,53023,23,washington,53,0,2015
+wa,grant county,53025,53025,25,washington,53,0,2015
+wa,grays harbor county,53027,53027,27,washington,53,0,2015
+wa,island county,53029,53029,29,washington,53,0,2015
+wa,jefferson county,53031,53031,31,washington,53,0,2015
+wa,king county,53033,53033,33,washington,53,1,2015
+wa,kitsap county,53035,53035,35,washington,53,0,2015
+wa,kittitas county,53037,53037,37,washington,53,0,2015
+wa,klickitat county,53039,53039,39,washington,53,0,2015
+wa,lewis county,53041,53041,41,washington,53,0,2015
+wa,lincoln county,53043,53043,43,washington,53,0,2015
+wa,mason county,53045,53045,45,washington,53,0,2015
+wa,okanogan county,53047,53047,47,washington,53,0,2015
+wa,pacific county,53049,53049,49,washington,53,0,2015
+wa,pend oreille county,53051,53051,51,washington,53,0,2015
+wa,pierce county,53053,53053,53,washington,53,1,2015
+wa,san juan county,53055,53055,55,washington,53,1,2015
+wa,skagit county,53057,53057,57,washington,53,0,2015
+wa,skamania county,53059,53059,59,washington,53,0,2015
+wa,snohomish county,53061,53061,61,washington,53,1,2015
+wa,spokane county,53063,53063,63,washington,53,0,2015
+wa,stevens county,53065,53065,65,washington,53,0,2015
+wa,thurston county,53067,53067,67,washington,53,0,2015
+wa,wahkiakum county,53069,53069,69,washington,53,0,2015
+wa,walla walla county,53071,53071,71,washington,53,0,2015
+wa,whatcom county,53073,53073,73,washington,53,1,2015
+wa,whitman county,53075,53075,75,washington,53,0,2015
+wa,yakima county,53077,53077,77,washington,53,0,2015
+wi,adams county,55001,55001,1,wisconsin,55,0,2015
+wi,ashland county,55003,55003,3,wisconsin,55,0,2015
+wi,barron county,55005,55005,5,wisconsin,55,0,2015
+wi,bayfield county,55007,55007,7,wisconsin,55,0,2015
+wi,brown county,55009,55009,9,wisconsin,55,0,2015
+wi,buffalo county,55011,55011,11,wisconsin,55,0,2015
+wi,burnett county,55013,55013,13,wisconsin,55,0,2015
+wi,calumet county,55015,55015,15,wisconsin,55,0,2015
+wi,chippewa county,55017,55017,17,wisconsin,55,0,2015
+wi,clark county,55019,55019,19,wisconsin,55,0,2015
+wi,columbia county,55021,55021,21,wisconsin,55,0,2015
+wi,crawford county,55023,55023,23,wisconsin,55,0,2015
+wi,dane county,55025,55025,25,wisconsin,55,0,2015
+wi,dodge county,55027,55027,27,wisconsin,55,0,2015
+wi,door county,55029,55029,29,wisconsin,55,0,2015
+wi,douglas county,55031,55031,31,wisconsin,55,0,2015
+wi,dunn county,55033,55033,33,wisconsin,55,0,2015
+wi,eau claire county,55035,55035,35,wisconsin,55,0,2015
+wi,florence county,55037,55037,37,wisconsin,55,0,2015
+wi,fond du lac county,55039,55039,39,wisconsin,55,0,2015
+wi,forest county,55041,55041,41,wisconsin,55,0,2015
+wi,grant county,55043,55043,43,wisconsin,55,0,2015
+wi,green county,55045,55045,45,wisconsin,55,0,2015
+wi,green lake county,55047,55047,47,wisconsin,55,0,2015
+wi,iowa county,55049,55049,49,wisconsin,55,0,2015
+wi,iron county,55051,55051,51,wisconsin,55,0,2015
+wi,jackson county,55053,55053,53,wisconsin,55,0,2015
+wi,jefferson county,55055,55055,55,wisconsin,55,0,2015
+wi,juneau county,55057,55057,57,wisconsin,55,0,2015
+wi,kenosha county,55059,55059,59,wisconsin,55,0,2015
+wi,kewaunee county,55061,55061,61,wisconsin,55,0,2015
+wi,la crosse county,55063,55063,63,wisconsin,55,0,2015
+wi,lafayette county,55065,55065,65,wisconsin,55,0,2015
+wi,langlade county,55067,55067,67,wisconsin,55,0,2015
+wi,lincoln county,55069,55069,69,wisconsin,55,0,2015
+wi,manitowoc county,55071,55071,71,wisconsin,55,0,2015
+wi,marathon county,55073,55073,73,wisconsin,55,0,2015
+wi,marinette county,55075,55075,75,wisconsin,55,0,2015
+wi,marquette county,55077,55077,77,wisconsin,55,0,2015
+wi,menominee county,55078,55078,78,wisconsin,55,0,2015
+wi,milwaukee county,55079,55079,79,wisconsin,55,0,2015
+wi,monroe county,55081,55081,81,wisconsin,55,0,2015
+wi,oconto county,55083,55083,83,wisconsin,55,0,2015
+wi,oneida county,55085,55085,85,wisconsin,55,0,2015
+wi,outagamie county,55087,55087,87,wisconsin,55,0,2015
+wi,ozaukee county,55089,55089,89,wisconsin,55,0,2015
+wi,pepin county,55091,55091,91,wisconsin,55,0,2015
+wi,pierce county,55093,55093,93,wisconsin,55,0,2015
+wi,polk county,55095,55095,95,wisconsin,55,0,2015
+wi,portage county,55097,55097,97,wisconsin,55,0,2015
+wi,price county,55099,55099,99,wisconsin,55,0,2015
+wi,racine county,55101,55101,101,wisconsin,55,0,2015
+wi,richland county,55103,55103,103,wisconsin,55,0,2015
+wi,rock county,55105,55105,105,wisconsin,55,0,2015
+wi,rusk county,55107,55107,107,wisconsin,55,0,2015
+wi,sauk county,55111,55111,111,wisconsin,55,0,2015
+wi,sawyer county,55113,55113,113,wisconsin,55,0,2015
+wi,shawano county,55115,55115,115,wisconsin,55,0,2015
+wi,sheboygan county,55117,55117,117,wisconsin,55,0,2015
+wi,st. croix county,55109,55109,109,wisconsin,55,0,2015
+wi,taylor county,55119,55119,119,wisconsin,55,0,2015
+wi,trempealeau county,55121,55121,121,wisconsin,55,0,2015
+wi,vernon county,55123,55123,123,wisconsin,55,0,2015
+wi,vilas county,55125,55125,125,wisconsin,55,0,2015
+wi,walworth county,55127,55127,127,wisconsin,55,0,2015
+wi,washburn county,55129,55129,129,wisconsin,55,0,2015
+wi,washington county,55131,55131,131,wisconsin,55,0,2015
+wi,waukesha county,55133,55133,133,wisconsin,55,0,2015
+wi,waupaca county,55135,55135,135,wisconsin,55,0,2015
+wi,waushara county,55137,55137,137,wisconsin,55,0,2015
+wi,winnebago county,55139,55139,139,wisconsin,55,0,2015
+wi,wood county,55141,55141,141,wisconsin,55,0,2015
+wv,barbour county,54001,54001,1,west virginia,54,0,2015
+wv,berkeley county,54003,54003,3,west virginia,54,0,2015
+wv,boone county,54005,54005,5,west virginia,54,0,2015
+wv,braxton county,54007,54007,7,west virginia,54,0,2015
+wv,brooke county,54009,54009,9,west virginia,54,0,2015
+wv,cabell county,54011,54011,11,west virginia,54,0,2015
+wv,calhoun county,54013,54013,13,west virginia,54,0,2015
+wv,clay county,54015,54015,15,west virginia,54,0,2015
+wv,doddridge county,54017,54017,17,west virginia,54,0,2015
+wv,fayette county,54019,54019,19,west virginia,54,0,2015
+wv,gilmer county,54021,54021,21,west virginia,54,0,2015
+wv,grant county,54023,54023,23,west virginia,54,0,2015
+wv,greenbrier county,54025,54025,25,west virginia,54,0,2015
+wv,hampshire county,54027,54027,27,west virginia,54,0,2015
+wv,hancock county,54029,54029,29,west virginia,54,0,2015
+wv,hardy county,54031,54031,31,west virginia,54,0,2015
+wv,harrison county,54033,54033,33,west virginia,54,0,2015
+wv,jackson county,54035,54035,35,west virginia,54,0,2015
+wv,jefferson county,54037,54037,37,west virginia,54,0,2015
+wv,kanawha county,54039,54039,39,west virginia,54,0,2015
+wv,lewis county,54041,54041,41,west virginia,54,0,2015
+wv,lincoln county,54043,54043,43,west virginia,54,0,2015
+wv,logan county,54045,54045,45,west virginia,54,0,2015
+wv,marion county,54049,54049,49,west virginia,54,0,2015
+wv,marshall county,54051,54051,51,west virginia,54,0,2015
+wv,mason county,54053,54053,53,west virginia,54,0,2015
+wv,mcdowell county,54047,54047,47,west virginia,54,0,2015
+wv,mercer county,54055,54055,55,west virginia,54,0,2015
+wv,mineral county,54057,54057,57,west virginia,54,0,2015
+wv,mingo county,54059,54059,59,west virginia,54,0,2015
+wv,monongalia county,54061,54061,61,west virginia,54,0,2015
+wv,monroe county,54063,54063,63,west virginia,54,0,2015
+wv,morgan county,54065,54065,65,west virginia,54,0,2015
+wv,nicholas county,54067,54067,67,west virginia,54,0,2015
+wv,ohio county,54069,54069,69,west virginia,54,0,2015
+wv,pendleton county,54071,54071,71,west virginia,54,0,2015
+wv,pleasants county,54073,54073,73,west virginia,54,0,2015
+wv,pocahontas county,54075,54075,75,west virginia,54,0,2015
+wv,preston county,54077,54077,77,west virginia,54,0,2015
+wv,putnam county,54079,54079,79,west virginia,54,0,2015
+wv,raleigh county,54081,54081,81,west virginia,54,0,2015
+wv,randolph county,54083,54083,83,west virginia,54,0,2015
+wv,ritchie county,54085,54085,85,west virginia,54,0,2015
+wv,roane county,54087,54087,87,west virginia,54,0,2015
+wv,summers county,54089,54089,89,west virginia,54,0,2015
+wv,taylor county,54091,54091,91,west virginia,54,0,2015
+wv,tucker county,54093,54093,93,west virginia,54,0,2015
+wv,tyler county,54095,54095,95,west virginia,54,0,2015
+wv,upshur county,54097,54097,97,west virginia,54,0,2015
+wv,wayne county,54099,54099,99,west virginia,54,0,2015
+wv,webster county,54101,54101,101,west virginia,54,0,2015
+wv,wetzel county,54103,54103,103,west virginia,54,0,2015
+wv,wirt county,54105,54105,105,west virginia,54,0,2015
+wv,wood county,54107,54107,107,west virginia,54,0,2015
+wv,wyoming county,54109,54109,109,west virginia,54,0,2015
+wy,albany county,56001,56001,1,wyoming,56,0,2015
+wy,big horn county,56003,56003,3,wyoming,56,0,2015
+wy,campbell county,56005,56005,5,wyoming,56,0,2015
+wy,carbon county,56007,56007,7,wyoming,56,0,2015
+wy,converse county,56009,56009,9,wyoming,56,0,2015
+wy,crook county,56011,56011,11,wyoming,56,0,2015
+wy,fremont county,56013,56013,13,wyoming,56,0,2015
+wy,goshen county,56015,56015,15,wyoming,56,0,2015
+wy,hot springs county,56017,56017,17,wyoming,56,0,2015
+wy,johnson county,56019,56019,19,wyoming,56,0,2015
+wy,laramie county,56021,56021,21,wyoming,56,0,2015
+wy,lincoln county,56023,56023,23,wyoming,56,0,2015
+wy,natrona county,56025,56025,25,wyoming,56,0,2015
+wy,niobrara county,56027,56027,27,wyoming,56,0,2015
+wy,park county,56029,56029,29,wyoming,56,0,2015
+wy,platte county,56031,56031,31,wyoming,56,0,2015
+wy,sheridan county,56033,56033,33,wyoming,56,0,2015
+wy,sublette county,56035,56035,35,wyoming,56,0,2015
+wy,sweetwater county,56037,56037,37,wyoming,56,0,2015
+wy,teton county,56039,56039,39,wyoming,56,0,2015
+wy,uinta county,56041,56041,41,wyoming,56,0,2015
+wy,washakie county,56043,56043,43,wyoming,56,0,2015
+wy,weston county,56045,56045,45,wyoming,56,0,2015

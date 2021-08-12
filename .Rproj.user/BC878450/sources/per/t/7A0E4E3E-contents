@@ -1,0 +1,654 @@
+---
+title: "Evictions in the USA"
+author: "Izzy Youngs"
+date: "5/18/2021"
+output:
+  html_document:
+    theme: united
+    toc: true
+    toc_float: false
+    fig_caption: yes
+  pdf_document: 
+    keep_tex: true
+bibliography: references.bib  
+---
+
+<style>
+.tocify-extend-page {
+  height: 0 !important;
+}
+
+body {
+  font-family: "Times New Roman";
+  font-size: 16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Times New Roman";
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, cache=TRUE, warning = FALSE, message = FALSE, results="hide", fig.align="center")
+library(here)
+library(tidyverse)
+library(caret)
+library(vip)
+library(gridExtra)
+library(pdp)
+library(parallel)
+library(doParallel)
+library(rsample)
+library(yardstick)
+library(recipes)
+library(naniar)
+library(kableExtra)
+library(albersusa)
+library(ggthemes)
+```
+
+Word count: `r wordcountaddin::word_count()`
+
+# Introduction
+
+Eviction’s economic and social consequences are widely evident, but there is a concerning lack of consensus around the best tools for eviction prevention. From housing vouchers to tenant protections, there are a variety of approaches attempting to attack different fundamental causes of eviction, yet little comparative analysis identifying which policies are most effective, particularly across jurisdictional typologies. Adequate eviction prevention policies for counties without home rule, weak housing markets, and high demographic homogeneity may be less effective in cities with home rule, strong economies, and diverse populations. This report explores how different jurisdictions’ attributes and policies can be used to predict eviction filing rates. Preliminary results indicate that the share of African Americans, the number of days in a summary eviction, and whether the jurisdiction is rural are most highly predictive of eviction filing rates. The report explores how potential policy approaches could address these factors and highlights areas for future analyses.
+
+# Problem Statement and Background
+
+Eviction is a devastating outcome at every scale. Evicted families tend to filter down to more undesirable and dangerous neighborhoods due to the short time frames people have to secure new housing [@desmondForcedDisplacementRental2015], and the mark of an eviction on a tenant's record can make it more difficult to find housing [@desmondEvictionReproductionUrban2012]. Because of this, eviction is a significant predictor of homelessness [@collinsonEffectsEvictionsLowIncome; @craneEvictionsProlongedHomelessness2000] and results in serious negative health and education outcomes [@richterIntegratedDataSystem2021; @himmelsteinAssociationEvictionAdverse2021]. Despite the abundance of data on the adverse outcomes of eviction, the policies and structures contributing to eviction are difficult to study and measure. Rising housing costs, income inequality, and lack of government housing programs are often cited as factors influencing eviction, but each of these has myriad preventative policy approaches, complicating efforts to mitigate eviction [@desmondUnaffordableAmericaPoverty]. A few of the confounding factors in researching eviction causes and prevention include:
+
+- Geographic and regional differences in economies, policy levers, and histories
+- Housing markets rarely align with administrative and political boundaries
+- Data are often disparate, local, lack provenance metadata, and/or have temporal misalignment
+- Effective but rare policies may be difficult to extrapolate
+- Policy and economic interactions can mask another policy's individual effects
+
+Despite these challenges, there have been attempts to study policy impacts on eviction, including supply-side development policies [@beenSupplySkepticismHousing2019; @asquithSupplyShockDemand; @mastEffectNewMarketRate2019; @nathansonTrickledownHousingEconomics; @damianoBuildBabyBuild; @zukHousingProductionFiltering2016], rent control [@10.1257/aer.20181289; @pastorRentMattersWhat; @asquithRentIncreasesReduce2019], and tenants' right to counsel [@fracassaSanFranciscoNew2020; @schoolSanFranciscoRight; @NYCRightCounsel], but most housing policy studies are not comprehensive or comparative across various regions, making generalization nearly impossible. Additionally, there are many policies which are enacted at the local level, which are much harder to measure across regions since this is not collected from federal administrative data. For example, there has been limited research around how inclusionary zoning, accessory dwelling units, affordable housing trust funds, affordable housing linkage fees, and land use policies affect eviction rates downstream. 
+
+This project will explore which policies and factors are strongest in generating predictions of eviction filing rates for jurisdictions. By understanding these factors and policies, policymakers can advocate more explicitly for legislation or programs which support the goals of resident stability across regions and governance structures.
+
+
+# Data
+
+## Outcome Variable
+
+Data on evictions were obtained from [The Eviction Lab](https://data-downloads.evictionlab.org/), a team of researchers at Princeton University which has scraped, bought, and aggregated various data on evictions from 2000-2016 [@desmond2018eviction]. The Eviction Lab takes the total number of eviction judgements and eviction filings per geography and divides it by the Census Bureau’s estimates of the total number of occupied rental units in the same area. The share of evictions or eviction filings per jurisdiction is the eviction rate and eviction filing rate, respectively. This data is validated by the research team at Princeton; however, data quality issues remain. Local courts can vary dramatically in eviction record keeping, leading to errors even within a state [@portonInaccuraciesEvictionRecords2020]. In addition, this data was originally created for legal purposes and not research purposes, creating challenges when linking across data and resolving discrepancies. Eviction judgement data are missing for almost 25 percent of the counties in the dataset. Many of these missing counties were also spatially clustered. According to The Eviction Lab, four states - Alaska, Arkansas, South Dakota, and North Dakota - did not have consistent data coverage to include them in the dataset for eviction rates. However, The Eviction Lab was able to obtain *filing* rates for over 86% of counties and 84% of places, so the filing rates were used for this analysis. 
+
+The unit of analysis for this report is local jurisdictions (cities and counties) and the outcome variable is the eviction filing rate from 2016. Eviction filing rates are right skewed with a strong kurtosis around a mean of 3.02. Since the distribution around the mean is extremely thin, predictive performance may suffer using regression models. In order to account for this, the filing rates were feature engineered into a categorical variable depending on whether it was above or below the mean eviction filing rate of 3.02.
+ 
+
+```{r read and preprocess data, fig.width=8, fig.cap="\\label{fig:figs}Fig. 1: Eviction filing rate distribution graphs"}
+# Read in data and clean --------------------------------------------------
+
+
+set.seed(1988) # Ensure reproducibility
+
+# Read in the data 
+evictions_data <- 
+  suppressMessages(read_csv("Data/final_evictions.csv", guess_max = 35000)) %>%
+  
+  # Create a geoid column 
+  mutate(state_fips = str_pad(state_fips, 2, pad = "0"),
+         county_fips = str_pad(county_fips, 3, pad = "0"),
+         place_fips = str_pad(place_fips, 5, pad = "0"),
+         geoid = case_when(d_is_county == 1 ~ paste0(state_fips, county_fips),
+                           d_is_county == 0 ~ paste0(state_fips, place_fips)),
+         
+         # convert all character columns to factors
+         geoid = as.factor(geoid),
+         pop_bin = as.factor(pop_bin),
+         dem_swing = as.factor(dem_swing),
+         year_built_bin = as.factor(year_built_bin),
+         state = as.factor(state),
+         region = as.factor(region),
+         land_use = as.factor(land_use),
+         eviction_filing_rate_cat = as.factor(eviction_filing_rate_cat)) %>%
+  mutate_at(vars(starts_with("d_")), as.factor)
+
+
+# We will only be using the eviction filing rate categorical variable
+ind_var <- "eviction_filing_rate_cat"
+
+# We will not be using the continuous or eviction rates variable
+rm_var <- c("eviction_rate_cat", "county", "place", "state_fips", "county_fips", "place_fips", "eviction_rate", "eviction_filing_rate")
+
+
+sparse_vars <- evictions_data %>%
+  miss_var_summary() %>%
+  filter(pct_miss > 70) %>%
+  select(variable) %>%
+  pull()
+
+evictions_data_clean <-
+  evictions_data %>%
+  
+  # Only keep observations containing sparse vars
+  filter_at(all_of(sparse_vars), any_vars(!is.na(.))) %>%
+  
+  # Select all columns and remove vars we won't use
+  select(evictions = all_of(ind_var), everything(), -all_of(rm_var))
+
+
+
+# Stratify and split the data ---------------------------------------------
+
+
+# Make sure the class is equal in each split
+strata <- "evictions"
+
+# Create a function that splits the data into three objects
+splitting <- function(dat){
+  
+  # Create the split for counties
+  split <- initial_split(dat, prop = .8, strata = all_of(strata))
+  test_data  <<- testing(split)
+  train_data <- training(split)
+  
+  # Create a validation split for counties
+  split <- initial_split(train_data, prop = .9, strata = all_of(strata))
+  validation_data <<- testing(split)
+  train_data <<- training(split)
+}
+
+# Create test, train, and validation objects
+splitting(evictions_data_clean) 
+
+
+# Preprocess data ---------------------------------------------------------
+
+
+# Initialize our recipe
+our_recipe <- recipe(evictions ~ ., data = train_data) %>%
+  step_knnimpute(all_nominal()) %>%
+  step_knnimpute(all_numeric()) %>% 
+  step_log(all_numeric(), signed = TRUE) %>%
+  step_dummy(all_nominal(), -evictions, -geoid) %>%
+  prep() %>% suppressMessages()
+
+# Apply the recipe to the training and test data
+train_data_processed <- suppressMessages(bake(our_recipe,train_data))
+validation_data_processed <- suppressMessages(bake(our_recipe, validation_data))
+test_data_processed <- suppressMessages(bake(our_recipe,test_data))
+
+
+# Partition the data into 5 folds
+folds <- createFolds(train_data_processed$evictions, k = 5) 
+
+# Cross validation settings as an object
+control_conditions <- 
+  trainControl(method='cv',
+               summaryFunction = twoClassSummary, 
+               classProbs = TRUE,
+               sampling = "up",
+               index = folds)
+
+
+# Create a distribution plot for the continuous eviction filing rates
+dist <- evictions_data %>% 
+  select(eviction_filing_rate) %>% 
+  ggplot(aes(eviction_filing_rate)) +
+  geom_density(fill="#de4815",alpha=.5,color="white") +
+  xlim(0, 50) +
+  labs(title = "Outcome Variable Distribution",
+       x = "Eviction filing rate", y = "Density") +
+  theme_minimal() +
+    theme(plot.title=element_text(hjust = 0.5,
+                                size = 17, 
+                                family = "serif"),
+        text = element_text(family = "serif",
+                            size = 16),
+        legend.position="right")
+
+balance <- train_data_processed %>%
+  mutate(evictions = fct_recode(evictions,
+                                    "Below average" = "Below_average",
+                                    "Above average" = "Above_average")) %>%
+  ggplot(aes(x = evictions)) +
+  geom_bar(fill = "#de4815") +
+  scale_y_continuous(breaks=seq(0, 4263, by = 1065),
+                     label = c("0%", "25%", "50%", "75%", "100%")) +
+  labs(title = "Outcome Variable Class Balance",
+       x = "Outcome", y = "", fill = "Percent Missing") +
+  theme_minimal() +
+    theme(plot.title=element_text(hjust = 0.5,
+                                size = 17, 
+                                family = "serif"),
+        text = element_text(family = "serif",
+                            size = 16),
+        legend.position="right")
+
+grid.arrange(dist, balance, ncol=2)
+```
+
+There is a class imbalance in the new categorical variable, with more instances of below average eviction filing rates in total, but a concentration of above average eviction filing rates along the eastern coast of the United States.
+
+```{r map fig, fig.width=8, fig.height=6, fig.cap="\\label{fig:figs}Fig. 2: Map of eviction filing rates by county across the United States"}
+map_evictions <- evictions_data %>%
+      filter(d_is_county == 1) %>%
+      select(geoid, evictions = eviction_filing_rate_cat)
+
+
+cty_sf <- counties_sf("aeqd") %>%
+  mutate(geoid = as.character(fips), .keep = "unused")
+
+cty_evictions <- left_join(cty_sf, map_evictions, by= "geoid")
+
+state_sf <- usa_sf("aeqd")
+
+p <- 
+  ggplot() +
+  geom_sf(data = cty_evictions, size = 0.1, color = "white",
+          aes(fill = evictions)) +
+  scale_fill_manual(values = c("Below_average" = "#f3bdaa", 
+                               "Above_average" = "#de4815", 
+                               na.value="white"),
+                    labels = c("Above average", 
+                               "Below average", 
+                               "Data unavailable")) +
+  geom_sf(data = state_sf, fill=NA, color = "black", size = .7) +
+theme_map() +
+  theme(plot.title=element_text(hjust = 0.5,
+                                size = 20, 
+                                family = "serif"),
+        text = element_text(family = "serif",
+                            size = 16),
+        legend.position="right") +
+  labs(title = "Eviction Filing Rates Spatial Distribution",
+       fill = "Eviction Filing Rate") 
+
+p
+```
+
+## Predictor Variables
+
+A review of the academic literature highlighted the role of housing markets [@pastorRentMattersWhat; @asquithSupplyShockDemand], tenant protection laws [@EffectJustCause; @jeonExploringEffectivenessTenant; @NYCRightCounsel], and poverty [@lundbergResearchNotePrevalence2019; @desmondEvictionReproductionUrban2012] in exacerbating eviction. Attributes in these domains, such as a jurisdiction’s land use policies, rent control laws, or income inequality, may begin to delineate between high- and low-eviction areas. 
+
+The US Census Bureau generates estimates of geographic attributes such as median household income, median rent, and general demographic patterns. The data used for this analysis are the 2015-2019 American Community Survey (ACS) estimates [@manson2017ipums]. Additional attribute data such as the minimum wage, housing voucher utilization, and building permit information was obtained from federal statistical agencies, such as the Department of Labor and the Department of Housing and Urban Development. The [Federal Research Economic Data Portal](https://fred.stlouisfed.org/series/RACEDISPARITY024510) utilizes census data to generate a dissimilarity index, a measurement of the racial segregation of a county. [MIT’s Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ) tracks county-level voter data, which was used to measure the overall political swing of a county. The [Centers for Disease Control](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html) creates an index of social vulnerability to help public health officials identify at-risk populations during disasters. 
+
+There are few federal databases tracking public policies across the United States. Land use regulations and policies were obtained from the [Wharton Land Use Index](http://real-faculty.wharton.upenn.edu/gyourko/land-use-survey/) and the [National Longitudinal Land Use Survey (NLLUS)](https://datacatalog.urban.org/dataset/national-longitudinal-land-use-survey-nllus). These datasets are more sparse than the attribute information collected from federal agencies since they are relying on survey methodology for a representative sample of jurisdictions. The state’s average lot size was obtained from [Realtor.com](https://www.inman.com/2011/10/27/10-states-with-biggest-houses/), and state rental laws were collected from [Nolo](https://www.nolo.com/), [Apartments.com](https://www.apartments.com/rental-manager/resources/state-laws), and [Avail.co](http://avail.co/). Governance data (e.g. whether a county had Home Rule or not) was obtained from the [National Association of Counties](https://ce.naco.org/?dset=Government%20Structure&ind=County%20Authority) and rent control data was added from the [National Multifamily Housing Council](https://www.nmhc.org/globalassets/advocacy/rent-control/rent-control-by-state-law_2020.pdf) overview. Descriptions of each outcome variable are in Table 1.
+
+```{r variable table, results="show"}
+read_csv("Data/vars.csv") %>%
+  kbl() %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), 
+                full_width = F, fixed_thead = T) %>%
+  scroll_box(height = "400px")
+
+```
+
+<center>
+<p class="caption">
+Table 1: Predictor variable descriptions and sources
+</p>
+</center>
+
+Several predictor variable values were sparsely available. If over 70 percent of a variable’s values were missing, that variable was coded as sparse. If the observation contained a value for a sparse variable, the observation was kept. This left a data frame of almost 6,000 observations, which were joined to each other and the eviction filing rates through census geographic identifiers. 
+
+The overall missingness of the data was slightly over 28 percent across 83 variables. Most of the missingness was concentrated in the geographies with below average eviction filing rates.
+
+
+```{r missingness plot, fig.height=13, fig.width=9, fig.cap="\\label{fig:figs}Fig. 3: Missingness chart of all predictor variables by eviction filing rate"}
+train_data %>%
+  drop_na(evictions) %>%
+  mutate(evictions = fct_recode(evictions,
+                                    "Below average" = "Below_average",
+                                    "Above average" = "Above_average")) %>%
+  gg_miss_fct(fct = evictions) +
+  labs(title = "Missing Predictors by Outcome Category",
+       x = "", y = "", fill = "Percent Missing") +
+  theme_minimal() +
+  scale_fill_gradientn(colors = c("#fae4dd", "#de4815")) +
+    theme(plot.title=element_text(hjust = 0.5,
+                                size = 20, 
+                                family = "serif"),
+        text = element_text(family = "serif",
+                            size = 16),
+        legend.position="right")
+```
+
+
+There is some skew in several predictors and some outliers, but overall the distribution of the predictor variables was not unusual. 
+
+```{r predictor distribution, fig.height=10, fig.cap="\\label{fig:figs}Fig. 4: Density distribution plots for a selection of continuous predictor variables"}
+train_data %>% 
+  select(median_rent, median_utilities, median_lot_size, min_wage, rent_burden, vacancy_rate, int_migration_rate, share_unemployed, share_sfh_units, pct_af_am, summary_max_days, wlui) %>% 
+  gather(var,val) %>% 
+  ggplot(aes(val)) +
+  geom_density(fill="#de4815",alpha=.5,color="white") +
+  facet_wrap(~var,scales="free",ncol=2,
+             labeller = labeller(var = 
+    c("wlui" = "Land use index",
+      "median_rent" = "Median rent",
+      "median_utilities" = "Median utilities",
+      "median_lot_size" = "Median lot size",
+      "min_wage" = "State minimum wage",
+      "rent_burden" = "Average rent burden",
+      "vacancy_rate" = "Vacancy rates", 
+      "int_migration_rate" = "Intercity migration rates", 
+      "share_unemployed" = "Share of population unemployed", 
+      "share_sfh_units" = "Share of single family housing units", 
+      "summary_max_days" = "Number of days in summary eviction", 
+      "pct_af_am" = "Share African American Population"))) +
+  labs(title = "Predictor Variable Distribution",
+       x = "", y = "") +
+  theme_minimal() +
+    theme(plot.title=element_text(hjust = 0.5,
+                                size = 20, 
+                                family = "serif"),
+        text = element_text(family = "serif",
+                            size = 16),
+        legend.position="right")
+
+```
+
+The categorical predictor variables were mostly balanced, although most states do not permit tenants to pay their rent within a grace period before a landlord may file an eviction or require a license to manage rental properties, which could impact how important these variables are to the model. Additionally, rent control is exceedingly rare, so the imbalance was particularly extreme for that variable.
+
+```{r pred class, fig.height = 7, fig.width=9, fig.cap="\\label{fig:figs}Fig. 5: Class balance bar graphs for a selection of categorical predictor variables"}
+train_data_processed %>%
+  select(d_allows_late_payment_X1, d_if_deposit_limit_X1, d_receipts_required_X1, d_specific_rent_control_X1, d_rental_license_required_X1, d_limits_on_late_fees_X1, d_afh_req_X1, d_is_county_X1, pop_bin_Rural) %>%
+  gather(var,val) %>% 
+  ggplot(aes(val)) +
+  geom_bar(fill = "#de4815") +
+  scale_x_continuous(breaks=seq(0, 1, by = 1),
+                     label = c("No", "Yes")) +
+  scale_y_continuous(breaks=seq(0, 4262, by = 1065),
+                     label = c("0%", "25%", "50%", "75%", "100%")) +
+  facet_wrap(~var,scales="fixed",ncol=3,
+             labeller = labeller(var = 
+    c("d_allows_late_payment_X1" = "State allows late rent payments",
+      "d_if_deposit_limit_X1" = "State regulates deposit amounts",
+      "d_receipts_required_X1" = "State requires receipts for rent",
+      "d_specific_rent_control_X1" = "Jurisdiction allows rent control",
+      "d_rental_license_required_X1" = "State requires a rental license",
+      "d_is_county_X1" = "Jurisdiction is a county",
+      "d_afh_req_X1" = "Jurisdiction requires affordable units",
+      "pop_bin_Rural" = "Jurisdiction is rural",
+      "d_limits_on_late_fees_X1" = "State regulates late fees"))) +
+  labs(title = "Predictor Variable Class Balance",
+       x = "", y = "", fill = "Percent Missing") +
+  theme_minimal() +
+    theme(plot.title=element_text(hjust = 0.5,
+                                size = 20, 
+                                family = "serif"),
+        text = element_text(family = "serif",
+                            size = 16),
+        legend.position="right")
+```
+
+
+# Analysis
+
+## Splitting
+
+There were nearly 6,000 observations in the data set, but if all of the data were used to train the models, the models could learn the noise *and* the signal and overfit the predictions, performing poorly on new data. The models need to be tested against data that has been set aside for testing purposes. This test data should not be analyzed at all, so the data frame needed to be split. For this analysis, the data was split into three data frames:
+
+- A training data set (~70%)
+- A validation data set (~10%) 
+- A test data set (~20%)
+
+This method of splitting the data three times allows for iteratively ensuring that the model is not overfitting the data by testing models against the validation set instead of the test data set without compromising the integrity of the scientific process. The outcome variable (eviction filing rates) remained equally represented in each split data set through stratification.
+
+
+## Preprocessing 
+
+The data was then preprocessed for analysis in a few ways. Then missing values were imputed utilizing K-nearest neighbors imputation for both the categorical and continuous variables. To ensure variables were being analyzed within the same feature space, numeric standardization methods were explored, including YeoJohnson, normalization, and range standardization, but logging the variables performed best to reduce the impact of outliers.
+
+## Cross-validation
+
+In order to test the machine learning models, a few cross-validation techniques were applied. Once the training data was created, another method for cross-validating our model performance was needed. Re-sampling from the training data and refitting the models on each sample generates estimates for the test or validation error. For this analysis, the training data was further split into $k = 5$ sample “folds”. 
+
+## Model testing
+
+Several supervised machine learning models were tested in an attempt to identify the best fitting classification prediction model. The performance of each classification model was compared using the area under the ROC curve, a measurement of the true positive rate (sensitivity or recall) and false positive rate (specificity) of a model. Eviction is a pernicious phenomenon with enormous ramifications, so for this analysis it is far more important to be accurate in predicting where eviction rates are high than accurately predicting where they are low. Therefore, the ROC measures for each model were compared with special attention to the specificity/sensitivity tradeoff, where higher specificity metrics were preferred.
+
+# Results
+
+## Model Performance
+
+Several models were compared, including: CART, logit, Random Forest, K-nearest neighbors, Support Vector Machines, and AdaBoost. After running each model, the Random Forest model performed slightly better than the other models across both ROC and specificity metrics.
+
+
+```{r create models}
+  # Logistic Regression Model
+  mod_logit <-
+    train(evictions ~ . -geoid,
+          data = train_data_processed,
+          method = "glm",
+          metric = "ROC",   
+          trControl = control_conditions)
+  
+  # KNN model
+  
+  # Setting the values for k for k nearest neighbors parameter
+  knn_tune <- expand.grid(k = c(1,5,10))
+  
+  mod_knn <-
+    train(evictions ~ . -geoid, 
+          data=train_data_processed, 
+          method = "knn", 
+          metric = "ROC", 
+          trControl = control_conditions, 
+          tuneGrid = knn_tune)
+  
+  # CART model
+  mod_cart <-
+    train(evictions ~ . -geoid, 
+          data=train_data_processed, 
+          method = "rpart", 
+          metric = "ROC", 
+          trControl = control_conditions)
+  
+  # Random Forest Model
+  mod_rf <-
+    train(evictions ~ . -geoid,
+          data=train_data_processed,
+          method = "ranger",
+          metric = "ROC",
+          trControl = control_conditions)
+  
+  
+  # Support Vector Machine Linear
+  mod_svm<-
+    train(evictions ~ . -geoid, 
+          data=train_data_processed, 
+          method = "svmLinear", 
+          metric = "ROC", 
+          trControl = control_conditions)
+  
+  
+  # Support Vector Machine Polynomial
+  mod_svm_p <-
+    train(evictions ~ . -geoid, 
+          data=train_data_processed, 
+          method = "svmPoly", 
+          metric = "ROC", 
+          trControl = control_conditions)
+  
+  # Support Vector Machine Radial
+  mod_svm_r <-
+    train(evictions ~ . -geoid, 
+          data=train_data_processed, 
+          method = "svmRadial", 
+          metric = "ROC", 
+          trControl = control_conditions)
+  
+  # AdaBoost Classification Trees
+  mod_ada <-
+    train(evictions ~ . -geoid,
+          data=train_data_processed,
+          method = "ada", 
+          metric = "ROC", 
+          trControl = control_conditions)
+  
+  # Organize all model inputs as a list.
+  mod_list <-
+    list(
+      "Logistic" = mod_logit,
+      "KNN" = mod_knn,
+      "CART" = mod_cart,
+      "Random Forest" = mod_rf, 
+      "SVM Linear" = mod_svm, 
+      "SVM Poly" = mod_svm_p,
+      "SVM Radial" = mod_svm_r,
+      "AdaBoost" = mod_ada
+    )
+```
+
+```{r print model report, fig.cap="\\label{fig:figs}Fig. 6: Machine learning model ROC performance"}
+  dotplot(resamples(mod_list),
+          metric = "ROC")
+```
+
+With an ROC of .89, this model is considered excellent [@hosmer2013applied]. The specificity of the model is also high at .84. This model was highly accurate in its' predictions of which jurisdictions had above-average eviction rates in 2016. The model was then applied to the validation data and had an ROC of .93 and a specificity of .86, making it an outstanding model.
+
+```{r validation metrics}
+# Predict on validation data
+pred_prob <- predict(mod_rf, newdata = validation_data_processed, type="prob")
+pred_raw <- predict(mod_rf, newdata = validation_data_processed, type="raw")
+  
+performance <- tibble(truth = validation_data_processed$evictions,
+                      prob = pred_prob$Above_average,
+                      pred = pred_raw)
+
+
+# Calculate performance metrics 
+bind_rows(
+  performance %>% roc_auc(truth,prob),
+  performance %>% spec(truth,pred),
+  performance %>% sens(truth,pred),
+  performance %>% accuracy(truth,pred)
+)
+```
+
+
+## Variable Importance
+
+Random Forest models aggregate many decision trees together, generating a more robust model than any single CART model, but compromising the interpretability of the model. To assess which variables were most important in the Random Forest predictions, a variable importance method called “permutation importance” was utilized. By scrambling the data one variable at a time, the permutation importance method tests if the predictive performance of the model decreases. If it does, the variable is considered highly important to the model performance. For this model, the most important variables were:
+
+```{r variable importance, fig.cap="\\label{fig:figs}Fig. 7: Variable importance plot"}
+# Variable importance assessment ------------------------------------------
+
+vip <- 
+    vip(mod_rf, # Machine learning model
+        train = train_data_processed, # Training data 
+        method="permute", # permuted importance
+        nsim = 10, # number of times to impute
+        geom = "boxplot", # Type of plot 
+        target = "evictions", # outcome
+        reference_class = "Above_average",
+        metric = "accuracy",
+        pred_wrapper = predict)
+  
+vip +
+  labs(title = "Variable Importance",
+           y = "") +
+  theme_minimal() +
+  theme(plot.title=element_text(hjust = 0.5,
+                                size = 20, 
+                                family = "serif"),
+        text = element_text(family = "serif",
+                            size = 16),
+        legend.position="right")
+```
+
+A few variables stood out. First, a few states were strong predictors of the eviction filing rates for their respective jurisdictions. Additionally, whether the jurisdiction was a county or a city was also important for the Random Forest model. However, despite these variables being important, it is unclear the direction of importance. For example, how does the share of African Americans in a jurisdiction impact the model’s predictive outcome? Using partial dependence plots, the direction of the variables’ importance was assessed.  
+
+```{r partial dependence plots, fig.height = 7, fig.cap="\\label{fig:figs}Fig. 8: Partial dependence plots from top 10 variables"}
+top_vi <-
+  vip$data %>%
+  select(Variable) %>%
+  pull()
+
+
+# Plot the partial dependence plots
+plots <- list()
+
+for(i in seq_along(top_vi)){
+  pdp <- partial(mod_rf, pred.var = top_vi[i], plot = TRUE, prob=T,
+                 grid.resolution = 20,
+                 plot.engine = "ggplot2") + 
+    geom_line(color = "#de4815") +
+    theme_minimal() +
+    theme(plot.title=element_text(hjust = 0.5,
+                                  size = 16, 
+                                  family = "serif"),
+          text = element_text(family = "serif",
+                              size = 12),
+          legend.position="right") +
+    labs(y = "")
+  
+  plots[[i]] <- pdp
+}
+
+do.call("grid.arrange", c(plots, ncol=2))
+```
+
+
+```{r least important vars}
+vi_table <- 
+    vi(mod_rf, # Machine learning model
+       rank = TRUE,
+       train = train_data_processed, # Training data 
+       method="permute", # permuted importance
+       nsim = 10, # number of times to impute
+       target = "evictions", # outcome
+       metric = "accuracy",
+       pred_wrapper = predict)
+  
+vi_table %>%
+    arrange(desc(Importance)) %>%
+    slice(1:10) %>%
+    select(Variable) %>%
+    pull()
+```
+
+In this model, the more African Americans who live in a jurisdiction, the higher the chances are of the jurisdiction having an above average eviction filing rate. Interestingly, no other racial variables appeared to be important for the model (e.g. the share of the population that is white or the racial segregation of a jursidiction). Another potential policy implication is that the model predicted lower eviction filing rates if the summary eviction process was longer. If the jurisdiction was within Michigan, Virginia, or Ohio, it tended to have above average eviction filing rates, whereas jurisdictions in Texas did not. Finally, the model predicted that counties and rural jurisdictions have lower eviction filing rates while mid-sized jurisdictions and areas with higher median rent resulted in higher eviction filing rates, suggesting housing costs may play a significant role in eviction filing rates.
+
+## Global Surrogate Model
+
+Since Random Forest models are inherently less interpretable, using the predicted outcomes in a CART model may provide a more interpretable surrogate model. However, this model explains only 43 percent of the variation of the response data around its mean ($R^2 = .43$). This model does not do an outstanding job predicting whether a jurisdiction will have a high or low eviction filing rate, and it illustrates how complex predicting eviction filing rates is. Despite its overall weakness, the major cut points in the model are similar to the top ten important variables for the Random Forest model:
+
+```{r global surrogate model, fig.width=9, fig.cap="\\label{fig:figs}Fig. 9: Decision tree from global surrogate model"}
+# Global surrogate model --------------------------------------------------
+
+train_data_processed2 <- 
+  train_data_processed %>% 
+  select(-evictions) %>%
+  mutate(above_avg_probs = predict(mod_rf,type = "prob")$Above_average)  
+
+
+surrogate_tree <-
+  rpart::rpart(above_avg_probs ~ . -geoid,
+    data = train_data_processed2,
+    control = rpart::rpart.control(maxdepth = 3))
+
+tibble(truth = train_data_processed2$above_avg_probs,
+       estimate = predict(surrogate_tree)) %>% 
+  rsq(truth,estimate)
+
+rattle::fancyRpartPlot(surrogate_tree,sub="",type=1)
+```
+
+According to the surrogate model, if the jurisdiction had a high share of African Americans, the median rent was high, the summary eviction process was short, or the landlord had many days to return a tenant’s security deposit, the eviction filing rates were predicted to be above average.
+
+# Discussion
+
+The results of this analysis, like most data science, points to a need for additional data and tests. Eviction filing rates are not even perfectly reflective of actual eviction judgments. Eviction filing rates may be higher in some jurisdictions due to policy choices; for example, the cost to file an eviction notice in one state or court may be much less than in another---data which was not collected but could have a significant impact on the decision to file an eviction [@nelson2021evictions]. Given these findings, it is not possible to say these are all of the factors which contribute to eviction. 
+
+Despite these challenges, there is a great deal of interesting and policy-relevant information here. The model found that there is a significant role that race plays in determining eviction rates. Race and eviction are often collinear with other indicators of disadvantage, such as poverty or segregation, but none of these variables were as important to eviction as race. Tenant protections around race, including increased efforts to identify and weed out racism in private rental markets, may be a critical component of reducing eviction. 
+
+Additionally, the model predicted that providing longer eviction processes to tenants would improve the eviction rates. There are myriad potential reasons for this, including offering more time for tenants to cure any late payments or incentivizing landlords to work with tenants on late rent instead of evicting. The model pointed out that a handful of states also have very high overall eviction filing rates, a sign that those states' legislation on tenant protections and eviction should be scrutinized. 
+
+A few of the predictor variables also pointed to housing market issues. Rural counties generally experience less housing demand and a cheaper overall costs of living than urban centers with strong housing markets as seen by higher median rents. Together, these indicate that a combination of short-term tenant protection policies and longer-term housing market approaches to bring down the cost of housing could alleviate the eviction rates larger jurisdictions with higher housing demand. In urban metros, a variety of policies may be needed to bring down overall eviction filing rates, including fair housing policies and housing market policies, whereas for smaller or more rural centers, tenant protections may be the best policy solution to bringing down eviction rates. 
+
+Future analyses could include identifying jurisdictions where there were false positives or false negatives and exploring the demographic, housing market, economic conditions, and policies which could have been a factor. Local policies such as the Right of First Refusal and guaranteed tenant counsel [@mironova2019rent] are incredibly uncommon, but could show promising effects on eviction rates. There are potentially thousands of policies which could impact eviction rates, including policies protecting domestic violence victims and families with children, Medicaid expansion [@zewde2019effects], minimum wage increases, and local housing voucher programs. 
+
+Some state and local policy data on Medicaid expansion, tenant legal counsel, and Right of First Refusal policies are located on websites and in documentation through local websites, but aggregating this information on a national level could be incredibly challenging. Focusing on a representative sample of states with a diversity of policies, jurisdictional types, and demographics, such as New York or California, could potentially be generalized to the rest of the population. 
+
+Altogether, the analysis resulted in a strong but difficult-to-interpret model for predicting eviction filing rates. Unfortunately, the goal of the analysis was to develop an interpretable model, but these preliminary results are interesting, and continued development of the model may result in a more interpretable model in the coming months as the analysis iterates over new variables and geographic scales. Ultimately, this model accurately identified which jurisdictions had high and low eviction filing rates based on the factors and policies provided, which is a success. 
+
+# References
+
+---
+nocite: '@*'
+---

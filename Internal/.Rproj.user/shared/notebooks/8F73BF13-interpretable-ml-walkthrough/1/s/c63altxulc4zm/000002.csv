@@ -1,0 +1,26 @@
+"0","```r
+# PDP for age
+age_pdp <- partial(mod_rf_selected, pred.var = \"age\", plot = TRUE,prob=T,
+                   grid.resolution = 20, # choosing less points makes it run quicker
+                   plot.engine = \"ggplot2\")
+
+# PDP for wage
+wage_pdp <- partial(mod_rf_selected, pred.var = \"wage\", plot = TRUE,prob=T,
+                    grid.resolution = 20, # choosing less points makes it run quicker
+                   plot.engine = \"ggplot2\")
+
+# PDP for education level
+educ_pdp <- partial(mod_rf_selected, pred.var = \"educ\", plot = TRUE,prob=T,
+                    grid.resolution = 4,plot.engine = \"ggplot2\")
+
+# PDP for Married (note that this is a dummy var, so only can take on one of two values)
+mar_pdp <- partial(mod_rf_selected, pred.var = \"mar_Married\", plot = TRUE,prob=T,
+                   plot.engine = \"ggplot2\")
+
+# PDP for Not a citizen (note that this is a dummy var, so only can take on one of two values)
+cit_pdp <- partial(mod_rf_selected, pred.var = \"cit_Non.citizen\", plot = TRUE,prob=T,
+                   plot.engine = \"ggplot2\")
+
+# GridExtra allows us to stack two ggplot objects into a single plot
+gridExtra::grid.arrange(age_pdp,wage_pdp,educ_pdp,mar_pdp,cit_pdp)
+```"

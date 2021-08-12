@@ -1,0 +1,52 @@
+state_name,state_fips,region,division,d_coastal_state
+Alabama,1,South,East South Central,1
+Alaska,2,West,Pacific,1
+Arizona,4,West,Mountain,0
+Arkansas,5,South,West South Central,0
+California,6,West,Pacific,1
+Colorado,8,West,Mountain,0
+Connecticut,9,Northeast,New England,1
+Delaware,10,South,South Atlantic,1
+District of Columbia,11,South,South Atlantic,0
+Florida,12,South,South Atlantic,1
+Georgia,13,South,South Atlantic,1
+Hawaii,15,West,Pacific,1
+Idaho,16,West,Mountain,0
+Illinois,17,Midwest,East North Central,0
+Indiana,18,Midwest,East North Central,0
+Iowa,19,Midwest,West North Central,0
+Kansas,20,Midwest,West North Central,0
+Kentucky,21,South,East South Central,0
+Louisiana,22,South,West South Central,1
+Maine,23,Northeast,New England,1
+Maryland,24,South,South Atlantic,1
+Massachusetts,25,Northeast,New England,1
+Michigan,26,Midwest,East North Central,0
+Minnesota,27,Midwest,West North Central,0
+Mississippi,28,South,East South Central,1
+Missouri,29,Midwest,West North Central,0
+Montana,30,West,Mountain,0
+Nebraska,31,Midwest,West North Central,0
+Nevada,32,West,Mountain,0
+New Hampshire,33,Northeast,New England,1
+New Jersey,34,Northeast,Middle Atlantic,1
+New Mexico,35,West,Mountain,0
+New York,36,Northeast,Middle Atlantic,1
+North Carolina,37,South,South Atlantic,1
+North Dakota,38,Midwest,West North Central,0
+Ohio,39,Midwest,East North Central,0
+Oklahoma,40,South,West South Central,0
+Oregon,41,West,Pacific,1
+Pennsylvania,42,Northeast,Middle Atlantic,0
+Rhode Island,44,Northeast,New England,1
+South Carolina,45,South,South Atlantic,1
+South Dakota,46,Midwest,West North Central,0
+Tennessee,47,South,East South Central,0
+Texas,48,South,West South Central,1
+Utah,49,West,Mountain,0
+Vermont,50,Northeast,New England,0
+Virginia,51,South,South Atlantic,1
+Washington,53,West,Pacific,1
+West Virginia,54,South,South Atlantic,0
+Wisconsin,55,Midwest,East North Central,0
+Wyoming,56,West,Mountain,0

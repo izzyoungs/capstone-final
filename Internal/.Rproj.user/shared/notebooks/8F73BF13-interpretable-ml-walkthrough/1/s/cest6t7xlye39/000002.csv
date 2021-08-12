@@ -1,0 +1,11 @@
+"0","```r
+require(tidyverse)
+require(caret) # for machine learning
+require(recipes) # For preprocessing your data
+require(vip) # For variable importance
+require(pdp) # pdp and ice plots
+
+# For parallelization (to run the models across many cores) -- speeds up computation!
+# install.packages(\"doMC\")
+doMC::registerDoMC()
+```"

@@ -1,0 +1,8 @@
+"0","```r
+surrogate_tree2 <-
+  rpart::rpart(coverage_probs ~ age + wage + educ + mar_Married + cit_Non.citizen,
+    data = train_data3,
+    control = rpart::rpart.control(maxdepth = 7)
+  )
+rattle::fancyRpartPlot(surrogate_tree2,sub=\"\",type=1)
+```"

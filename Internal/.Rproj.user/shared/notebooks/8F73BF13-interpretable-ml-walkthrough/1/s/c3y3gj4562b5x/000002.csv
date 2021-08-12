@@ -1,0 +1,9 @@
+"0","```r
+mod_rf <-
+  train(coverage ~ ., # Equation (outcome and everything else)
+        data=train_data2, # Training data 
+        method = \"ranger\", # random forest (ranger is much faster than rf)
+        metric = \"ROC\", # area under the curve
+        trControl = control_conditions
+  )
+```"

@@ -1,0 +1,231 @@
+Full,County,County_fips,State,State_fips,Year_enacted
+"Pima County, Arizona",Pima,19,Arizona,4,1970
+"Alameda County, California",Alameda,1,California,6,1989
+"Los Angeles County, California",Los Angeles,37,California,6,1993
+"Marin County, California",Marin,41,California,6,1991
+"Napa County, California",Napa,55,California,6,1988
+"Sacramento City and County, California",Sacramento,67,California,6,1981
+"San Luis Obispo County, California",San Luis Obispo,79,California,6,1990
+"San Mateo County, California",San Mateo,81,California,6,1990
+"Santa Clara County, California",Santa Clara,85,California,6,1989
+"Santa Barbara County, California",Santa Barbara,83,California,6,1992
+"Sonoma County, California",Sonoma,97,California,6,1993
+"Ventura County, California",Ventura,111,California,6,1993
+"Pitkin County, Colorado",Aspen,97,Colorado,8,1993
+"Summit County, Colorado",Summit,117,Colorado,8,1993
+"San Miguel County, Colorado",San Miguel,113,Colorado,8,1993
+"Miami-Dade County, Florida",Miami-Dade,86,Florida,12,1993
+"Hillsborough County, Florida",Hillsborough,57,Florida,12,1993
+"Pinellas County, Florida",Pinellas,103,Florida,12,1993
+"Adair County, Iowa",Adair,1,Iowa,19,1994
+"Adams County, Iowa",Adams,3,Iowa,19,1994
+"Allamakee County, Iowa",Allamakee,5,Iowa,19,1994
+"Appanoose County, Iowa",Appanoose,7,Iowa,19,1994
+"Audubon County, Iowa",Audubon,9,Iowa,19,1994
+"Benton County, Iowa",Benton,11,Iowa,19,1994
+"Black Hawk County, Iowa",Black,13,Iowa,19,1994
+"Boone County, Iowa",Boone,15,Iowa,19,1994
+"Bremer County, Iowa",Bremer,17,Iowa,19,1994
+"Buchanan County, Iowa",Buchanan,19,Iowa,19,1995
+"Buena Vista County, Iowa",Buena,21,Iowa,19,1995
+"Butler County, Iowa",Butler,23,Iowa,19,1995
+"Calhoun County, Iowa",Calhoun,25,Iowa,19,1995
+"Carroll County, Iowa",Carroll,27,Iowa,19,1995
+"Cass County, Iowa",Cass,29,Iowa,19,1995
+"Cedar County, Iowa",Cedar,31,Iowa,19,1995
+"Cerro Gordo County, Iowa",Cerro,33,Iowa,19,1996
+"Cherokee County, Iowa",Cherokee,35,Iowa,19,1996
+"Chickasaw County, Iowa",Chickasaw,37,Iowa,19,1996
+"Clarke County, Iowa",Clarke,39,Iowa,19,1996
+"Clay County, Iowa",Clay,41,Iowa,19,1996
+"Clayton County, Iowa",Clayton,43,Iowa,19,1996
+"Clinton County, Iowa",Clinton,45,Iowa,19,1996
+"Crawford County, Iowa",Crawford,47,Iowa,19,1996
+"Dallas County, Iowa",Dallas,49,Iowa,19,1996
+"Davis County, Iowa",Davis,51,Iowa,19,1997
+"Decatur County, Iowa",Decatur,53,Iowa,19,1997
+"Delaware County, Iowa",Delaware,55,Iowa,19,1997
+"Des Moines County, Iowa",Des,57,Iowa,19,1998
+"Dickinson County, Iowa",Dickinson,59,Iowa,19,1999
+"Dubuque County, Iowa",Dubuque,61,Iowa,19,1999
+"Emmet County, Iowa",Emmet,63,Iowa,19,2000
+"Fayette County, Iowa",Fayette,65,Iowa,19,2001
+"Floyd County, Iowa",Floyd,67,Iowa,19,2001
+"Franklin County, Iowa",Franklin,69,Iowa,19,2001
+"Fremont County, Iowa",Fremont,71,Iowa,19,2001
+"Greene County, Iowa",Greene,73,Iowa,19,2001
+"Grundy County, Iowa",Grundy,75,Iowa,19,2001
+"Guthrie County, Iowa",Guthrie,77,Iowa,19,2001
+"Hamilton County, Iowa",Hamilton,79,Iowa,19,2002
+"Hancock County, Iowa",Hancock,81,Iowa,19,2002
+"Hardin County, Iowa",Hardin,83,Iowa,19,2002
+"Harrison County, Iowa",Harrison,85,Iowa,19,2002
+"Henry County, Iowa",Henry,87,Iowa,19,2003
+"Howard County, Iowa",Howard,89,Iowa,19,2003
+"Humboldt County, Iowa",Humboldt,91,Iowa,19,2003
+"Ida County, Iowa",Ida,93,Iowa,19,2003
+"Iowa County, Iowa",Iowa,95,Iowa,19,2003
+"Jackson County, Iowa",Jackson,97,Iowa,19,2004
+"Jasper County, Iowa",Jasper,99,Iowa,19,2005
+"Jefferson County, Iowa",Jefferson,101,Iowa,19,2005
+"Johnson County, Iowa",Johnson,103,Iowa,19,2005
+"Jones County, Iowa",Jones,105,Iowa,19,2006
+"Keokuk County, Iowa",Keokuk,107,Iowa,19,2006
+"Kossuth County, Iowa",Kossuth,109,Iowa,19,2006
+"Lee County, Iowa",Lee,111,Iowa,19,2006
+"Linn County, Iowa",Linn,113,Iowa,19,2006
+"Louisa County, Iowa",Louisa,115,Iowa,19,2006
+"Lucas County, Iowa",Lucas,117,Iowa,19,2006
+"Lyon County, Iowa",Lyon,119,Iowa,19,2006
+"Madison County, Iowa",Madison,121,Iowa,19,2006
+"Mahaska County, Iowa",Mahaska,123,Iowa,19,2006
+"Marion County, Iowa",Marion,125,Iowa,19,2006
+"Marshall County, Iowa",Marshall,127,Iowa,19,2006
+"Mills County, Iowa",Mills,129,Iowa,19,2006
+"Mitchell County, Iowa",Mitchell,131,Iowa,19,2006
+"Monona County, Iowa",Monona,133,Iowa,19,2006
+"Monroe County, Iowa",Monroe,135,Iowa,19,2006
+"Montgomery County, Iowa",Montgomery,137,Iowa,19,2006
+"Muscatine County, Iowa",Muscatine,139,Iowa,19,2006
+"O'Brien County, Iowa",O'Brien,141,Iowa,19,2006
+"Osceola County, Iowa",Osceola,143,Iowa,19,2006
+"Page County, Iowa",Page,145,Iowa,19,2006
+"Palo Alto County, Iowa",Palo,147,Iowa,19,2006
+"Plymouth County, Iowa",Plymouth,149,Iowa,19,2006
+"Pocahontas County, Iowa",Pocahontas,151,Iowa,19,2006
+"Polk County, Iowa",Polk,153,Iowa,19,2006
+"Pottawattamie County, Iowa",Pottawattamie,155,Iowa,19,2006
+"Poweshiek County, Iowa",Poweshiek,157,Iowa,19,2006
+"Ringgold County, Iowa",Ringgold,159,Iowa,19,2006
+"Sac County, Iowa",Sac,161,Iowa,19,2006
+"Scott County, Iowa",Scott,163,Iowa,19,2006
+"Shelby County, Iowa",Shelby,165,Iowa,19,2006
+"Sioux County, Iowa",Sioux,167,Iowa,19,2006
+"Story County, Iowa",Story,169,Iowa,19,2006
+"Tama County, Iowa",Tama,171,Iowa,19,2006
+"Taylor County, Iowa",Taylor,173,Iowa,19,2006
+"Union County, Iowa",Union,175,Iowa,19,2006
+"Van Buren County, Iowa",Van,177,Iowa,19,2006
+"Wapello County, Iowa",Wapello,179,Iowa,19,2006
+"Warren County, Iowa",Warren,181,Iowa,19,2006
+"Washington County, Iowa",Washington,183,Iowa,19,2006
+"Wayne County, Iowa",Wayne,185,Iowa,19,2006
+"Webster County, Iowa",Webster,187,Iowa,19,2007
+"Winnebago County, Iowa",Winnebago,189,Iowa,19,2007
+"Winneshiek County, Iowa",Winneshiek,191,Iowa,19,2008
+"Woodbury County, Iowa",Woodbury,193,Iowa,19,2008
+"Worth County, Iowa",Worth,195,Iowa,19,2008
+"Wright County, Iowa",Wright,197,Iowa,19,2008
+"Caddo Parish, Louisiana",Caddo,17,Louisiana,22,2008
+"Howard County, Maryland",Howard,27,Maryland,24,2008
+"Montgomery County, Maryland",Montgomery,31,Maryland,24,2008
+"Grand Traverse County, Michigan",Grand Traverse,55,Michigan,26,2009
+"Kalamazoo City and County, Michigan",Kalamazoo,77,Michigan,26,2008
+"Crow Wing County, Minnesota",Crow Wing,35,Minnesota,27,2010
+"Ramsey County, Minnesota",Ramsey,123,Minnesota,27,2010
+"St. Louis County, Missouri",St. Louis,189,Missouri,29,2010
+"Washoe County, Nevada",Washoe,31,Nevada,32,2013
+"Bergen County, New Jersey",Bergen,3,New Jersey,34,2017
+"Camden County, New Jersey",Camden,7,New Jersey,34,2017
+"Hudson County, New Jersey",Hudson,17,New Jersey,34,2018
+"Mercer County, New Jersey",Mercer,21,New Jersey,34,2018
+"Middlesex County, New Jersey",Middlesex,23,New Jersey,34,2019
+"Passaic County, New Jersey",Passaic,31,New Jersey,34,2019
+"Somerset County, New Jersey",Somerset,35,New Jersey,34,2019
+"Union County, New Jersey",Union,39,New Jersey,34,2020
+"Tompkins County, New York",Tompkins,109,New York,36,2004
+"Wake County, North Carolina",Wake,183,North Carolina,37,2004
+"Cuyahoga County, Ohio",Cuyahoga,35,Ohio,39,2004
+"Franklin County, Ohio",Franklin,49,Ohio,39,2004
+"Montgomery County, Ohio",Montgomery,113,Ohio,39,2004
+"Hood River County, Oregon",Hood River,27,Oregon,41,2004
+"Adams County, Pennsylvania",Adams,1,Pennsylvania,42,2004
+"Allegheny County, Pennsylvania",Allegheny,3,Pennsylvania,42,2004
+"Armstrong County, Pennsylvania",Armstrong,5,Pennsylvania,42,2004
+"Beaver County, Pennsylvania",Beaver,7,Pennsylvania,42,2004
+"Berks County, Pennsylvania",Berks,11,Pennsylvania,42,2004
+"Blair County, Pennsylvania",Blair,13,Pennsylvania,42,2004
+"Bradford County, Pennsylvania",Bradford,15,Pennsylvania,42,2004
+"Bucks County, Pennsylvania",Bucks,17,Pennsylvania,42,2004
+"Butler County, Pennsylvania",Butler,19,Pennsylvania,42,2004
+"Cambria County, Pennsylvania",Cambria,21,Pennsylvania,42,2004
+"Carbon County, Pennsylvania",Carbon,25,Pennsylvania,42,2004
+"Centre County, Pennsylvania",Centre,27,Pennsylvania,42,2004
+"Chester County, Pennsylvania",Chester,29,Pennsylvania,42,2004
+"Clinton County, Pennsylvania",Clinton,35,Pennsylvania,42,2004
+"Columbia County, Pennsylvania",Columbia,37,Pennsylvania,42,2004
+"Crawford County, Pennsylvania",Crawford,39,Pennsylvania,42,2004
+"Cumberland County, Pennsylvania",Cumberland,41,Pennsylvania,42,2004
+"Dauphin County, Pennsylvania",Dauphin,43,Pennsylvania,42,2004
+"Delaware County, Pennsylvania",Delaware,45,Pennsylvania,42,2004
+"Elk County, Pennsylvania",Elk,47,Pennsylvania,42,2004
+"Erie County, Pennsylvania",Erie,49,Pennsylvania,42,2004
+"Fayette County, Pennsylvania",Fayette,51,Pennsylvania,42,2004
+"Franklin County, Pennsylvania",Franklin,55,Pennsylvania,42,2004
+"Greene County, Pennsylvania",Greene,59,Pennsylvania,42,2004
+"Indiana County, Pennsylvania",Indiana,63,Pennsylvania,42,2004
+"Lackawanna County, Pennsylvania",Lackawanna,69,Pennsylvania,42,2004
+"Lancaster County, Pennsylvania",Lancaster,71,Pennsylvania,42,2004
+"Lebanon County, Pennsylvania",Lebanon,75,Pennsylvania,42,2004
+"Lehigh County, Pennsylvania",Lehigh,77,Pennsylvania,42,2004
+"Luzerne County, Pennsylvania",Luzerne,79,Pennsylvania,42,2004
+"Lycoming County, Pennsylvania",Lycoming,81,Pennsylvania,42,2004
+"Mercer County, Pennsylvania",Mercer,85,Pennsylvania,42,2004
+"Mifflin County, Pennsylvania",Mifflin,87,Pennsylvania,42,2004
+"Monroe County, Pennsylvania",Monroe,89,Pennsylvania,42,2004
+"Montgomery County, Pennsylvania",Montgomery,91,Pennsylvania,42,2004
+"Northampton County, Pennsylvania",Northampton,95,Pennsylvania,42,2004
+"Northumberland County, Pennsylvania",Northumberland,97,Pennsylvania,42,2004
+"Perry County, Pennsylvania",Perry,99,Pennsylvania,42,2004
+"Pike County, Pennsylvania",Pike,103,Pennsylvania,42,2004
+"Schuylkill County, Pennsylvania",Schuylkill,107,Pennsylvania,42,2004
+"Somerset County, Pennsylvania",Somerset,111,Pennsylvania,42,2004
+"Susquehanna County, Pennsylvania",Susquehanna,115,Pennsylvania,42,2004
+"Union County, Pennsylvania",Union,119,Pennsylvania,42,2004
+"Venango County, Pennsylvania",Venango,121,Pennsylvania,42,2004
+"Warren County, Pennsylvania",Warren,123,Pennsylvania,42,2004
+"Washington County, Pennsylvania",Washington,125,Pennsylvania,42,2004
+"Westmoreland County, Pennsylvania",Westmoreland,129,Pennsylvania,42,2004
+"Wyoming County, Pennsylvania",Wyoming,131,Pennsylvania,42,2004
+"York County, Pennsylvania",York,133,Pennsylvania,42,2004
+"Arlington County, Virginia",Arlington,13,Virginia,51,2004
+"Fairfax County, Virginia",Fairfax,59,Virginia,51,2004
+"Adams County, Washington",Adams,1,Washington,53,2004
+"Asotin County, Washington",Asotin,3,Washington,53,2004
+"Benton County, Washington",Benton,5,Washington,53,2004
+"Chelan County, Washington",Chelan,7,Washington,53,2004
+"Clallam County, Washington",Clallam,9,Washington,53,2004
+"Clark County, Washington",Clark,11,Washington,53,2004
+"Columbia County, Washington",Columbia,13,Washington,53,2004
+"Cowlitz County, Washington",Cowlitz,15,Washington,53,2004
+"Douglas County, Washington",Douglas,17,Washington,53,2004
+"Ferry County, Washington",Ferry,19,Washington,53,2004
+"Franklin County, Washington",Franklin,21,Washington,53,2004
+"Garfield County, Washington",Garfield,23,Washington,53,2004
+"Grant County, Washington",Grant,25,Washington,53,2004
+"Grays Harbor County, Washington",Grays,27,Washington,53,2004
+"Island County, Washington",Island,29,Washington,53,2004
+"Jefferson County, Washington",Jefferson,31,Washington,53,2004
+"King County, Washington",King,33,Washington,53,2004
+"Kitsap County, Washington",Kitsap,35,Washington,53,2004
+"Kittitas County, Washington",Kittitas,37,Washington,53,2004
+"Klickitat County, Washington",Klickitat,39,Washington,53,2004
+"Lewis County, Washington",Lewis,41,Washington,53,2004
+"Lincoln County, Washington",Lincoln,43,Washington,53,2004
+"Mason County, Washington",Mason,45,Washington,53,2004
+"Okanogan County, Washington",Okanogan,47,Washington,53,2004
+"Pacific County, Washington",Pacific,49,Washington,53,2004
+"Pend Oreille County, Washington",Pend,51,Washington,53,2004
+"Pierce County, Washington",Pierce,53,Washington,53,2004
+"San Juan County, Washington",San Juan,55,Washington,53,2004
+"Skagit County, Washington",Skagit,57,Washington,53,2004
+"Skamania County, Washington",Skamania,59,Washington,53,2004
+"Snohomish County, Washington",Snohomish,61,Washington,53,2004
+"Spokane County, Washington",Spokane,63,Washington,53,2004
+"Stevens County, Washington",Stevens,65,Washington,53,2004
+"Thurston County, Washington",Thurston,67,Washington,53,2004
+"Wahkiakum County, Washington",Wahkiakum,69,Washington,53,2004
+"Walla Walla County, Washington",Walla,71,Washington,53,2004
+"Whatcom County, Washington",Whatcom,73,Washington,53,2004
+"Whitman County, Washington",Whitman,75,Washington,53,2004
+"Yakima County, Washington",Yakima,77,Washington,53,2004

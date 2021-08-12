@@ -1,0 +1,35 @@
+Aspect,Variable
+Housing,average_household_size
+Tenant Rights,d_above_avg_delta_rate
+Political,d_ban_box
+Quality control,d_low_flag
+Tenant Rights,d_receipts_required
+Housing,density
+Demographic,dissimilarity_index
+Geography,division
+Welfare,fed_spending_per_month_subsidized
+Economic,gdp
+Geography,land_area
+Tenant Rights,max_days_return_security_deposit
+Housing,median_contract_rent
+Housing,median_gross_rent
+Economic,median_household_income
+Housing,median_monthly_housing_costs
+Housing,median_property_value
+Housing,median_real_estate_taxes_paid
+Economic,median_utilities
+Economic,min_wage
+Welfare,months_from_movein_subsidized
+Welfare,months_waiting_subsidized
+Housing,owner_occupied_average_household_size
+Demographic,pct_af_am
+Demographic,pct_asian
+Demographic,pct_hispanic
+Welfare,pct_movein_subsidized
+Demographic,pct_multiple
+Welfare,pct_occupied_subsidized
+Demographic,pct_white
+Economic,poverty_rate
+Economic,rent_burden
+Housing,renter_occupied_average_household_size
+Demographic,segregation

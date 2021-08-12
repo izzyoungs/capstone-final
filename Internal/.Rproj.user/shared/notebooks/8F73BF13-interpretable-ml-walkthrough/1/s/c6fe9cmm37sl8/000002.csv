@@ -1,0 +1,14 @@
+"0","```r
+set.seed(1988) # set a seed for replication purposes 
+
+# Partition the data into 5 equal folds
+folds <- createFolds(train_data2$coverage, k = 5) 
+
+# Cross validation object
+control_conditions <- 
+  trainControl(method='cv', # K-fold cross validation
+               summaryFunction = twoClassSummary, # Two classes 
+               classProbs = TRUE, # Need this b/c it's a classification problem
+               index = folds # The indices for our folds
+  )
+```"

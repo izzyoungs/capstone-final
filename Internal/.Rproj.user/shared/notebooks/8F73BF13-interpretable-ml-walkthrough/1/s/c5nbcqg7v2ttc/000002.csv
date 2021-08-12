@@ -1,0 +1,5 @@
+"0","```r
+tibble(truth = train_data3$coverage_probs,
+       estimate = predict(surrogate_tree)) %>% 
+  rsq(truth,estimate)
+```"

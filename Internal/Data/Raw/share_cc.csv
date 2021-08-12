@@ -1,0 +1,3143 @@
+year,geoid,State,State abr.,County,share_creative_class
+2014,1001,Alabama,AL,Autauga County,0.23529
+2014,1003,Alabama,AL,Baldwin County,0.2568
+2014,1005,Alabama,AL,Barbour County,0.15413
+2014,1007,Alabama,AL,Bibb County,0.14484
+2014,1009,Alabama,AL,Blount County,0.16918
+2014,1011,Alabama,AL,Bullock County,0.14732
+2014,1013,Alabama,AL,Butler County,0.14551
+2014,1015,Alabama,AL,Calhoun County,0.19141
+2014,1017,Alabama,AL,Chambers County,0.16433
+2014,1019,Alabama,AL,Cherokee County,0.19527
+2014,1021,Alabama,AL,Chilton County,0.19058
+2014,1023,Alabama,AL,Choctaw County,0.1509
+2014,1025,Alabama,AL,Clarke County,0.18905
+2014,1027,Alabama,AL,Clay County,0.11586
+2014,1029,Alabama,AL,Cleburne County,0.14429
+2014,1031,Alabama,AL,Coffee County,0.18989
+2014,1033,Alabama,AL,Colbert County,0.16308
+2014,1035,Alabama,AL,Conecuh County,0.18486
+2014,1037,Alabama,AL,Coosa County,0.10508
+2014,1039,Alabama,AL,Covington County,0.17363
+2014,1041,Alabama,AL,Crenshaw County,0.17757
+2014,1043,Alabama,AL,Cullman County,0.1569
+2014,1045,Alabama,AL,Dale County,0.15067
+2014,1047,Alabama,AL,Dallas County,0.14665
+2014,1049,Alabama,AL,DeKalb County,0.12924
+2014,1051,Alabama,AL,Elmore County,0.24732
+2014,1053,Alabama,AL,Escambia County,0.16113
+2014,1055,Alabama,AL,Etowah County,0.17011
+2014,1057,Alabama,AL,Fayette County,0.14498
+2014,1059,Alabama,AL,Franklin County,0.125
+2014,1061,Alabama,AL,Geneva County,0.16021
+2014,1063,Alabama,AL,Greene County,0.13162
+2014,1065,Alabama,AL,Hale County,0.10898
+2014,1067,Alabama,AL,Henry County,0.19237
+2014,1069,Alabama,AL,Houston County,0.19706
+2014,1071,Alabama,AL,Jackson County,0.14614
+2014,1073,Alabama,AL,Jefferson County,0.25654
+2014,1075,Alabama,AL,Lamar County,0.14434
+2014,1077,Alabama,AL,Lauderdale County,0.18397
+2014,1079,Alabama,AL,Lawrence County,0.15536
+2014,1081,Alabama,AL,Lee County,0.24054
+2014,1083,Alabama,AL,Limestone County,0.24088
+2014,1085,Alabama,AL,Lowndes County,0.12676
+2014,1087,Alabama,AL,Macon County,0.13502
+2014,1089,Alabama,AL,Madison County,0.33556
+2014,1091,Alabama,AL,Marengo County,0.15601
+2014,1093,Alabama,AL,Marion County,0.14184
+2014,1095,Alabama,AL,Marshall County,0.18568
+2014,1097,Alabama,AL,Mobile County,0.21071
+2014,1099,Alabama,AL,Monroe County,0.14494
+2014,1101,Alabama,AL,Montgomery County,0.25352
+2014,1103,Alabama,AL,Morgan County,0.20666
+2014,1105,Alabama,AL,Perry County,0.11318
+2014,1107,Alabama,AL,Pickens County,0.1383
+2014,1109,Alabama,AL,Pike County,0.1758
+2014,1111,Alabama,AL,Randolph County,0.15899
+2014,1113,Alabama,AL,Russell County,0.13488
+2014,1115,Alabama,AL,St. Clair County,0.21333
+2014,1117,Alabama,AL,Shelby County,0.34414
+2014,1119,Alabama,AL,Sumter County,0.1401
+2014,1121,Alabama,AL,Talladega County,0.15567
+2014,1123,Alabama,AL,Tallapoosa County,0.16874
+2014,1125,Alabama,AL,Tuscaloosa County,0.20583
+2014,1127,Alabama,AL,Walker County,0.13461
+2014,1129,Alabama,AL,Washington County,0.1317
+2014,1131,Alabama,AL,Wilcox County,0.13093
+2014,1133,Alabama,AL,Winston County,0.16711
+2014,2013,Alaska,AK,Aleutians East Borough,0.0332
+2014,2016,Alaska,AK,Aleutians West Census Area,0.10448
+2014,2020,Alaska,AK,Anchorage Municipality,0.27009
+2014,2050,Alaska,AK,Bethel Census Area,0.19098
+2014,2060,Alaska,AK,Bristol Bay Borough,0.30189
+2014,2068,Alaska,AK,Denali Borough,0.27363
+2014,2070,Alaska,AK,Dillingham Census Area,0.22642
+2014,2090,Alaska,AK,Fairbanks North Star Borough,0.23792
+2014,2100,Alaska,AK,Haines Borough,0.26255
+2014,2110,Alaska,AK,Juneau City and Borough,0.2928
+2014,2122,Alaska,AK,Kenai Peninsula Borough,0.20096
+2014,2130,Alaska,AK,Ketchikan Gateway Borough,0.20523
+2014,2150,Alaska,AK,Kodiak Island Borough,0.14228
+2014,2164,Alaska,AK,Lake and Peninsula Borough,0.14085
+2014,2170,Alaska,AK,Matanuska-Susitna Borough,0.22154
+2014,2180,Alaska,AK,Nome Census Area,0.18421
+2014,2185,Alaska,AK,North Slope Borough,0.22305
+2014,2188,Alaska,AK,Northwest Arctic Borough,0.13178
+2014,2201,Alaska,AK,Prince of Wales-Outer Ketchikan Census A,0.21169
+2014,2220,Alaska,AK,Sitka City and Borough,0.24302
+2014,2232,Alaska,AK,Skagway-Hoonah-Angoon Census Area,0.2449
+2014,2240,Alaska,AK,Southeast Fairbanks Census Area,0.18841
+2014,2261,Alaska,AK,Valdez-Cordova Census Area,0.22453
+2014,2270,Alaska,AK,Wade Hampton Census Area,0.11823
+2014,2280,Alaska,AK,Wrangell-Petersburg Census Area,0.21888
+2014,2282,Alaska,AK,Yakutat City and Borough,0.19388
+2014,2290,Alaska,AK,Yukon-Koyukuk Census Area,0.19506
+2014,4001,Arizona,AZ,Apache County,0.12549
+2014,4003,Arizona,AZ,Cochise County,0.23526
+2014,4005,Arizona,AZ,Coconino County,0.22919
+2014,4007,Arizona,AZ,Gila County,0.15037
+2014,4009,Arizona,AZ,Graham County,0.18215
+2014,4011,Arizona,AZ,Greenlee County,0.11712
+2014,4012,Arizona,AZ,La Paz County,0.13025
+2014,4013,Arizona,AZ,Maricopa County,0.28144
+2014,4015,Arizona,AZ,Mohave County,0.1833
+2014,4017,Arizona,AZ,Navajo County,0.17802
+2014,4019,Arizona,AZ,Pima County,0.2604
+2014,4021,Arizona,AZ,Pinal County,0.22149
+2014,4023,Arizona,AZ,Santa Cruz County,0.1834
+2014,4025,Arizona,AZ,Yavapai County,0.23683
+2014,4027,Arizona,AZ,Yuma County,0.17115
+2014,5001,Arkansas,AR,Arkansas County,0.17011
+2014,5003,Arkansas,AR,Ashley County,0.14868
+2014,5005,Arkansas,AR,Baxter County,0.22345
+2014,5007,Arkansas,AR,Benton County,0.25481
+2014,5009,Arkansas,AR,Boone County,0.19102
+2014,5011,Arkansas,AR,Bradley County,0.16544
+2014,5013,Arkansas,AR,Calhoun County,0.09595
+2014,5015,Arkansas,AR,Carroll County,0.17518
+2014,5017,Arkansas,AR,Chicot County,0.11772
+2014,5019,Arkansas,AR,Clark County,0.19062
+2014,5021,Arkansas,AR,Clay County,0.1548
+2014,5023,Arkansas,AR,Cleburne County,0.15185
+2014,5025,Arkansas,AR,Cleveland County,0.17456
+2014,5027,Arkansas,AR,Columbia County,0.17938
+2014,5029,Arkansas,AR,Conway County,0.12121
+2014,5031,Arkansas,AR,Craighead County,0.21409
+2014,5033,Arkansas,AR,Crawford County,0.16595
+2014,5035,Arkansas,AR,Crittenden County,0.15768
+2014,5037,Arkansas,AR,Cross County,0.11025
+2014,5039,Arkansas,AR,Dallas County,0.16906
+2014,5041,Arkansas,AR,Desha County,0.14632
+2014,5043,Arkansas,AR,Drew County,0.17436
+2014,5045,Arkansas,AR,Faulkner County,0.24624
+2014,5047,Arkansas,AR,Franklin County,0.12596
+2014,5049,Arkansas,AR,Fulton County,0.13797
+2014,5051,Arkansas,AR,Garland County,0.20265
+2014,5053,Arkansas,AR,Grant County,0.15728
+2014,5055,Arkansas,AR,Greene County,0.15695
+2014,5057,Arkansas,AR,Hempstead County,0.11424
+2014,5059,Arkansas,AR,Hot Spring County,0.14812
+2014,5061,Arkansas,AR,Howard County,0.12681
+2014,5063,Arkansas,AR,Independence County,0.17072
+2014,5065,Arkansas,AR,Izard County,0.16859
+2014,5067,Arkansas,AR,Jackson County,0.12273
+2014,5069,Arkansas,AR,Jefferson County,0.15421
+2014,5071,Arkansas,AR,Johnson County,0.10203
+2014,5073,Arkansas,AR,Lafayette County,0.11275
+2014,5075,Arkansas,AR,Lawrence County,0.11128
+2014,5077,Arkansas,AR,Lee County,0.08086
+2014,5079,Arkansas,AR,Lincoln County,0.10193
+2014,5081,Arkansas,AR,Little River County,0.1179
+2014,5083,Arkansas,AR,Logan County,0.12668
+2014,5085,Arkansas,AR,Lonoke County,0.20207
+2014,5087,Arkansas,AR,Madison County,0.12317
+2014,5089,Arkansas,AR,Marion County,0.13213
+2014,5091,Arkansas,AR,Miller County,0.17258
+2014,5093,Arkansas,AR,Mississippi County,0.12873
+2014,5095,Arkansas,AR,Monroe County,0.09699
+2014,5097,Arkansas,AR,Montgomery County,0.1392
+2014,5099,Arkansas,AR,Nevada County,0.12778
+2014,5101,Arkansas,AR,Newton County,0.1571
+2014,5103,Arkansas,AR,Ouachita County,0.15214
+2014,5105,Arkansas,AR,Perry County,0.1573
+2014,5107,Arkansas,AR,Phillips County,0.16005
+2014,5109,Arkansas,AR,Pike County,0.1448
+2014,5111,Arkansas,AR,Poinsett County,0.12708
+2014,5113,Arkansas,AR,Polk County,0.15324
+2014,5115,Arkansas,AR,Pope County,0.19051
+2014,5117,Arkansas,AR,Prairie County,0.14069
+2014,5119,Arkansas,AR,Pulaski County,0.26075
+2014,5121,Arkansas,AR,Randolph County,0.18415
+2014,5123,Arkansas,AR,St. Francis County,0.14237
+2014,5125,Arkansas,AR,Saline County,0.23625
+2014,5127,Arkansas,AR,Scott County,0.10035
+2014,5129,Arkansas,AR,Searcy County,0.12229
+2014,5131,Arkansas,AR,Sebastian County,0.2122
+2014,5133,Arkansas,AR,Sevier County,0.11103
+2014,5135,Arkansas,AR,Sharp County,0.14884
+2014,5137,Arkansas,AR,Stone County,0.18664
+2014,5139,Arkansas,AR,Union County,0.16241
+2014,5141,Arkansas,AR,Van Buren County,0.13174
+2014,5143,Arkansas,AR,Washington County,0.2445
+2014,5145,Arkansas,AR,White County,0.17932
+2014,5147,Arkansas,AR,Woodruff County,0.14933
+2014,5149,Arkansas,AR,Yell County,0.11209
+2014,6001,California,CA,Alameda County,0.35154
+2014,6003,California,CA,Alpine County,0.23585
+2014,6005,California,CA,Amador County,0.19872
+2014,6007,California,CA,Butte County,0.21975
+2014,6009,California,CA,Calaveras County,0.25693
+2014,6011,California,CA,Colusa County,0.1677
+2014,6013,California,CA,Contra Costa County,0.32867
+2014,6015,California,CA,Del Norte County,0.15191
+2014,6017,California,CA,El Dorado County,0.30854
+2014,6019,California,CA,Fresno County,0.17575
+2014,6021,California,CA,Glenn County,0.14318
+2014,6023,California,CA,Humboldt County,0.23407
+2014,6025,California,CA,Imperial County,0.15367
+2014,6027,California,CA,Inyo County,0.21465
+2014,6029,California,CA,Kern County,0.17066
+2014,6031,California,CA,Kings County,0.12771
+2014,6033,California,CA,Lake County,0.18208
+2014,6035,California,CA,Lassen County,0.18125
+2014,6037,California,CA,Los Angeles County,0.27345
+2014,6039,California,CA,Madera County,0.16599
+2014,6041,California,CA,Marin County,0.4068
+2014,6043,California,CA,Mariposa County,0.17961
+2014,6045,California,CA,Mendocino County,0.21683
+2014,6047,California,CA,Merced County,0.13092
+2014,6049,California,CA,Modoc County,0.18601
+2014,6051,California,CA,Mono County,0.30688
+2014,6053,California,CA,Monterey County,0.19567
+2014,6055,California,CA,Napa County,0.25655
+2014,6057,California,CA,Nevada County,0.29211
+2014,6059,California,CA,Orange County,0.33159
+2014,6061,California,CA,Placer County,0.3259
+2014,6063,California,CA,Plumas County,0.25157
+2014,6065,California,CA,Riverside County,0.22107
+2014,6067,California,CA,Sacramento County,0.27119
+2014,6069,California,CA,San Benito County,0.22697
+2014,6071,California,CA,San Bernardino County,0.19548
+2014,6073,California,CA,San Diego County,0.30867
+2014,6075,California,CA,San Francisco County,0.40267
+2014,6077,California,CA,San Joaquin County,0.19519
+2014,6079,California,CA,San Luis Obispo County,0.26189
+2014,6081,California,CA,San Mateo County,0.34587
+2014,6083,California,CA,Santa Barbara County,0.26324
+2014,6085,California,CA,Santa Clara County,0.40917
+2014,6087,California,CA,Santa Cruz County,0.30877
+2014,6089,California,CA,Shasta County,0.23588
+2014,6091,California,CA,Sierra County,0.20769
+2014,6093,California,CA,Siskiyou County,0.1961
+2014,6095,California,CA,Solano County,0.23018
+2014,6097,California,CA,Sonoma County,0.27215
+2014,6099,California,CA,Stanislaus County,0.17552
+2014,6101,California,CA,Sutter County,0.1945
+2014,6103,California,CA,Tehama County,0.16736
+2014,6105,California,CA,Trinity County,0.2345
+2014,6107,California,CA,Tulare County,0.14036
+2014,6109,California,CA,Tuolumne County,0.2196
+2014,6111,California,CA,Ventura County,0.29483
+2014,6113,California,CA,Yolo County,0.31448
+2014,6115,California,CA,Yuba County,0.17431
+2014,8001,Colorado,CO,Adams County,0.22853
+2014,8003,Colorado,CO,Alamosa County,0.14634
+2014,8005,Colorado,CO,Arapahoe County,0.31141
+2014,8007,Colorado,CO,Archuleta County,0.22398
+2014,8009,Colorado,CO,Baca County,0.152
+2014,8011,Colorado,CO,Bent County,0.13695
+2014,8013,Colorado,CO,Boulder County,0.42619
+2014,8015,Colorado,CO,Chaffee County,0.27506
+2014,8017,Colorado,CO,Cheyenne County,0.1991
+2014,8019,Colorado,CO,Clear Creek County,0.28236
+2014,8021,Colorado,CO,Conejos County,0.11556
+2014,8023,Colorado,CO,Costilla County,0.15162
+2014,8025,Colorado,CO,Crowley County,0.13402
+2014,8027,Colorado,CO,Custer County,0.23127
+2014,8029,Colorado,CO,Delta County,0.17677
+2014,8031,Colorado,CO,Denver County,0.32054
+2014,8033,Colorado,CO,Dolores County,0.14815
+2014,8035,Colorado,CO,Douglas County,0.46653
+2014,8037,Colorado,CO,Eagle County,0.28868
+2014,8039,Colorado,CO,Elbert County,0.30278
+2014,8041,Colorado,CO,El Paso County,0.30007
+2014,8043,Colorado,CO,Fremont County,0.19386
+2014,8045,Colorado,CO,Garfield County,0.22021
+2014,8047,Colorado,CO,Gilpin County,0.26198
+2014,8049,Colorado,CO,Grand County,0.3319
+2014,8051,Colorado,CO,Gunnison County,0.28354
+2014,8053,Colorado,CO,Hinsdale County,0.30137
+2014,8055,Colorado,CO,Huerfano County,0.25227
+2014,8057,Colorado,CO,Jackson County,0.13855
+2014,8059,Colorado,CO,Jefferson County,0.34042
+2014,8061,Colorado,CO,Kiowa County,0.13873
+2014,8063,Colorado,CO,Kit Carson County,0.16389
+2014,8065,Colorado,CO,Lake County,0.20651
+2014,8067,Colorado,CO,La Plata County,0.29929
+2014,8069,Colorado,CO,Larimer County,0.32305
+2014,8071,Colorado,CO,Las Animas County,0.15279
+2014,8073,Colorado,CO,Lincoln County,0.15065
+2014,8075,Colorado,CO,Logan County,0.12555
+2014,8077,Colorado,CO,Mesa County,0.22837
+2014,8079,Colorado,CO,Mineral County,0.27273
+2014,8081,Colorado,CO,Moffat County,0.19141
+2014,8083,Colorado,CO,Montezuma County,0.19
+2014,8085,Colorado,CO,Montrose County,0.18851
+2014,8087,Colorado,CO,Morgan County,0.12904
+2014,8089,Colorado,CO,Otero County,0.23313
+2014,8091,Colorado,CO,Ouray County,0.28676
+2014,8093,Colorado,CO,Park County,0.27806
+2014,8095,Colorado,CO,Phillips County,0.13648
+2014,8097,Colorado,CO,Pitkin County,0.43489
+2014,8099,Colorado,CO,Prowers County,0.1661
+2014,8101,Colorado,CO,Pueblo County,0.1901
+2014,8103,Colorado,CO,Rio Blanco County,0.1697
+2014,8105,Colorado,CO,Rio Grande County,0.18558
+2014,8107,Colorado,CO,Routt County,0.29312
+2014,8109,Colorado,CO,Saguache County,0.14955
+2014,8111,Colorado,CO,San Juan County,0.3587
+2014,8113,Colorado,CO,San Miguel County,0.36874
+2014,8115,Colorado,CO,Sedgwick County,0.13699
+2014,8117,Colorado,CO,Summit County,0.31668
+2014,8119,Colorado,CO,Teller County,0.2814
+2014,8121,Colorado,CO,Washington County,0.13552
+2014,8123,Colorado,CO,Weld County,0.23852
+2014,8125,Colorado,CO,Yuma County,0.09864
+2014,9001,Connecticut,CT,Fairfield County,0.33487
+2014,9003,Connecticut,CT,Hartford County,0.28433
+2014,9005,Connecticut,CT,Litchfield County,0.26664
+2014,9007,Connecticut,CT,Middlesex County,0.30994
+2014,9009,Connecticut,CT,New Haven County,0.26659
+2014,9011,Connecticut,CT,New London County,0.26387
+2014,9013,Connecticut,CT,Tolland County,0.2978
+2014,9015,Connecticut,CT,Windham County,0.19637
+2014,10001,Delaware,DE,Kent County,0.19521
+2014,10003,Delaware,DE,New Castle County,0.28325
+2014,10005,Delaware,DE,Sussex County,0.20724
+2014,11001,District of Columbia,DC,District of Columbia,0.41738
+2014,12001,Florida,FL,Alachua County,0.31053
+2014,12003,Florida,FL,Baker County,0.19356
+2014,12005,Florida,FL,Bay County,0.22272
+2014,12007,Florida,FL,Bradford County,0.16776
+2014,12009,Florida,FL,Brevard County,0.2828
+2014,12011,Florida,FL,Broward County,0.27877
+2014,12013,Florida,FL,Calhoun County,0.14123
+2014,12015,Florida,FL,Charlotte County,0.21367
+2014,12017,Florida,FL,Citrus County,0.18179
+2014,12019,Florida,FL,Clay County,0.24797
+2014,12021,Florida,FL,Collier County,0.2479
+2014,12023,Florida,FL,Columbia County,0.18653
+2014,12027,Florida,FL,DeSoto County,0.10323
+2014,12029,Florida,FL,Dixie County,0.09142
+2014,12031,Florida,FL,Duval County,0.24331
+2014,12033,Florida,FL,Escambia County,0.21961
+2014,12035,Florida,FL,Flagler County,0.23938
+2014,12037,Florida,FL,Franklin County,0.17882
+2014,12039,Florida,FL,Gadsden County,0.18089
+2014,12041,Florida,FL,Gilchrist County,0.1688
+2014,12043,Florida,FL,Glades County,0.11038
+2014,12045,Florida,FL,Gulf County,0.20157
+2014,12047,Florida,FL,Hamilton County,0.14022
+2014,12049,Florida,FL,Hardee County,0.09341
+2014,12051,Florida,FL,Hendry County,0.09807
+2014,12053,Florida,FL,Hernando County,0.20344
+2014,12055,Florida,FL,Highlands County,0.14816
+2014,12057,Florida,FL,Hillsborough County,0.27902
+2014,12059,Florida,FL,Holmes County,0.16097
+2014,12061,Florida,FL,Indian River County,0.22733
+2014,12063,Florida,FL,Jackson County,0.14302
+2014,12065,Florida,FL,Jefferson County,0.20787
+2014,12067,Florida,FL,Lafayette County,0.15118
+2014,12069,Florida,FL,Lake County,0.24228
+2014,12071,Florida,FL,Lee County,0.23396
+2014,12073,Florida,FL,Leon County,0.31505
+2014,12075,Florida,FL,Levy County,0.14356
+2014,12077,Florida,FL,Liberty County,0.16824
+2014,12079,Florida,FL,Madison County,0.12491
+2014,12081,Florida,FL,Manatee County,0.24138
+2014,12083,Florida,FL,Marion County,0.18275
+2014,12085,Florida,FL,Martin County,0.27944
+2014,12086,Florida,FL,Miami-Dade County,0.24532
+2014,12087,Florida,FL,Monroe County,0.25212
+2014,12089,Florida,FL,Nassau County,0.19456
+2014,12091,Florida,FL,Okaloosa County,0.25606
+2014,12093,Florida,FL,Okeechobee County,0.11172
+2014,12095,Florida,FL,Orange County,0.27102
+2014,12097,Florida,FL,Osceola County,0.20392
+2014,12099,Florida,FL,Palm Beach County,0.2752
+2014,12101,Florida,FL,Pasco County,0.24414
+2014,12103,Florida,FL,Pinellas County,0.27832
+2014,12105,Florida,FL,Polk County,0.19993
+2014,12107,Florida,FL,Putnam County,0.14209
+2014,12109,Florida,FL,St. Johns County,0.34605
+2014,12111,Florida,FL,St. Lucie County,0.19164
+2014,12113,Florida,FL,Santa Rosa County,0.25002
+2014,12115,Florida,FL,Sarasota County,0.25363
+2014,12117,Florida,FL,Seminole County,0.34102
+2014,12119,Florida,FL,Sumter County,0.18118
+2014,12121,Florida,FL,Suwannee County,0.12229
+2014,12123,Florida,FL,Taylor County,0.16873
+2014,12125,Florida,FL,Union County,0.13851
+2014,12127,Florida,FL,Volusia County,0.23053
+2014,12129,Florida,FL,Wakulla County,0.24403
+2014,12131,Florida,FL,Walton County,0.27456
+2014,12133,Florida,FL,Washington County,0.18718
+2014,13001,Georgia,GA,Appling County,0.12039
+2014,13003,Georgia,GA,Atkinson County,0.1375
+2014,13005,Georgia,GA,Bacon County,0.1175
+2014,13007,Georgia,GA,Baker County,0.16425
+2014,13009,Georgia,GA,Baldwin County,0.16927
+2014,13011,Georgia,GA,Banks County,0.16978
+2014,13013,Georgia,GA,Barrow County,0.20858
+2014,13015,Georgia,GA,Bartow County,0.22932
+2014,13017,Georgia,GA,Ben Hill County,0.13131
+2014,13019,Georgia,GA,Berrien County,0.14894
+2014,13021,Georgia,GA,Bibb County,0.2279
+2014,13023,Georgia,GA,Bleckley County,0.21247
+2014,13025,Georgia,GA,Brantley County,0.13788
+2014,13027,Georgia,GA,Brooks County,0.17612
+2014,13029,Georgia,GA,Bryan County,0.23713
+2014,13031,Georgia,GA,Bulloch County,0.21491
+2014,13033,Georgia,GA,Burke County,0.11337
+2014,13035,Georgia,GA,Butts County,0.17872
+2014,13037,Georgia,GA,Calhoun County,0.11538
+2014,13039,Georgia,GA,Camden County,0.19017
+2014,13043,Georgia,GA,Candler County,0.11062
+2014,13045,Georgia,GA,Carroll County,0.19906
+2014,13047,Georgia,GA,Catoosa County,0.21155
+2014,13049,Georgia,GA,Charlton County,0.13094
+2014,13051,Georgia,GA,Chatham County,0.24106
+2014,13053,Georgia,GA,Chattahoochee County,0.17677
+2014,13055,Georgia,GA,Chattooga County,0.10456
+2014,13057,Georgia,GA,Cherokee County,0.32882
+2014,13059,Georgia,GA,Clarke County,0.28159
+2014,13061,Georgia,GA,Clay County,0.06548
+2014,13063,Georgia,GA,Clayton County,0.15983
+2014,13065,Georgia,GA,Clinch County,0.08419
+2014,13067,Georgia,GA,Cobb County,0.35616
+2014,13069,Georgia,GA,Coffee County,0.14071
+2014,13071,Georgia,GA,Colquitt County,0.17071
+2014,13073,Georgia,GA,Columbia County,0.27176
+2014,13075,Georgia,GA,Cook County,0.14185
+2014,13077,Georgia,GA,Coweta County,0.25141
+2014,13079,Georgia,GA,Crawford County,0.20226
+2014,13081,Georgia,GA,Crisp County,0.1815
+2014,13083,Georgia,GA,Dade County,0.21395
+2014,13085,Georgia,GA,Dawson County,0.274
+2014,13087,Georgia,GA,Decatur County,0.15752
+2014,13089,Georgia,GA,DeKalb County,0.30848
+2014,13091,Georgia,GA,Dodge County,0.11206
+2014,13093,Georgia,GA,Dooly County,0.13282
+2014,13095,Georgia,GA,Dougherty County,0.17644
+2014,13097,Georgia,GA,Douglas County,0.23615
+2014,13099,Georgia,GA,Early County,0.11326
+2014,13101,Georgia,GA,Echols County,0.10375
+2014,13103,Georgia,GA,Effingham County,0.22053
+2014,13105,Georgia,GA,Elbert County,0.1478
+2014,13107,Georgia,GA,Emanuel County,0.15125
+2014,13109,Georgia,GA,Evans County,0.18171
+2014,13111,Georgia,GA,Fannin County,0.20712
+2014,13113,Georgia,GA,Fayette County,0.3261
+2014,13115,Georgia,GA,Floyd County,0.19607
+2014,13117,Georgia,GA,Forsyth County,0.40757
+2014,13119,Georgia,GA,Franklin County,0.15606
+2014,13121,Georgia,GA,Fulton County,0.39452
+2014,13123,Georgia,GA,Gilmer County,0.17217
+2014,13125,Georgia,GA,Glascock County,0.10277
+2014,13127,Georgia,GA,Glynn County,0.19839
+2014,13129,Georgia,GA,Gordon County,0.16191
+2014,13131,Georgia,GA,Grady County,0.14037
+2014,13133,Georgia,GA,Greene County,0.13852
+2014,13135,Georgia,GA,Gwinnett County,0.31101
+2014,13137,Georgia,GA,Habersham County,0.20118
+2014,13139,Georgia,GA,Hall County,0.21706
+2014,13141,Georgia,GA,Hancock County,0.09142
+2014,13143,Georgia,GA,Haralson County,0.19738
+2014,13145,Georgia,GA,Harris County,0.28873
+2014,13147,Georgia,GA,Hart County,0.16606
+2014,13149,Georgia,GA,Heard County,0.09251
+2014,13151,Georgia,GA,Henry County,0.2285
+2014,13153,Georgia,GA,Houston County,0.24143
+2014,13155,Georgia,GA,Irwin County,0.12361
+2014,13157,Georgia,GA,Jackson County,0.2372
+2014,13159,Georgia,GA,Jasper County,0.22428
+2014,13161,Georgia,GA,Jeff Davis County,0.13825
+2014,13163,Georgia,GA,Jefferson County,0.12342
+2014,13165,Georgia,GA,Jenkins County,0.16807
+2014,13167,Georgia,GA,Johnson County,0.08523
+2014,13169,Georgia,GA,Jones County,0.20434
+2014,13171,Georgia,GA,Lamar County,0.17852
+2014,13173,Georgia,GA,Lanier County,0.17664
+2014,13175,Georgia,GA,Laurens County,0.15334
+2014,13177,Georgia,GA,Lee County,0.25067
+2014,13179,Georgia,GA,Liberty County,0.1647
+2014,13181,Georgia,GA,Lincoln County,0.10606
+2014,13183,Georgia,GA,Long County,0.13401
+2014,13185,Georgia,GA,Lowndes County,0.18727
+2014,13187,Georgia,GA,Lumpkin County,0.25058
+2014,13189,Georgia,GA,McDuffie County,0.15437
+2014,13191,Georgia,GA,McIntosh County,0.16086
+2014,13193,Georgia,GA,Macon County,0.12293
+2014,13195,Georgia,GA,Madison County,0.1574
+2014,13197,Georgia,GA,Marion County,0.1009
+2014,13199,Georgia,GA,Meriwether County,0.12612
+2014,13201,Georgia,GA,Miller County,0.15385
+2014,13205,Georgia,GA,Mitchell County,0.15993
+2014,13207,Georgia,GA,Monroe County,0.21998
+2014,13209,Georgia,GA,Montgomery County,0.14917
+2014,13211,Georgia,GA,Morgan County,0.24362
+2014,13213,Georgia,GA,Murray County,0.12444
+2014,13215,Georgia,GA,Muscogee County,0.21879
+2014,13217,Georgia,GA,Newton County,0.20909
+2014,13219,Georgia,GA,Oconee County,0.3342
+2014,13221,Georgia,GA,Oglethorpe County,0.15862
+2014,13223,Georgia,GA,Paulding County,0.22483
+2014,13225,Georgia,GA,Peach County,0.17074
+2014,13227,Georgia,GA,Pickens County,0.22361
+2014,13229,Georgia,GA,Pierce County,0.14753
+2014,13231,Georgia,GA,Pike County,0.18734
+2014,13233,Georgia,GA,Polk County,0.14393
+2014,13235,Georgia,GA,Pulaski County,0.1257
+2014,13237,Georgia,GA,Putnam County,0.21099
+2014,13239,Georgia,GA,Quitman County,0.13953
+2014,13241,Georgia,GA,Rabun County,0.18491
+2014,13243,Georgia,GA,Randolph County,0.11043
+2014,13245,Georgia,GA,Richmond County,0.17066
+2014,13247,Georgia,GA,Rockdale County,0.21797
+2014,13249,Georgia,GA,Schley County,0.13648
+2014,13251,Georgia,GA,Screven County,0.12571
+2014,13253,Georgia,GA,Seminole County,0.13975
+2014,13255,Georgia,GA,Spalding County,0.15824
+2014,13257,Georgia,GA,Stephens County,0.15928
+2014,13259,Georgia,GA,Stewart County,0.16152
+2014,13261,Georgia,GA,Sumter County,0.16478
+2014,13263,Georgia,GA,Talbot County,0.12831
+2014,13265,Georgia,GA,Taliaferro County,0.0708
+2014,13267,Georgia,GA,Tattnall County,0.17095
+2014,13269,Georgia,GA,Taylor County,0.17875
+2014,13271,Georgia,GA,Telfair County,0.09778
+2014,13273,Georgia,GA,Terrell County,0.14903
+2014,13275,Georgia,GA,Thomas County,0.18198
+2014,13277,Georgia,GA,Tift County,0.18719
+2014,13279,Georgia,GA,Toombs County,0.18319
+2014,13281,Georgia,GA,Towns County,0.15822
+2014,13283,Georgia,GA,Treutlen County,0.14967
+2014,13285,Georgia,GA,Troup County,0.18018
+2014,13287,Georgia,GA,Turner County,0.15097
+2014,13289,Georgia,GA,Twiggs County,0.14974
+2014,13291,Georgia,GA,Union County,0.2067
+2014,13293,Georgia,GA,Upson County,0.12755
+2014,13295,Georgia,GA,Walker County,0.16882
+2014,13297,Georgia,GA,Walton County,0.23441
+2014,13299,Georgia,GA,Ware County,0.15886
+2014,13301,Georgia,GA,Warren County,0.08451
+2014,13303,Georgia,GA,Washington County,0.13532
+2014,13305,Georgia,GA,Wayne County,0.16381
+2014,13307,Georgia,GA,Webster County,0.20158
+2014,13309,Georgia,GA,Wheeler County,0.10671
+2014,13311,Georgia,GA,White County,0.20952
+2014,13313,Georgia,GA,Whitfield County,0.16145
+2014,13315,Georgia,GA,Wilcox County,0.11066
+2014,13317,Georgia,GA,Wilkes County,0.15782
+2014,13319,Georgia,GA,Wilkinson County,0.16763
+2014,13321,Georgia,GA,Worth County,0.16215
+2014,15001,Hawaii,HI,Hawaii County,0.21114
+2014,15003,Hawaii,HI,Honolulu County,0.24612
+2014,15005,Hawaii,HI,Kalawao County,0.22222
+2014,15007,Hawaii,HI,Kauai County,0.22505
+2014,15009,Hawaii,HI,Maui County,0.21533
+2014,16001,Idaho,ID,Ada County,0.30876
+2014,16003,Idaho,ID,Adams County,0.14489
+2014,16005,Idaho,ID,Bannock County,0.223
+2014,16007,Idaho,ID,Bear Lake County,0.16736
+2014,16009,Idaho,ID,Benewah County,0.14155
+2014,16011,Idaho,ID,Bingham County,0.17363
+2014,16013,Idaho,ID,Blaine County,0.27431
+2014,16015,Idaho,ID,Boise County,0.29372
+2014,16017,Idaho,ID,Bonner County,0.22176
+2014,16019,Idaho,ID,Bonneville County,0.24944
+2014,16021,Idaho,ID,Boundary County,0.17764
+2014,16023,Idaho,ID,Butte County,0.11297
+2014,16025,Idaho,ID,Camas County,0.14634
+2014,16027,Idaho,ID,Canyon County,0.196
+2014,16029,Idaho,ID,Caribou County,0.17247
+2014,16031,Idaho,ID,Cassia County,0.129
+2014,16033,Idaho,ID,Clark County,0.11494
+2014,16035,Idaho,ID,Clearwater County,0.1305
+2014,16037,Idaho,ID,Custer County,0.16667
+2014,16039,Idaho,ID,Elmore County,0.16863
+2014,16041,Idaho,ID,Franklin County,0.15734
+2014,16043,Idaho,ID,Fremont County,0.1456
+2014,16045,Idaho,ID,Gem County,0.2306
+2014,16047,Idaho,ID,Gooding County,0.08984
+2014,16049,Idaho,ID,Idaho County,0.13264
+2014,16051,Idaho,ID,Jefferson County,0.19991
+2014,16053,Idaho,ID,Jerome County,0.11584
+2014,16055,Idaho,ID,Kootenai County,0.2369
+2014,16057,Idaho,ID,Latah County,0.29276
+2014,16059,Idaho,ID,Lemhi County,0.17921
+2014,16061,Idaho,ID,Lewis County,0.15753
+2014,16063,Idaho,ID,Lincoln County,0.1291
+2014,16065,Idaho,ID,Madison County,0.23672
+2014,16067,Idaho,ID,Minidoka County,0.10168
+2014,16069,Idaho,ID,Nez Perce County,0.18362
+2014,16071,Idaho,ID,Oneida County,0.2029
+2014,16073,Idaho,ID,Owyhee County,0.12925
+2014,16075,Idaho,ID,Payette County,0.19155
+2014,16077,Idaho,ID,Power County,0.14056
+2014,16079,Idaho,ID,Shoshone County,0.17019
+2014,16081,Idaho,ID,Teton County,0.24187
+2014,16083,Idaho,ID,Twin Falls County,0.18432
+2014,16085,Idaho,ID,Valley County,0.22902
+2014,16087,Idaho,ID,Washington County,0.17212
+2014,17001,Illinois,IL,Adams County,0.20303
+2014,17003,Illinois,IL,Alexander County,0.11599
+2014,17005,Illinois,IL,Bond County,0.16256
+2014,17007,Illinois,IL,Boone County,0.19049
+2014,17009,Illinois,IL,Brown County,0.10853
+2014,17011,Illinois,IL,Bureau County,0.15996
+2014,17013,Illinois,IL,Calhoun County,0.17556
+2014,17015,Illinois,IL,Carroll County,0.17579
+2014,17017,Illinois,IL,Cass County,0.11816
+2014,17019,Illinois,IL,Champaign County,0.32443
+2014,17021,Illinois,IL,Christian County,0.16026
+2014,17023,Illinois,IL,Clark County,0.17394
+2014,17025,Illinois,IL,Clay County,0.12733
+2014,17027,Illinois,IL,Clinton County,0.2048
+2014,17029,Illinois,IL,Coles County,0.18717
+2014,17031,Illinois,IL,Cook County,0.27362
+2014,17033,Illinois,IL,Crawford County,0.13446
+2014,17035,Illinois,IL,Cumberland County,0.14957
+2014,17037,Illinois,IL,DeKalb County,0.23299
+2014,17039,Illinois,IL,De Witt County,0.1651
+2014,17041,Illinois,IL,Douglas County,0.1769
+2014,17043,Illinois,IL,DuPage County,0.34867
+2014,17045,Illinois,IL,Edgar County,0.15749
+2014,17047,Illinois,IL,Edwards County,0.16124
+2014,17049,Illinois,IL,Effingham County,0.20495
+2014,17051,Illinois,IL,Fayette County,0.15827
+2014,17053,Illinois,IL,Ford County,0.17231
+2014,17055,Illinois,IL,Franklin County,0.16088
+2014,17057,Illinois,IL,Fulton County,0.16504
+2014,17059,Illinois,IL,Gallatin County,0.13291
+2014,17061,Illinois,IL,Greene County,0.12112
+2014,17063,Illinois,IL,Grundy County,0.20379
+2014,17065,Illinois,IL,Hamilton County,0.1622
+2014,17067,Illinois,IL,Hancock County,0.18152
+2014,17069,Illinois,IL,Hardin County,0.05351
+2014,17071,Illinois,IL,Henderson County,0.15341
+2014,17073,Illinois,IL,Henry County,0.185
+2014,17075,Illinois,IL,Iroquois County,0.14286
+2014,17077,Illinois,IL,Jackson County,0.23845
+2014,17079,Illinois,IL,Jasper County,0.11123
+2014,17081,Illinois,IL,Jefferson County,0.15808
+2014,17083,Illinois,IL,Jersey County,0.18004
+2014,17085,Illinois,IL,Jo Daviess County,0.20345
+2014,17087,Illinois,IL,Johnson County,0.14153
+2014,17089,Illinois,IL,Kane County,0.27433
+2014,17091,Illinois,IL,Kankakee County,0.1756
+2014,17093,Illinois,IL,Kendall County,0.28728
+2014,17095,Illinois,IL,Knox County,0.16457
+2014,17097,Illinois,IL,Lake County,0.3339
+2014,17099,Illinois,IL,La Salle County,0.17352
+2014,17101,Illinois,IL,Lawrence County,0.14351
+2014,17103,Illinois,IL,Lee County,0.16727
+2014,17105,Illinois,IL,Livingston County,0.12474
+2014,17107,Illinois,IL,Logan County,0.16013
+2014,17109,Illinois,IL,McDonough County,0.23172
+2014,17111,Illinois,IL,McHenry County,0.30369
+2014,17113,Illinois,IL,McLean County,0.29989
+2014,17115,Illinois,IL,Macon County,0.20214
+2014,17117,Illinois,IL,Macoupin County,0.16938
+2014,17119,Illinois,IL,Madison County,0.23433
+2014,17121,Illinois,IL,Marion County,0.14852
+2014,17123,Illinois,IL,Marshall County,0.15979
+2014,17125,Illinois,IL,Mason County,0.12461
+2014,17127,Illinois,IL,Massac County,0.12637
+2014,17129,Illinois,IL,Menard County,0.18967
+2014,17131,Illinois,IL,Mercer County,0.14565
+2014,17133,Illinois,IL,Monroe County,0.23891
+2014,17135,Illinois,IL,Montgomery County,0.14447
+2014,17137,Illinois,IL,Morgan County,0.16334
+2014,17139,Illinois,IL,Moultrie County,0.15844
+2014,17141,Illinois,IL,Ogle County,0.19339
+2014,17143,Illinois,IL,Peoria County,0.26229
+2014,17145,Illinois,IL,Perry County,0.14625
+2014,17147,Illinois,IL,Piatt County,0.21565
+2014,17149,Illinois,IL,Pike County,0.1156
+2014,17151,Illinois,IL,Pope County,0.0765
+2014,17153,Illinois,IL,Pulaski County,0.09836
+2014,17155,Illinois,IL,Putnam County,0.16934
+2014,17157,Illinois,IL,Randolph County,0.14608
+2014,17159,Illinois,IL,Richland County,0.15223
+2014,17161,Illinois,IL,Rock Island County,0.20424
+2014,17163,Illinois,IL,St. Clair County,0.22399
+2014,17165,Illinois,IL,Saline County,0.18539
+2014,17167,Illinois,IL,Sangamon County,0.25539
+2014,17169,Illinois,IL,Schuyler County,0.13286
+2014,17171,Illinois,IL,Scott County,0.1171
+2014,17173,Illinois,IL,Shelby County,0.15159
+2014,17175,Illinois,IL,Stark County,0.17472
+2014,17177,Illinois,IL,Stephenson County,0.16515
+2014,17179,Illinois,IL,Tazewell County,0.21789
+2014,17181,Illinois,IL,Union County,0.17505
+2014,17183,Illinois,IL,Vermilion County,0.15192
+2014,17185,Illinois,IL,Wabash County,0.14196
+2014,17187,Illinois,IL,Warren County,0.16861
+2014,17189,Illinois,IL,Washington County,0.16774
+2014,17191,Illinois,IL,Wayne County,0.13734
+2014,17193,Illinois,IL,White County,0.14719
+2014,17195,Illinois,IL,Whiteside County,0.16305
+2014,17197,Illinois,IL,Will County,0.26129
+2014,17199,Illinois,IL,Williamson County,0.20654
+2014,17201,Illinois,IL,Winnebago County,0.21019
+2014,17203,Illinois,IL,Woodford County,0.23272
+2014,18001,Indiana,IN,Adams County,0.14591
+2014,18003,Indiana,IN,Allen County,0.24697
+2014,18005,Indiana,IN,Bartholomew County,0.26744
+2014,18007,Indiana,IN,Benton County,0.15491
+2014,18009,Indiana,IN,Blackford County,0.15132
+2014,18011,Indiana,IN,Boone County,0.32262
+2014,18013,Indiana,IN,Brown County,0.20728
+2014,18015,Indiana,IN,Carroll County,0.15093
+2014,18017,Indiana,IN,Cass County,0.13609
+2014,18019,Indiana,IN,Clark County,0.21087
+2014,18021,Indiana,IN,Clay County,0.16141
+2014,18023,Indiana,IN,Clinton County,0.13998
+2014,18025,Indiana,IN,Crawford County,0.10532
+2014,18027,Indiana,IN,Daviess County,0.12724
+2014,18029,Indiana,IN,Dearborn County,0.21658
+2014,18031,Indiana,IN,Decatur County,0.17983
+2014,18033,Indiana,IN,DeKalb County,0.17408
+2014,18035,Indiana,IN,Delaware County,0.20654
+2014,18037,Indiana,IN,Dubois County,0.19351
+2014,18039,Indiana,IN,Elkhart County,0.18119
+2014,18041,Indiana,IN,Fayette County,0.12983
+2014,18043,Indiana,IN,Floyd County,0.24142
+2014,18045,Indiana,IN,Fountain County,0.13156
+2014,18047,Indiana,IN,Franklin County,0.17631
+2014,18049,Indiana,IN,Fulton County,0.13889
+2014,18051,Indiana,IN,Gibson County,0.15763
+2014,18053,Indiana,IN,Grant County,0.18434
+2014,18055,Indiana,IN,Greene County,0.15698
+2014,18057,Indiana,IN,Hamilton County,0.41483
+2014,18059,Indiana,IN,Hancock County,0.26795
+2014,18061,Indiana,IN,Harrison County,0.1584
+2014,18063,Indiana,IN,Hendricks County,0.29234
+2014,18065,Indiana,IN,Henry County,0.16883
+2014,18067,Indiana,IN,Howard County,0.18567
+2014,18069,Indiana,IN,Huntington County,0.16963
+2014,18071,Indiana,IN,Jackson County,0.17966
+2014,18073,Indiana,IN,Jasper County,0.16514
+2014,18075,Indiana,IN,Jay County,0.10913
+2014,18077,Indiana,IN,Jefferson County,0.17436
+2014,18079,Indiana,IN,Jennings County,0.12953
+2014,18081,Indiana,IN,Johnson County,0.25011
+2014,18083,Indiana,IN,Knox County,0.17237
+2014,18085,Indiana,IN,Kosciusko County,0.20447
+2014,18087,Indiana,IN,LaGrange County,0.11892
+2014,18089,Indiana,IN,Lake County,0.19417
+2014,18091,Indiana,IN,LaPorte County,0.18494
+2014,18093,Indiana,IN,Lawrence County,0.18507
+2014,18095,Indiana,IN,Madison County,0.19918
+2014,18097,Indiana,IN,Marion County,0.24157
+2014,18099,Indiana,IN,Marshall County,0.17064
+2014,18101,Indiana,IN,Martin County,0.13514
+2014,18103,Indiana,IN,Miami County,0.13575
+2014,18105,Indiana,IN,Monroe County,0.33517
+2014,18107,Indiana,IN,Montgomery County,0.17791
+2014,18109,Indiana,IN,Morgan County,0.19474
+2014,18111,Indiana,IN,Newton County,0.132
+2014,18113,Indiana,IN,Noble County,0.14562
+2014,18115,Indiana,IN,Ohio County,0.13086
+2014,18117,Indiana,IN,Orange County,0.14982
+2014,18119,Indiana,IN,Owen County,0.15969
+2014,18121,Indiana,IN,Parke County,0.13853
+2014,18123,Indiana,IN,Perry County,0.11001
+2014,18125,Indiana,IN,Pike County,0.14591
+2014,18127,Indiana,IN,Porter County,0.23962
+2014,18129,Indiana,IN,Posey County,0.18037
+2014,18131,Indiana,IN,Pulaski County,0.14539
+2014,18133,Indiana,IN,Putnam County,0.17543
+2014,18135,Indiana,IN,Randolph County,0.13234
+2014,18137,Indiana,IN,Ripley County,0.16443
+2014,18139,Indiana,IN,Rush County,0.15806
+2014,18141,Indiana,IN,St. Joseph County,0.24221
+2014,18143,Indiana,IN,Scott County,0.1597
+2014,18145,Indiana,IN,Shelby County,0.20083
+2014,18147,Indiana,IN,Spencer County,0.16195
+2014,18149,Indiana,IN,Starke County,0.14419
+2014,18151,Indiana,IN,Steuben County,0.22431
+2014,18153,Indiana,IN,Sullivan County,0.13101
+2014,18155,Indiana,IN,Switzerland County,0.14009
+2014,18157,Indiana,IN,Tippecanoe County,0.28891
+2014,18159,Indiana,IN,Tipton County,0.17264
+2014,18161,Indiana,IN,Union County,0.16106
+2014,18163,Indiana,IN,Vanderburgh County,0.20495
+2014,18165,Indiana,IN,Vermillion County,0.12709
+2014,18167,Indiana,IN,Vigo County,0.20293
+2014,18169,Indiana,IN,Wabash County,0.14705
+2014,18171,Indiana,IN,Warren County,0.13572
+2014,18173,Indiana,IN,Warrick County,0.26872
+2014,18175,Indiana,IN,Washington County,0.13882
+2014,18177,Indiana,IN,Wayne County,0.17332
+2014,18179,Indiana,IN,Wells County,0.16935
+2014,18181,Indiana,IN,White County,0.17204
+2014,18183,Indiana,IN,Whitley County,0.16957
+2014,19001,Iowa,IA,Adair County,0.15869
+2014,19003,Iowa,IA,Adams County,0.13086
+2014,19005,Iowa,IA,Allamakee County,0.139
+2014,19007,Iowa,IA,Appanoose County,0.16067
+2014,19009,Iowa,IA,Audubon County,0.1343
+2014,19011,Iowa,IA,Benton County,0.17869
+2014,19013,Iowa,IA,Black Hawk County,0.20069
+2014,19015,Iowa,IA,Boone County,0.19855
+2014,19017,Iowa,IA,Bremer County,0.21524
+2014,19019,Iowa,IA,Buchanan County,0.15053
+2014,19021,Iowa,IA,Buena Vista County,0.17377
+2014,19023,Iowa,IA,Butler County,0.1374
+2014,19025,Iowa,IA,Calhoun County,0.17261
+2014,19027,Iowa,IA,Carroll County,0.17472
+2014,19029,Iowa,IA,Cass County,0.17061
+2014,19031,Iowa,IA,Cedar County,0.17118
+2014,19033,Iowa,IA,Cerro Gordo County,0.19107
+2014,19035,Iowa,IA,Cherokee County,0.13164
+2014,19037,Iowa,IA,Chickasaw County,0.13284
+2014,19039,Iowa,IA,Clarke County,0.14016
+2014,19041,Iowa,IA,Clay County,0.1707
+2014,19043,Iowa,IA,Clayton County,0.16902
+2014,19045,Iowa,IA,Clinton County,0.1703
+2014,19047,Iowa,IA,Crawford County,0.12423
+2014,19049,Iowa,IA,Dallas County,0.33779
+2014,19051,Iowa,IA,Davis County,0.1117
+2014,19053,Iowa,IA,Decatur County,0.17313
+2014,19055,Iowa,IA,Delaware County,0.13404
+2014,19057,Iowa,IA,Des Moines County,0.16733
+2014,19059,Iowa,IA,Dickinson County,0.20829
+2014,19061,Iowa,IA,Dubuque County,0.22868
+2014,19063,Iowa,IA,Emmet County,0.13816
+2014,19065,Iowa,IA,Fayette County,0.13582
+2014,19067,Iowa,IA,Floyd County,0.12837
+2014,19069,Iowa,IA,Franklin County,0.14709
+2014,19071,Iowa,IA,Fremont County,0.17415
+2014,19073,Iowa,IA,Greene County,0.17628
+2014,19075,Iowa,IA,Grundy County,0.18276
+2014,19077,Iowa,IA,Guthrie County,0.20728
+2014,19079,Iowa,IA,Hamilton County,0.18188
+2014,19081,Iowa,IA,Hancock County,0.15557
+2014,19083,Iowa,IA,Hardin County,0.18176
+2014,19085,Iowa,IA,Harrison County,0.18032
+2014,19087,Iowa,IA,Henry County,0.16932
+2014,19089,Iowa,IA,Howard County,0.12012
+2014,19091,Iowa,IA,Humboldt County,0.18454
+2014,19093,Iowa,IA,Ida County,0.16944
+2014,19095,Iowa,IA,Iowa County,0.20045
+2014,19097,Iowa,IA,Jackson County,0.14921
+2014,19099,Iowa,IA,Jasper County,0.21134
+2014,19101,Iowa,IA,Jefferson County,0.23958
+2014,19103,Iowa,IA,Johnson County,0.28525
+2014,19105,Iowa,IA,Jones County,0.16501
+2014,19107,Iowa,IA,Keokuk County,0.14327
+2014,19109,Iowa,IA,Kossuth County,0.16189
+2014,19111,Iowa,IA,Lee County,0.15502
+2014,19113,Iowa,IA,Linn County,0.28343
+2014,19115,Iowa,IA,Louisa County,0.12656
+2014,19117,Iowa,IA,Lucas County,0.14193
+2014,19119,Iowa,IA,Lyon County,0.15281
+2014,19121,Iowa,IA,Madison County,0.23748
+2014,19123,Iowa,IA,Mahaska County,0.17405
+2014,19125,Iowa,IA,Marion County,0.19411
+2014,19127,Iowa,IA,Marshall County,0.18951
+2014,19129,Iowa,IA,Mills County,0.20315
+2014,19131,Iowa,IA,Mitchell County,0.13118
+2014,19133,Iowa,IA,Monona County,0.13959
+2014,19135,Iowa,IA,Monroe County,0.17945
+2014,19137,Iowa,IA,Montgomery County,0.15686
+2014,19139,Iowa,IA,Muscatine County,0.18254
+2014,19141,Iowa,IA,O'Brien County,0.17145
+2014,19143,Iowa,IA,Osceola County,0.09145
+2014,19145,Iowa,IA,Page County,0.16714
+2014,19147,Iowa,IA,Palo Alto County,0.14581
+2014,19149,Iowa,IA,Plymouth County,0.17235
+2014,19151,Iowa,IA,Pocahontas County,0.12789
+2014,19153,Iowa,IA,Polk County,0.27881
+2014,19155,Iowa,IA,Pottawattamie County,0.19009
+2014,19157,Iowa,IA,Poweshiek County,0.20211
+2014,19159,Iowa,IA,Ringgold County,0.13248
+2014,19161,Iowa,IA,Sac County,0.17429
+2014,19163,Iowa,IA,Scott County,0.25894
+2014,19165,Iowa,IA,Shelby County,0.15993
+2014,19167,Iowa,IA,Sioux County,0.18489
+2014,19169,Iowa,IA,Story County,0.31856
+2014,19171,Iowa,IA,Tama County,0.1311
+2014,19173,Iowa,IA,Taylor County,0.11298
+2014,19175,Iowa,IA,Union County,0.13108
+2014,19177,Iowa,IA,Van Buren County,0.19146
+2014,19179,Iowa,IA,Wapello County,0.15037
+2014,19181,Iowa,IA,Warren County,0.26103
+2014,19183,Iowa,IA,Washington County,0.16674
+2014,19185,Iowa,IA,Wayne County,0.08664
+2014,19187,Iowa,IA,Webster County,0.16667
+2014,19189,Iowa,IA,Winnebago County,0.17766
+2014,19191,Iowa,IA,Winneshiek County,0.19392
+2014,19193,Iowa,IA,Woodbury County,0.17631
+2014,19195,Iowa,IA,Worth County,0.1402
+2014,19197,Iowa,IA,Wright County,0.14935
+2014,20001,Kansas,KS,Allen County,0.18513
+2014,20003,Kansas,KS,Anderson County,0.12684
+2014,20005,Kansas,KS,Atchison County,0.14087
+2014,20007,Kansas,KS,Barber County,0.14484
+2014,20009,Kansas,KS,Barton County,0.17137
+2014,20011,Kansas,KS,Bourbon County,0.1406
+2014,20013,Kansas,KS,Brown County,0.15457
+2014,20015,Kansas,KS,Butler County,0.23176
+2014,20017,Kansas,KS,Chase County,0.12734
+2014,20019,Kansas,KS,Chautauqua County,0.13
+2014,20021,Kansas,KS,Cherokee County,0.12282
+2014,20023,Kansas,KS,Cheyenne County,0.17054
+2014,20025,Kansas,KS,Clark County,0.17925
+2014,20027,Kansas,KS,Clay County,0.16327
+2014,20029,Kansas,KS,Cloud County,0.12812
+2014,20031,Kansas,KS,Coffey County,0.18607
+2014,20033,Kansas,KS,Comanche County,0.1407
+2014,20035,Kansas,KS,Cowley County,0.17521
+2014,20037,Kansas,KS,Crawford County,0.202
+2014,20039,Kansas,KS,Decatur County,0.20147
+2014,20041,Kansas,KS,Dickinson County,0.15065
+2014,20043,Kansas,KS,Doniphan County,0.15769
+2014,20045,Kansas,KS,Douglas County,0.31751
+2014,20047,Kansas,KS,Edwards County,0.14145
+2014,20049,Kansas,KS,Elk County,0.13115
+2014,20051,Kansas,KS,Ellis County,0.20072
+2014,20053,Kansas,KS,Ellsworth County,0.12688
+2014,20055,Kansas,KS,Finney County,0.15553
+2014,20057,Kansas,KS,Ford County,0.12877
+2014,20059,Kansas,KS,Franklin County,0.17164
+2014,20061,Kansas,KS,Geary County,0.17968
+2014,20063,Kansas,KS,Gove County,0.15094
+2014,20065,Kansas,KS,Graham County,0.12891
+2014,20067,Kansas,KS,Grant County,0.16121
+2014,20069,Kansas,KS,Gray County,0.14908
+2014,20071,Kansas,KS,Greeley County,0.19403
+2014,20073,Kansas,KS,Greenwood County,0.12709
+2014,20075,Kansas,KS,Hamilton County,0.10227
+2014,20077,Kansas,KS,Harper County,0.17073
+2014,20079,Kansas,KS,Harvey County,0.21643
+2014,20081,Kansas,KS,Haskell County,0.14732
+2014,20083,Kansas,KS,Hodgeman County,0.18919
+2014,20085,Kansas,KS,Jackson County,0.16284
+2014,20087,Kansas,KS,Jefferson County,0.20555
+2014,20089,Kansas,KS,Jewell County,0.14379
+2014,20091,Kansas,KS,Johnson County,0.37494
+2014,20093,Kansas,KS,Kearny County,0.11968
+2014,20095,Kansas,KS,Kingman County,0.157
+2014,20097,Kansas,KS,Kiowa County,0.19915
+2014,20099,Kansas,KS,Labette County,0.13372
+2014,20101,Kansas,KS,Lane County,0.16667
+2014,20103,Kansas,KS,Leavenworth County,0.21892
+2014,20105,Kansas,KS,Lincoln County,0.14804
+2014,20107,Kansas,KS,Linn County,0.19883
+2014,20109,Kansas,KS,Logan County,0.18627
+2014,20111,Kansas,KS,Lyon County,0.16352
+2014,20113,Kansas,KS,McPherson County,0.19271
+2014,20115,Kansas,KS,Marion County,0.1656
+2014,20117,Kansas,KS,Marshall County,0.1612
+2014,20119,Kansas,KS,Meade County,0.11374
+2014,20121,Kansas,KS,Miami County,0.22498
+2014,20123,Kansas,KS,Mitchell County,0.22474
+2014,20125,Kansas,KS,Montgomery County,0.15312
+2014,20127,Kansas,KS,Morris County,0.17696
+2014,20129,Kansas,KS,Morton County,0.08075
+2014,20131,Kansas,KS,Nemaha County,0.16764
+2014,20133,Kansas,KS,Neosho County,0.14057
+2014,20135,Kansas,KS,Ness County,0.17476
+2014,20137,Kansas,KS,Norton County,0.14556
+2014,20139,Kansas,KS,Osage County,0.19477
+2014,20141,Kansas,KS,Osborne County,0.16296
+2014,20143,Kansas,KS,Ottawa County,0.18519
+2014,20145,Kansas,KS,Pawnee County,0.12018
+2014,20147,Kansas,KS,Phillips County,0.16338
+2014,20149,Kansas,KS,Pottawatomie County,0.20464
+2014,20151,Kansas,KS,Pratt County,0.18969
+2014,20153,Kansas,KS,Rawlins County,0.18045
+2014,20155,Kansas,KS,Reno County,0.18856
+2014,20157,Kansas,KS,Republic County,0.17228
+2014,20159,Kansas,KS,Rice County,0.15612
+2014,20161,Kansas,KS,Riley County,0.2632
+2014,20163,Kansas,KS,Rooks County,0.14844
+2014,20165,Kansas,KS,Rush County,0.20536
+2014,20167,Kansas,KS,Russell County,0.20827
+2014,20169,Kansas,KS,Saline County,0.19047
+2014,20171,Kansas,KS,Scott County,0.1683
+2014,20173,Kansas,KS,Sedgwick County,0.2423
+2014,20175,Kansas,KS,Seward County,0.13385
+2014,20177,Kansas,KS,Shawnee County,0.22661
+2014,20179,Kansas,KS,Sheridan County,0.15769
+2014,20181,Kansas,KS,Sherman County,0.16837
+2014,20183,Kansas,KS,Smith County,0.15405
+2014,20185,Kansas,KS,Stafford County,0.11316
+2014,20187,Kansas,KS,Stanton County,0.11215
+2014,20189,Kansas,KS,Stevens County,0.13767
+2014,20191,Kansas,KS,Sumner County,0.16201
+2014,20193,Kansas,KS,Thomas County,0.19042
+2014,20195,Kansas,KS,Trego County,0.18345
+2014,20197,Kansas,KS,Wabaunsee County,0.15121
+2014,20199,Kansas,KS,Wallace County,0.10843
+2014,20201,Kansas,KS,Washington County,0.11296
+2014,20203,Kansas,KS,Wichita County,0.11667
+2014,20205,Kansas,KS,Wilson County,0.14779
+2014,20207,Kansas,KS,Woodson County,0.18707
+2014,20209,Kansas,KS,Wyandotte County,0.13083
+2014,21001,Kentucky,KY,Adair County,0.1292
+2014,21003,Kentucky,KY,Allen County,0.13759
+2014,21005,Kentucky,KY,Anderson County,0.20126
+2014,21007,Kentucky,KY,Ballard County,0.16306
+2014,21009,Kentucky,KY,Barren County,0.1668
+2014,21011,Kentucky,KY,Bath County,0.17573
+2014,21013,Kentucky,KY,Bell County,0.14626
+2014,21015,Kentucky,KY,Boone County,0.27291
+2014,21017,Kentucky,KY,Bourbon County,0.15253
+2014,21019,Kentucky,KY,Boyd County,0.18783
+2014,21021,Kentucky,KY,Boyle County,0.18662
+2014,21023,Kentucky,KY,Bracken County,0.11096
+2014,21025,Kentucky,KY,Breathitt County,0.09677
+2014,21027,Kentucky,KY,Breckinridge County,0.16069
+2014,21029,Kentucky,KY,Bullitt County,0.15729
+2014,21031,Kentucky,KY,Butler County,0.12805
+2014,21033,Kentucky,KY,Caldwell County,0.13267
+2014,21035,Kentucky,KY,Calloway County,0.21077
+2014,21037,Kentucky,KY,Campbell County,0.25519
+2014,21039,Kentucky,KY,Carlisle County,0.12987
+2014,21041,Kentucky,KY,Carroll County,0.1325
+2014,21043,Kentucky,KY,Carter County,0.14154
+2014,21045,Kentucky,KY,Casey County,0.1253
+2014,21047,Kentucky,KY,Christian County,0.15107
+2014,21049,Kentucky,KY,Clark County,0.21588
+2014,21051,Kentucky,KY,Clay County,0.12667
+2014,21053,Kentucky,KY,Clinton County,0.13437
+2014,21055,Kentucky,KY,Crittenden County,0.16552
+2014,21057,Kentucky,KY,Cumberland County,0.10592
+2014,21059,Kentucky,KY,Daviess County,0.18014
+2014,21061,Kentucky,KY,Edmonson County,0.0999
+2014,21063,Kentucky,KY,Elliott County,0.11137
+2014,21065,Kentucky,KY,Estill County,0.17672
+2014,21067,Kentucky,KY,Fayette County,0.29901
+2014,21069,Kentucky,KY,Fleming County,0.11895
+2014,21071,Kentucky,KY,Floyd County,0.16619
+2014,21073,Kentucky,KY,Franklin County,0.24215
+2014,21075,Kentucky,KY,Fulton County,0.14898
+2014,21077,Kentucky,KY,Gallatin County,0.09717
+2014,21079,Kentucky,KY,Garrard County,0.13618
+2014,21081,Kentucky,KY,Grant County,0.15483
+2014,21083,Kentucky,KY,Graves County,0.16198
+2014,21085,Kentucky,KY,Grayson County,0.1213
+2014,21087,Kentucky,KY,Green County,0.10487
+2014,21089,Kentucky,KY,Greenup County,0.18557
+2014,21091,Kentucky,KY,Hancock County,0.08243
+2014,21093,Kentucky,KY,Hardin County,0.20223
+2014,21095,Kentucky,KY,Harlan County,0.12356
+2014,21097,Kentucky,KY,Harrison County,0.16195
+2014,21099,Kentucky,KY,Hart County,0.09591
+2014,21101,Kentucky,KY,Henderson County,0.17858
+2014,21103,Kentucky,KY,Henry County,0.1342
+2014,21105,Kentucky,KY,Hickman County,0.06183
+2014,21107,Kentucky,KY,Hopkins County,0.15969
+2014,21109,Kentucky,KY,Jackson County,0.09725
+2014,21111,Kentucky,KY,Jefferson County,0.25382
+2014,21113,Kentucky,KY,Jessamine County,0.21285
+2014,21115,Kentucky,KY,Johnson County,0.19012
+2014,21117,Kentucky,KY,Kenton County,0.23965
+2014,21119,Kentucky,KY,Knott County,0.14426
+2014,21121,Kentucky,KY,Knox County,0.1202
+2014,21123,Kentucky,KY,Larue County,0.12467
+2014,21125,Kentucky,KY,Laurel County,0.17772
+2014,21127,Kentucky,KY,Lawrence County,0.13076
+2014,21129,Kentucky,KY,Lee County,0.13026
+2014,21131,Kentucky,KY,Leslie County,0.11377
+2014,21133,Kentucky,KY,Letcher County,0.13965
+2014,21135,Kentucky,KY,Lewis County,0.11321
+2014,21137,Kentucky,KY,Lincoln County,0.13622
+2014,21139,Kentucky,KY,Livingston County,0.1047
+2014,21141,Kentucky,KY,Logan County,0.12085
+2014,21143,Kentucky,KY,Lyon County,0.19149
+2014,21145,Kentucky,KY,McCracken County,0.21784
+2014,21147,Kentucky,KY,McCreary County,0.078
+2014,21149,Kentucky,KY,McLean County,0.11596
+2014,21151,Kentucky,KY,Madison County,0.22639
+2014,21153,Kentucky,KY,Magoffin County,0.15847
+2014,21155,Kentucky,KY,Marion County,0.13821
+2014,21157,Kentucky,KY,Marshall County,0.18195
+2014,21159,Kentucky,KY,Martin County,0.14948
+2014,21161,Kentucky,KY,Mason County,0.17137
+2014,21163,Kentucky,KY,Meade County,0.14436
+2014,21165,Kentucky,KY,Menifee County,0.1825
+2014,21167,Kentucky,KY,Mercer County,0.21714
+2014,21169,Kentucky,KY,Metcalfe County,0.10045
+2014,21171,Kentucky,KY,Monroe County,0.14994
+2014,21173,Kentucky,KY,Montgomery County,0.14744
+2014,21175,Kentucky,KY,Morgan County,0.14537
+2014,21177,Kentucky,KY,Muhlenberg County,0.13868
+2014,21179,Kentucky,KY,Nelson County,0.15779
+2014,21181,Kentucky,KY,Nicholas County,0.10972
+2014,21183,Kentucky,KY,Ohio County,0.08881
+2014,21185,Kentucky,KY,Oldham County,0.34847
+2014,21187,Kentucky,KY,Owen County,0.13688
+2014,21189,Kentucky,KY,Owsley County,0.04167
+2014,21191,Kentucky,KY,Pendleton County,0.15789
+2014,21193,Kentucky,KY,Perry County,0.15242
+2014,21195,Kentucky,KY,Pike County,0.15303
+2014,21197,Kentucky,KY,Powell County,0.13605
+2014,21199,Kentucky,KY,Pulaski County,0.17761
+2014,21201,Kentucky,KY,Robertson County,0.07519
+2014,21203,Kentucky,KY,Rockcastle County,0.13388
+2014,21205,Kentucky,KY,Rowan County,0.20672
+2014,21207,Kentucky,KY,Russell County,0.122
+2014,21209,Kentucky,KY,Scott County,0.23233
+2014,21211,Kentucky,KY,Shelby County,0.24068
+2014,21213,Kentucky,KY,Simpson County,0.17877
+2014,21215,Kentucky,KY,Spencer County,0.20706
+2014,21217,Kentucky,KY,Taylor County,0.16463
+2014,21219,Kentucky,KY,Todd County,0.12738
+2014,21221,Kentucky,KY,Trigg County,0.15349
+2014,21223,Kentucky,KY,Trimble County,0.10471
+2014,21225,Kentucky,KY,Union County,0.13523
+2014,21227,Kentucky,KY,Warren County,0.24211
+2014,21229,Kentucky,KY,Washington County,0.17212
+2014,21231,Kentucky,KY,Wayne County,0.09951
+2014,21233,Kentucky,KY,Webster County,0.10933
+2014,21235,Kentucky,KY,Whitley County,0.13679
+2014,21237,Kentucky,KY,Wolfe County,0.09769
+2014,21239,Kentucky,KY,Woodford County,0.26083
+2014,22001,Louisiana,LA,Acadia Parish,0.16857
+2014,22003,Louisiana,LA,Allen Parish,0.1422
+2014,22005,Louisiana,LA,Ascension Parish,0.24259
+2014,22007,Louisiana,LA,Assumption Parish,0.13759
+2014,22009,Louisiana,LA,Avoyelles Parish,0.14187
+2014,22011,Louisiana,LA,Beauregard Parish,0.17942
+2014,22013,Louisiana,LA,Bienville Parish,0.15934
+2014,22015,Louisiana,LA,Bossier Parish,0.19695
+2014,22017,Louisiana,LA,Caddo Parish,0.18714
+2014,22019,Louisiana,LA,Calcasieu Parish,0.18626
+2014,22021,Louisiana,LA,Caldwell Parish,0.14504
+2014,22023,Louisiana,LA,Cameron Parish,0.13991
+2014,22025,Louisiana,LA,Catahoula Parish,0.16737
+2014,22027,Louisiana,LA,Claiborne Parish,0.10389
+2014,22029,Louisiana,LA,Concordia Parish,0.14747
+2014,22031,Louisiana,LA,De Soto Parish,0.15541
+2014,22033,Louisiana,LA,East Baton Rouge Parish,0.26938
+2014,22035,Louisiana,LA,East Carroll Parish,0.07901
+2014,22037,Louisiana,LA,East Feliciana Parish,0.14997
+2014,22039,Louisiana,LA,Evangeline Parish,0.14426
+2014,22041,Louisiana,LA,Franklin Parish,0.13978
+2014,22043,Louisiana,LA,Grant Parish,0.13263
+2014,22045,Louisiana,LA,Iberia Parish,0.17145
+2014,22047,Louisiana,LA,Iberville Parish,0.1434
+2014,22049,Louisiana,LA,Jackson Parish,0.13004
+2014,22051,Louisiana,LA,Jefferson Parish,0.23375
+2014,22053,Louisiana,LA,Jefferson Davis Parish,0.14969
+2014,22055,Louisiana,LA,Lafayette Parish,0.25271
+2014,22057,Louisiana,LA,Lafourche Parish,0.18205
+2014,22059,Louisiana,LA,La Salle Parish,0.16709
+2014,22061,Louisiana,LA,Lincoln Parish,0.25038
+2014,22063,Louisiana,LA,Livingston Parish,0.22276
+2014,22065,Louisiana,LA,Madison Parish,0.12926
+2014,22067,Louisiana,LA,Morehouse Parish,0.14447
+2014,22069,Louisiana,LA,Natchitoches Parish,0.183
+2014,22071,Louisiana,LA,Orleans Parish,0.25806
+2014,22073,Louisiana,LA,Ouachita Parish,0.20475
+2014,22075,Louisiana,LA,Plaquemines Parish,0.17085
+2014,22077,Louisiana,LA,Pointe Coupee Parish,0.14461
+2014,22079,Louisiana,LA,Rapides Parish,0.18261
+2014,22081,Louisiana,LA,Red River Parish,0.10928
+2014,22083,Louisiana,LA,Richland Parish,0.12246
+2014,22085,Louisiana,LA,Sabine Parish,0.13717
+2014,22087,Louisiana,LA,St. Bernard Parish,0.16934
+2014,22089,Louisiana,LA,St. Charles Parish,0.22224
+2014,22091,Louisiana,LA,St. Helena Parish,0.12605
+2014,22093,Louisiana,LA,St. James Parish,0.12917
+2014,22095,Louisiana,LA,St. John the Baptist Parish,0.1633
+2014,22097,Louisiana,LA,St. Landry Parish,0.14736
+2014,22099,Louisiana,LA,St. Martin Parish,0.16941
+2014,22101,Louisiana,LA,St. Mary Parish,0.14169
+2014,22103,Louisiana,LA,St. Tammany Parish,0.28315
+2014,22105,Louisiana,LA,Tangipahoa Parish,0.18603
+2014,22107,Louisiana,LA,Tensas Parish,0.11286
+2014,22109,Louisiana,LA,Terrebonne Parish,0.19945
+2014,22111,Louisiana,LA,Union Parish,0.1547
+2014,22113,Louisiana,LA,Vermilion Parish,0.17068
+2014,22115,Louisiana,LA,Vernon Parish,0.16871
+2014,22117,Louisiana,LA,Washington Parish,0.14459
+2014,22119,Louisiana,LA,Webster Parish,0.12371
+2014,22121,Louisiana,LA,West Baton Rouge Parish,0.17803
+2014,22123,Louisiana,LA,West Carroll Parish,0.12136
+2014,22125,Louisiana,LA,West Feliciana Parish,0.18848
+2014,22127,Louisiana,LA,Winn Parish,0.17328
+2014,23001,Maine,ME,Androscoggin County,0.21677
+2014,23003,Maine,ME,Aroostook County,0.17625
+2014,23005,Maine,ME,Cumberland County,0.29777
+2014,23007,Maine,ME,Franklin County,0.19553
+2014,23009,Maine,ME,Hancock County,0.22173
+2014,23011,Maine,ME,Kennebec County,0.22226
+2014,23013,Maine,ME,Knox County,0.21954
+2014,23015,Maine,ME,Lincoln County,0.24384
+2014,23017,Maine,ME,Oxford County,0.16977
+2014,23019,Maine,ME,Penobscot County,0.21279
+2014,23021,Maine,ME,Piscataquis County,0.17577
+2014,23023,Maine,ME,Sagadahoc County,0.27215
+2014,23025,Maine,ME,Somerset County,0.15193
+2014,23027,Maine,ME,Waldo County,0.20869
+2014,23029,Maine,ME,Washington County,0.17393
+2014,23031,Maine,ME,York County,0.23645
+2014,24001,Maryland,MD,Allegany County,0.17217
+2014,24003,Maryland,MD,Anne Arundel County,0.33845
+2014,24005,Maryland,MD,Baltimore County,0.29516
+2014,24009,Maryland,MD,Calvert County,0.2931
+2014,24011,Maryland,MD,Caroline County,0.2005
+2014,24013,Maryland,MD,Carroll County,0.31855
+2014,24015,Maryland,MD,Cecil County,0.22484
+2014,24017,Maryland,MD,Charles County,0.30333
+2014,24019,Maryland,MD,Dorchester County,0.16964
+2014,24021,Maryland,MD,Frederick County,0.336
+2014,24023,Maryland,MD,Garrett County,0.18204
+2014,24025,Maryland,MD,Harford County,0.29251
+2014,24027,Maryland,MD,Howard County,0.46215
+2014,24029,Maryland,MD,Kent County,0.21014
+2014,24031,Maryland,MD,Montgomery County,0.42059
+2014,24033,Maryland,MD,Prince George's County,0.24972
+2014,24035,Maryland,MD,Queen Anne's County,0.30056
+2014,24037,Maryland,MD,St. Mary's County,0.31298
+2014,24039,Maryland,MD,Somerset County,0.18359
+2014,24041,Maryland,MD,Talbot County,0.27719
+2014,24043,Maryland,MD,Washington County,0.20922
+2014,24045,Maryland,MD,Wicomico County,0.21773
+2014,24047,Maryland,MD,Worcester County,0.26173
+2014,24510,Maryland,MD,Baltimore city,0.23453
+2014,25001,Massachusetts,MA,Barnstable County,0.26654
+2014,25003,Massachusetts,MA,Berkshire County,0.23215
+2014,25005,Massachusetts,MA,Bristol County,0.23323
+2014,25007,Massachusetts,MA,Dukes County,0.25531
+2014,25009,Massachusetts,MA,Essex County,0.29954
+2014,25011,Massachusetts,MA,Franklin County,0.25358
+2014,25013,Massachusetts,MA,Hampden County,0.22059
+2014,25015,Massachusetts,MA,Hampshire County,0.28085
+2014,25017,Massachusetts,MA,Middlesex County,0.38499
+2014,25019,Massachusetts,MA,Nantucket County,0.24772
+2014,25021,Massachusetts,MA,Norfolk County,0.35926
+2014,25023,Massachusetts,MA,Plymouth County,0.27148
+2014,25025,Massachusetts,MA,Suffolk County,0.29338
+2014,25027,Massachusetts,MA,Worcester County,0.28185
+2014,26001,Michigan,MI,Alcona County,0.16379
+2014,26003,Michigan,MI,Alger County,0.17846
+2014,26005,Michigan,MI,Allegan County,0.20295
+2014,26007,Michigan,MI,Alpena County,0.19791
+2014,26009,Michigan,MI,Antrim County,0.188
+2014,26011,Michigan,MI,Arenac County,0.14965
+2014,26013,Michigan,MI,Baraga County,0.14448
+2014,26015,Michigan,MI,Barry County,0.18615
+2014,26017,Michigan,MI,Bay County,0.19748
+2014,26019,Michigan,MI,Benzie County,0.21603
+2014,26021,Michigan,MI,Berrien County,0.2223
+2014,26023,Michigan,MI,Branch County,0.14512
+2014,26025,Michigan,MI,Calhoun County,0.19165
+2014,26027,Michigan,MI,Cass County,0.17492
+2014,26029,Michigan,MI,Charlevoix County,0.21299
+2014,26031,Michigan,MI,Cheboygan County,0.2024
+2014,26033,Michigan,MI,Chippewa County,0.16705
+2014,26035,Michigan,MI,Clare County,0.17241
+2014,26037,Michigan,MI,Clinton County,0.23891
+2014,26039,Michigan,MI,Crawford County,0.18548
+2014,26041,Michigan,MI,Delta County,0.17817
+2014,26043,Michigan,MI,Dickinson County,0.19008
+2014,26045,Michigan,MI,Eaton County,0.233
+2014,26047,Michigan,MI,Emmet County,0.24062
+2014,26049,Michigan,MI,Genesee County,0.20154
+2014,26051,Michigan,MI,Gladwin County,0.15775
+2014,26053,Michigan,MI,Gogebic County,0.19089
+2014,26055,Michigan,MI,Grand Traverse County,0.25458
+2014,26057,Michigan,MI,Gratiot County,0.14444
+2014,26059,Michigan,MI,Hillsdale County,0.16023
+2014,26061,Michigan,MI,Houghton County,0.24858
+2014,26063,Michigan,MI,Huron County,0.13763
+2014,26065,Michigan,MI,Ingham County,0.28305
+2014,26067,Michigan,MI,Ionia County,0.18516
+2014,26069,Michigan,MI,Iosco County,0.16247
+2014,26071,Michigan,MI,Iron County,0.16578
+2014,26073,Michigan,MI,Isabella County,0.20545
+2014,26075,Michigan,MI,Jackson County,0.20894
+2014,26077,Michigan,MI,Kalamazoo County,0.26465
+2014,26079,Michigan,MI,Kalkaska County,0.15089
+2014,26081,Michigan,MI,Kent County,0.25844
+2014,26083,Michigan,MI,Keweenaw County,0.23214
+2014,26085,Michigan,MI,Lake County,0.13734
+2014,26087,Michigan,MI,Lapeer County,0.21298
+2014,26089,Michigan,MI,Leelanau County,0.24576
+2014,26091,Michigan,MI,Lenawee County,0.18636
+2014,26093,Michigan,MI,Livingston County,0.30019
+2014,26095,Michigan,MI,Luce County,0.12527
+2014,26097,Michigan,MI,Mackinac County,0.18392
+2014,26099,Michigan,MI,Macomb County,0.24977
+2014,26101,Michigan,MI,Manistee County,0.18629
+2014,26103,Michigan,MI,Marquette County,0.212
+2014,26105,Michigan,MI,Mason County,0.18607
+2014,26107,Michigan,MI,Mecosta County,0.18907
+2014,26109,Michigan,MI,Menominee County,0.16063
+2014,26111,Michigan,MI,Midland County,0.27076
+2014,26113,Michigan,MI,Missaukee County,0.16952
+2014,26115,Michigan,MI,Monroe County,0.19124
+2014,26117,Michigan,MI,Montcalm County,0.14941
+2014,26119,Michigan,MI,Montmorency County,0.17957
+2014,26121,Michigan,MI,Muskegon County,0.17808
+2014,26123,Michigan,MI,Newaygo County,0.16513
+2014,26125,Michigan,MI,Oakland County,0.36171
+2014,26127,Michigan,MI,Oceana County,0.13946
+2014,26129,Michigan,MI,Ogemaw County,0.1323
+2014,26131,Michigan,MI,Ontonagon County,0.16917
+2014,26133,Michigan,MI,Osceola County,0.13973
+2014,26135,Michigan,MI,Oscoda County,0.13799
+2014,26137,Michigan,MI,Otsego County,0.20815
+2014,26139,Michigan,MI,Ottawa County,0.23476
+2014,26141,Michigan,MI,Presque Isle County,0.17861
+2014,26143,Michigan,MI,Roscommon County,0.18659
+2014,26145,Michigan,MI,Saginaw County,0.19622
+2014,26147,Michigan,MI,St. Clair County,0.18507
+2014,26149,Michigan,MI,St. Joseph County,0.16114
+2014,26151,Michigan,MI,Sanilac County,0.15794
+2014,26153,Michigan,MI,Schoolcraft County,0.15161
+2014,26155,Michigan,MI,Shiawassee County,0.17936
+2014,26157,Michigan,MI,Tuscola County,0.14432
+2014,26159,Michigan,MI,Van Buren County,0.16614
+2014,26161,Michigan,MI,Washtenaw County,0.35707
+2014,26163,Michigan,MI,Wayne County,0.2133
+2014,26165,Michigan,MI,Wexford County,0.1827
+2014,27001,Minnesota,MN,Aitkin County,0.19002
+2014,27003,Minnesota,MN,Anoka County,0.26696
+2014,27005,Minnesota,MN,Becker County,0.18974
+2014,27007,Minnesota,MN,Beltrami County,0.20069
+2014,27009,Minnesota,MN,Benton County,0.18575
+2014,27011,Minnesota,MN,Big Stone County,0.13292
+2014,27013,Minnesota,MN,Blue Earth County,0.20066
+2014,27015,Minnesota,MN,Brown County,0.14552
+2014,27017,Minnesota,MN,Carlton County,0.18622
+2014,27019,Minnesota,MN,Carver County,0.34604
+2014,27021,Minnesota,MN,Cass County,0.21117
+2014,27023,Minnesota,MN,Chippewa County,0.17186
+2014,27025,Minnesota,MN,Chisago County,0.21218
+2014,27027,Minnesota,MN,Clay County,0.22192
+2014,27029,Minnesota,MN,Clearwater County,0.15354
+2014,27031,Minnesota,MN,Cook County,0.28962
+2014,27033,Minnesota,MN,Cottonwood County,0.15053
+2014,27035,Minnesota,MN,Crow Wing County,0.21656
+2014,27037,Minnesota,MN,Dakota County,0.30952
+2014,27039,Minnesota,MN,Dodge County,0.17471
+2014,27041,Minnesota,MN,Douglas County,0.23335
+2014,27043,Minnesota,MN,Faribault County,0.14583
+2014,27045,Minnesota,MN,Fillmore County,0.14825
+2014,27047,Minnesota,MN,Freeborn County,0.13196
+2014,27049,Minnesota,MN,Goodhue County,0.18603
+2014,27051,Minnesota,MN,Grant County,0.17936
+2014,27053,Minnesota,MN,Hennepin County,0.35034
+2014,27055,Minnesota,MN,Houston County,0.19475
+2014,27057,Minnesota,MN,Hubbard County,0.20335
+2014,27059,Minnesota,MN,Isanti County,0.20293
+2014,27061,Minnesota,MN,Itasca County,0.18892
+2014,27063,Minnesota,MN,Jackson County,0.17532
+2014,27065,Minnesota,MN,Kanabec County,0.1502
+2014,27067,Minnesota,MN,Kandiyohi County,0.1863
+2014,27069,Minnesota,MN,Kittson County,0.1317
+2014,27071,Minnesota,MN,Koochiching County,0.1474
+2014,27073,Minnesota,MN,Lac qui Parle County,0.16071
+2014,27075,Minnesota,MN,Lake County,0.18071
+2014,27077,Minnesota,MN,Lake of the Woods County,0.17115
+2014,27079,Minnesota,MN,Le Sueur County,0.18407
+2014,27081,Minnesota,MN,Lincoln County,0.15842
+2014,27083,Minnesota,MN,Lyon County,0.18419
+2014,27085,Minnesota,MN,McLeod County,0.2084
+2014,27087,Minnesota,MN,Mahnomen County,0.12389
+2014,27089,Minnesota,MN,Marshall County,0.17831
+2014,27091,Minnesota,MN,Martin County,0.18565
+2014,27093,Minnesota,MN,Meeker County,0.16061
+2014,27095,Minnesota,MN,Mille Lacs County,0.15562
+2014,27097,Minnesota,MN,Morrison County,0.13568
+2014,27099,Minnesota,MN,Mower County,0.1681
+2014,27101,Minnesota,MN,Murray County,0.1676
+2014,27103,Minnesota,MN,Nicollet County,0.24782
+2014,27105,Minnesota,MN,Nobles County,0.11504
+2014,27107,Minnesota,MN,Norman County,0.13982
+2014,27109,Minnesota,MN,Olmsted County,0.25116
+2014,27111,Minnesota,MN,Otter Tail County,0.18952
+2014,27113,Minnesota,MN,Pennington County,0.21553
+2014,27115,Minnesota,MN,Pine County,0.16483
+2014,27117,Minnesota,MN,Pipestone County,0.13584
+2014,27119,Minnesota,MN,Polk County,0.17819
+2014,27121,Minnesota,MN,Pope County,0.19204
+2014,27123,Minnesota,MN,Ramsey County,0.30584
+2014,27125,Minnesota,MN,Red Lake County,0.21934
+2014,27127,Minnesota,MN,Redwood County,0.16321
+2014,27129,Minnesota,MN,Renville County,0.14829
+2014,27131,Minnesota,MN,Rice County,0.21651
+2014,27133,Minnesota,MN,Rock County,0.14066
+2014,27135,Minnesota,MN,Roseau County,0.15072
+2014,27137,Minnesota,MN,St. Louis County,0.21796
+2014,27139,Minnesota,MN,Scott County,0.32894
+2014,27141,Minnesota,MN,Sherburne County,0.23055
+2014,27143,Minnesota,MN,Sibley County,0.14684
+2014,27145,Minnesota,MN,Stearns County,0.19425
+2014,27147,Minnesota,MN,Steele County,0.20089
+2014,27149,Minnesota,MN,Stevens County,0.2212
+2014,27151,Minnesota,MN,Swift County,0.16064
+2014,27153,Minnesota,MN,Todd County,0.11815
+2014,27155,Minnesota,MN,Traverse County,0.12994
+2014,27157,Minnesota,MN,Wabasha County,0.1676
+2014,27159,Minnesota,MN,Wadena County,0.1543
+2014,27161,Minnesota,MN,Waseca County,0.173
+2014,27163,Minnesota,MN,Washington County,0.33029
+2014,27165,Minnesota,MN,Watonwan County,0.10896
+2014,27167,Minnesota,MN,Wilkin County,0.1528
+2014,27169,Minnesota,MN,Winona County,0.19954
+2014,27171,Minnesota,MN,Wright County,0.25688
+2014,27173,Minnesota,MN,Yellow Medicine County,0.15319
+2014,28001,Mississippi,MS,Adams County,0.16035
+2014,28003,Mississippi,MS,Alcorn County,0.19808
+2014,28005,Mississippi,MS,Amite County,0.10741
+2014,28007,Mississippi,MS,Attala County,0.18895
+2014,28009,Mississippi,MS,Benton County,0.17881
+2014,28011,Mississippi,MS,Bolivar County,0.15497
+2014,28013,Mississippi,MS,Calhoun County,0.13959
+2014,28015,Mississippi,MS,Carroll County,0.21649
+2014,28017,Mississippi,MS,Chickasaw County,0.11596
+2014,28019,Mississippi,MS,Choctaw County,0.13971
+2014,28021,Mississippi,MS,Claiborne County,0.09104
+2014,28023,Mississippi,MS,Clarke County,0.11077
+2014,28025,Mississippi,MS,Clay County,0.17763
+2014,28027,Mississippi,MS,Coahoma County,0.13285
+2014,28029,Mississippi,MS,Copiah County,0.13911
+2014,28031,Mississippi,MS,Covington County,0.16575
+2014,28033,Mississippi,MS,DeSoto County,0.22463
+2014,28035,Mississippi,MS,Forrest County,0.2219
+2014,28037,Mississippi,MS,Franklin County,0.15789
+2014,28039,Mississippi,MS,George County,0.1335
+2014,28041,Mississippi,MS,Greene County,0.10655
+2014,28043,Mississippi,MS,Grenada County,0.15359
+2014,28045,Mississippi,MS,Hancock County,0.22604
+2014,28047,Mississippi,MS,Harrison County,0.20136
+2014,28049,Mississippi,MS,Hinds County,0.18999
+2014,28051,Mississippi,MS,Holmes County,0.118
+2014,28053,Mississippi,MS,Humphreys County,0.10932
+2014,28055,Mississippi,MS,Issaquena County,0.08247
+2014,28057,Mississippi,MS,Itawamba County,0.13006
+2014,28059,Mississippi,MS,Jackson County,0.21006
+2014,28061,Mississippi,MS,Jasper County,0.10039
+2014,28063,Mississippi,MS,Jefferson County,0.08639
+2014,28065,Mississippi,MS,Jefferson Davis County,0.12222
+2014,28067,Mississippi,MS,Jones County,0.14597
+2014,28069,Mississippi,MS,Kemper County,0.10616
+2014,28071,Mississippi,MS,Lafayette County,0.30852
+2014,28073,Mississippi,MS,Lamar County,0.26533
+2014,28075,Mississippi,MS,Lauderdale County,0.17939
+2014,28077,Mississippi,MS,Lawrence County,0.13298
+2014,28079,Mississippi,MS,Leake County,0.11313
+2014,28081,Mississippi,MS,Lee County,0.19201
+2014,28083,Mississippi,MS,Leflore County,0.14766
+2014,28085,Mississippi,MS,Lincoln County,0.16833
+2014,28087,Mississippi,MS,Lowndes County,0.17525
+2014,28089,Mississippi,MS,Madison County,0.33493
+2014,28091,Mississippi,MS,Marion County,0.12513
+2014,28093,Mississippi,MS,Marshall County,0.11944
+2014,28095,Mississippi,MS,Monroe County,0.1452
+2014,28097,Mississippi,MS,Montgomery County,0.19455
+2014,28099,Mississippi,MS,Neshoba County,0.15388
+2014,28101,Mississippi,MS,Newton County,0.16463
+2014,28103,Mississippi,MS,Noxubee County,0.08011
+2014,28105,Mississippi,MS,Oktibbeha County,0.30071
+2014,28107,Mississippi,MS,Panola County,0.16345
+2014,28109,Mississippi,MS,Pearl River County,0.22035
+2014,28111,Mississippi,MS,Perry County,0.14079
+2014,28113,Mississippi,MS,Pike County,0.17173
+2014,28115,Mississippi,MS,Pontotoc County,0.14984
+2014,28117,Mississippi,MS,Prentiss County,0.13455
+2014,28119,Mississippi,MS,Quitman County,0.10971
+2014,28121,Mississippi,MS,Rankin County,0.26431
+2014,28123,Mississippi,MS,Scott County,0.11214
+2014,28125,Mississippi,MS,Sharkey County,0.10942
+2014,28127,Mississippi,MS,Simpson County,0.16956
+2014,28129,Mississippi,MS,Smith County,0.15117
+2014,28131,Mississippi,MS,Stone County,0.13449
+2014,28133,Mississippi,MS,Sunflower County,0.11892
+2014,28135,Mississippi,MS,Tallahatchie County,0.12299
+2014,28137,Mississippi,MS,Tate County,0.15986
+2014,28139,Mississippi,MS,Tippah County,0.12953
+2014,28141,Mississippi,MS,Tishomingo County,0.15549
+2014,28143,Mississippi,MS,Tunica County,0.11124
+2014,28145,Mississippi,MS,Union County,0.1118
+2014,28147,Mississippi,MS,Walthall County,0.12054
+2014,28149,Mississippi,MS,Warren County,0.19463
+2014,28151,Mississippi,MS,Washington County,0.19516
+2014,28153,Mississippi,MS,Wayne County,0.10823
+2014,28155,Mississippi,MS,Webster County,0.1351
+2014,28157,Mississippi,MS,Wilkinson County,0.1055
+2014,28159,Mississippi,MS,Winston County,0.15663
+2014,28161,Mississippi,MS,Yalobusha County,0.10976
+2014,28163,Mississippi,MS,Yazoo County,0.17891
+2014,29001,Missouri,MO,Adair County,0.219
+2014,29003,Missouri,MO,Andrew County,0.21202
+2014,29005,Missouri,MO,Atchison County,0.16283
+2014,29007,Missouri,MO,Audrain County,0.15446
+2014,29009,Missouri,MO,Barry County,0.16106
+2014,29011,Missouri,MO,Barton County,0.14352
+2014,29013,Missouri,MO,Bates County,0.13124
+2014,29015,Missouri,MO,Benton County,0.19004
+2014,29017,Missouri,MO,Bollinger County,0.14203
+2014,29019,Missouri,MO,Boone County,0.27534
+2014,29021,Missouri,MO,Buchanan County,0.16238
+2014,29023,Missouri,MO,Butler County,0.1623
+2014,29025,Missouri,MO,Caldwell County,0.12608
+2014,29027,Missouri,MO,Callaway County,0.20849
+2014,29029,Missouri,MO,Camden County,0.27196
+2014,29031,Missouri,MO,Cape Girardeau County,0.21126
+2014,29033,Missouri,MO,Carroll County,0.12948
+2014,29035,Missouri,MO,Carter County,0.19669
+2014,29037,Missouri,MO,Cass County,0.24224
+2014,29039,Missouri,MO,Cedar County,0.18092
+2014,29041,Missouri,MO,Chariton County,0.14086
+2014,29043,Missouri,MO,Christian County,0.24892
+2014,29045,Missouri,MO,Clark County,0.15235
+2014,29047,Missouri,MO,Clay County,0.26822
+2014,29049,Missouri,MO,Clinton County,0.16092
+2014,29051,Missouri,MO,Cole County,0.26501
+2014,29053,Missouri,MO,Cooper County,0.15438
+2014,29055,Missouri,MO,Crawford County,0.12375
+2014,29057,Missouri,MO,Dade County,0.11851
+2014,29059,Missouri,MO,Dallas County,0.1266
+2014,29061,Missouri,MO,Daviess County,0.13398
+2014,29063,Missouri,MO,DeKalb County,0.13963
+2014,29065,Missouri,MO,Dent County,0.14686
+2014,29067,Missouri,MO,Douglas County,0.12736
+2014,29069,Missouri,MO,Dunklin County,0.11208
+2014,29071,Missouri,MO,Franklin County,0.18785
+2014,29073,Missouri,MO,Gasconade County,0.17071
+2014,29075,Missouri,MO,Gentry County,0.13531
+2014,29077,Missouri,MO,Greene County,0.24211
+2014,29079,Missouri,MO,Grundy County,0.12555
+2014,29081,Missouri,MO,Harrison County,0.1245
+2014,29083,Missouri,MO,Henry County,0.15931
+2014,29085,Missouri,MO,Hickory County,0.16692
+2014,29087,Missouri,MO,Holt County,0.15579
+2014,29089,Missouri,MO,Howard County,0.15113
+2014,29091,Missouri,MO,Howell County,0.1663
+2014,29093,Missouri,MO,Iron County,0.1363
+2014,29095,Missouri,MO,Jackson County,0.25197
+2014,29097,Missouri,MO,Jasper County,0.18382
+2014,29099,Missouri,MO,Jefferson County,0.19588
+2014,29101,Missouri,MO,Johnson County,0.17923
+2014,29103,Missouri,MO,Knox County,0.15903
+2014,29105,Missouri,MO,Laclede County,0.14063
+2014,29107,Missouri,MO,Lafayette County,0.18031
+2014,29109,Missouri,MO,Lawrence County,0.14917
+2014,29111,Missouri,MO,Lewis County,0.11135
+2014,29113,Missouri,MO,Lincoln County,0.17722
+2014,29115,Missouri,MO,Linn County,0.15444
+2014,29117,Missouri,MO,Livingston County,0.14571
+2014,29119,Missouri,MO,McDonald County,0.16075
+2014,29121,Missouri,MO,Macon County,0.14109
+2014,29123,Missouri,MO,Madison County,0.15657
+2014,29125,Missouri,MO,Maries County,0.14074
+2014,29127,Missouri,MO,Marion County,0.14965
+2014,29129,Missouri,MO,Mercer County,0.14563
+2014,29131,Missouri,MO,Miller County,0.17463
+2014,29133,Missouri,MO,Mississippi County,0.10295
+2014,29135,Missouri,MO,Moniteau County,0.17898
+2014,29137,Missouri,MO,Monroe County,0.16835
+2014,29139,Missouri,MO,Montgomery County,0.11397
+2014,29141,Missouri,MO,Morgan County,0.14802
+2014,29143,Missouri,MO,New Madrid County,0.10783
+2014,29145,Missouri,MO,Newton County,0.1828
+2014,29147,Missouri,MO,Nodaway County,0.14749
+2014,29149,Missouri,MO,Oregon County,0.125
+2014,29151,Missouri,MO,Osage County,0.17249
+2014,29153,Missouri,MO,Ozark County,0.11176
+2014,29155,Missouri,MO,Pemiscot County,0.10182
+2014,29157,Missouri,MO,Perry County,0.13376
+2014,29159,Missouri,MO,Pettis County,0.15132
+2014,29161,Missouri,MO,Phelps County,0.22652
+2014,29163,Missouri,MO,Pike County,0.16798
+2014,29165,Missouri,MO,Platte County,0.31365
+2014,29167,Missouri,MO,Polk County,0.16707
+2014,29169,Missouri,MO,Pulaski County,0.14598
+2014,29171,Missouri,MO,Putnam County,0.18851
+2014,29173,Missouri,MO,Ralls County,0.14398
+2014,29175,Missouri,MO,Randolph County,0.18546
+2014,29177,Missouri,MO,Ray County,0.1578
+2014,29179,Missouri,MO,Reynolds County,0.10183
+2014,29181,Missouri,MO,Ripley County,0.08054
+2014,29183,Missouri,MO,St. Charles County,0.3115
+2014,29185,Missouri,MO,St. Clair County,0.18564
+2014,29186,Missouri,MO,Ste. Genevieve County,0.15567
+2014,29187,Missouri,MO,St. Francois County,0.16546
+2014,29189,Missouri,MO,St. Louis County,0.31507
+2014,29195,Missouri,MO,Saline County,0.12955
+2014,29197,Missouri,MO,Schuyler County,0.13123
+2014,29199,Missouri,MO,Scotland County,0.1445
+2014,29201,Missouri,MO,Scott County,0.13602
+2014,29203,Missouri,MO,Shannon County,0.13692
+2014,29205,Missouri,MO,Shelby County,0.12199
+2014,29207,Missouri,MO,Stoddard County,0.14545
+2014,29209,Missouri,MO,Stone County,0.21002
+2014,29211,Missouri,MO,Sullivan County,0.12696
+2014,29213,Missouri,MO,Taney County,0.23287
+2014,29215,Missouri,MO,Texas County,0.11543
+2014,29217,Missouri,MO,Vernon County,0.16233
+2014,29219,Missouri,MO,Warren County,0.21325
+2014,29221,Missouri,MO,Washington County,0.12844
+2014,29223,Missouri,MO,Wayne County,0.19783
+2014,29225,Missouri,MO,Webster County,0.14647
+2014,29227,Missouri,MO,Worth County,0.17904
+2014,29229,Missouri,MO,Wright County,0.12471
+2014,29510,Missouri,MO,St. Louis city,0.24083
+2014,30001,Montana,MT,Beaverhead County,0.27353
+2014,30003,Montana,MT,Big Horn County,0.13918
+2014,30005,Montana,MT,Blaine County,0.1383
+2014,30007,Montana,MT,Broadwater County,0.1754
+2014,30009,Montana,MT,Carbon County,0.17653
+2014,30011,Montana,MT,Carter County,0.13475
+2014,30013,Montana,MT,Cascade County,0.20297
+2014,30015,Montana,MT,Chouteau County,0.13078
+2014,30017,Montana,MT,Custer County,0.17572
+2014,30019,Montana,MT,Daniels County,0.15429
+2014,30021,Montana,MT,Dawson County,0.1893
+2014,30023,Montana,MT,Deer Lodge County,0.13654
+2014,30025,Montana,MT,Fallon County,0.16149
+2014,30027,Montana,MT,Fergus County,0.1885
+2014,30029,Montana,MT,Flathead County,0.23527
+2014,30031,Montana,MT,Gallatin County,0.30398
+2014,30033,Montana,MT,Garfield County,0.1
+2014,30035,Montana,MT,Glacier County,0.13752
+2014,30037,Montana,MT,Golden Valley County,0.10127
+2014,30039,Montana,MT,Granite County,0.15957
+2014,30041,Montana,MT,Hill County,0.19135
+2014,30043,Montana,MT,Jefferson County,0.29531
+2014,30045,Montana,MT,Judith Basin County,0.13483
+2014,30047,Montana,MT,Lake County,0.21831
+2014,30049,Montana,MT,Lewis and Clark County,0.31203
+2014,30051,Montana,MT,Liberty County,0.15686
+2014,30053,Montana,MT,Lincoln County,0.21591
+2014,30055,Montana,MT,McCone County,0.11707
+2014,30057,Montana,MT,Madison County,0.29677
+2014,30059,Montana,MT,Meagher County,0.13772
+2014,30061,Montana,MT,Mineral County,0.12689
+2014,30063,Montana,MT,Missoula County,0.2657
+2014,30065,Montana,MT,Musselshell County,0.11779
+2014,30067,Montana,MT,Park County,0.23522
+2014,30069,Montana,MT,Petroleum County,0.09804
+2014,30071,Montana,MT,Phillips County,0.1148
+2014,30073,Montana,MT,Pondera County,0.16914
+2014,30075,Montana,MT,Powder River County,0.10465
+2014,30077,Montana,MT,Powell County,0.20734
+2014,30079,Montana,MT,Prairie County,0.12121
+2014,30081,Montana,MT,Ravalli County,0.22567
+2014,30083,Montana,MT,Richland County,0.17476
+2014,30085,Montana,MT,Roosevelt County,0.11959
+2014,30087,Montana,MT,Rosebud County,0.13342
+2014,30089,Montana,MT,Sanders County,0.17222
+2014,30091,Montana,MT,Sheridan County,0.13235
+2014,30093,Montana,MT,Silver Bow County,0.23274
+2014,30095,Montana,MT,Stillwater County,0.14667
+2014,30097,Montana,MT,Sweet Grass County,0.1511
+2014,30099,Montana,MT,Teton County,0.20522
+2014,30101,Montana,MT,Toole County,0.14744
+2014,30103,Montana,MT,Treasure County,0.06579
+2014,30105,Montana,MT,Valley County,0.15599
+2014,30107,Montana,MT,Wheatland County,0.16
+2014,30109,Montana,MT,Wibaux County,0.14141
+2014,30111,Montana,MT,Yellowstone County,0.23187
+2014,31001,Nebraska,NE,Adams County,0.18193
+2014,31003,Nebraska,NE,Antelope County,0.13835
+2014,31005,Nebraska,NE,Arthur County,0.11111
+2014,31007,Nebraska,NE,Banner County,0.12821
+2014,31009,Nebraska,NE,Blaine County,0.05
+2014,31011,Nebraska,NE,Boone County,0.12063
+2014,31013,Nebraska,NE,Box Butte County,0.13297
+2014,31015,Nebraska,NE,Boyd County,0.09859
+2014,31017,Nebraska,NE,Brown County,0.10035
+2014,31019,Nebraska,NE,Buffalo County,0.20071
+2014,31021,Nebraska,NE,Burt County,0.12368
+2014,31023,Nebraska,NE,Butler County,0.13498
+2014,31025,Nebraska,NE,Cass County,0.23716
+2014,31027,Nebraska,NE,Cedar County,0.1317
+2014,31029,Nebraska,NE,Chase County,0.20428
+2014,31031,Nebraska,NE,Cherry County,0.17788
+2014,31033,Nebraska,NE,Cheyenne County,0.2606
+2014,31035,Nebraska,NE,Clay County,0.1382
+2014,31037,Nebraska,NE,Colfax County,0.08696
+2014,31039,Nebraska,NE,Cuming County,0.15376
+2014,31041,Nebraska,NE,Custer County,0.14781
+2014,31043,Nebraska,NE,Dakota County,0.11932
+2014,31045,Nebraska,NE,Dawes County,0.1913
+2014,31047,Nebraska,NE,Dawson County,0.1199
+2014,31049,Nebraska,NE,Deuel County,0.13636
+2014,31051,Nebraska,NE,Dixon County,0.13145
+2014,31053,Nebraska,NE,Dodge County,0.17022
+2014,31055,Nebraska,NE,Douglas County,0.27462
+2014,31057,Nebraska,NE,Dundy County,0.13397
+2014,31059,Nebraska,NE,Fillmore County,0.14075
+2014,31061,Nebraska,NE,Franklin County,0.14527
+2014,31063,Nebraska,NE,Frontier County,0.1777
+2014,31065,Nebraska,NE,Furnas County,0.16596
+2014,31067,Nebraska,NE,Gage County,0.14684
+2014,31069,Nebraska,NE,Garden County,0.11737
+2014,31071,Nebraska,NE,Garfield County,0.18667
+2014,31073,Nebraska,NE,Gosper County,0.18807
+2014,31075,Nebraska,NE,Grant County,0.12162
+2014,31077,Nebraska,NE,Greeley County,0.12648
+2014,31079,Nebraska,NE,Hall County,0.17848
+2014,31081,Nebraska,NE,Hamilton County,0.21259
+2014,31083,Nebraska,NE,Harlan County,0.15562
+2014,31085,Nebraska,NE,Hayes County,0.14019
+2014,31087,Nebraska,NE,Hitchcock County,0.15441
+2014,31089,Nebraska,NE,Holt County,0.15574
+2014,31091,Nebraska,NE,Hooker County,0.26923
+2014,31093,Nebraska,NE,Howard County,0.13551
+2014,31095,Nebraska,NE,Jefferson County,0.1927
+2014,31097,Nebraska,NE,Johnson County,0.07895
+2014,31099,Nebraska,NE,Kearney County,0.15849
+2014,31101,Nebraska,NE,Keith County,0.1734
+2014,31103,Nebraska,NE,Keya Paha County,0.06897
+2014,31105,Nebraska,NE,Kimball County,0.15385
+2014,31107,Nebraska,NE,Knox County,0.13495
+2014,31109,Nebraska,NE,Lancaster County,0.27229
+2014,31111,Nebraska,NE,Lincoln County,0.14771
+2014,31113,Nebraska,NE,Logan County,0.1375
+2014,31115,Nebraska,NE,Loup County,0.06452
+2014,31117,Nebraska,NE,McPherson County,0.16667
+2014,31119,Nebraska,NE,Madison County,0.15515
+2014,31121,Nebraska,NE,Merrick County,0.13342
+2014,31123,Nebraska,NE,Morrill County,0.13481
+2014,31125,Nebraska,NE,Nance County,0.12465
+2014,31127,Nebraska,NE,Nemaha County,0.14493
+2014,31129,Nebraska,NE,Nuckolls County,0.10437
+2014,31131,Nebraska,NE,Otoe County,0.18502
+2014,31133,Nebraska,NE,Pawnee County,0.14232
+2014,31135,Nebraska,NE,Perkins County,0.16719
+2014,31137,Nebraska,NE,Phelps County,0.20789
+2014,31139,Nebraska,NE,Pierce County,0.13144
+2014,31141,Nebraska,NE,Platte County,0.18708
+2014,31143,Nebraska,NE,Polk County,0.17745
+2014,31145,Nebraska,NE,Red Willow County,0.18021
+2014,31147,Nebraska,NE,Richardson County,0.15473
+2014,31149,Nebraska,NE,Rock County,0.12575
+2014,31151,Nebraska,NE,Saline County,0.14253
+2014,31153,Nebraska,NE,Sarpy County,0.27854
+2014,31155,Nebraska,NE,Saunders County,0.20854
+2014,31157,Nebraska,NE,Scotts Bluff County,0.17099
+2014,31159,Nebraska,NE,Seward County,0.21134
+2014,31161,Nebraska,NE,Sheridan County,0.14735
+2014,31163,Nebraska,NE,Sherman County,0.13333
+2014,31165,Nebraska,NE,Sioux County,0.07353
+2014,31167,Nebraska,NE,Stanton County,0.15602
+2014,31169,Nebraska,NE,Thayer County,0.14481
+2014,31171,Nebraska,NE,Thomas County,0.17073
+2014,31173,Nebraska,NE,Thurston County,0.167
+2014,31175,Nebraska,NE,Valley County,0.1618
+2014,31177,Nebraska,NE,Washington County,0.24335
+2014,31179,Nebraska,NE,Wayne County,0.20058
+2014,31181,Nebraska,NE,Webster County,0.16314
+2014,31183,Nebraska,NE,Wheeler County,0.06593
+2014,31185,Nebraska,NE,York County,0.17316
+2014,32001,Nevada,NV,Churchill County,0.16231
+2014,32003,Nevada,NV,Clark County,0.2129
+2014,32005,Nevada,NV,Douglas County,0.25319
+2014,32007,Nevada,NV,Elko County,0.17681
+2014,32009,Nevada,NV,Esmeralda County,0.14706
+2014,32011,Nevada,NV,Eureka County,0.12805
+2014,32013,Nevada,NV,Humboldt County,0.14087
+2014,32015,Nevada,NV,Lander County,0.08696
+2014,32017,Nevada,NV,Lincoln County,0.15385
+2014,32019,Nevada,NV,Lyon County,0.1552
+2014,32021,Nevada,NV,Mineral County,0.09375
+2014,32023,Nevada,NV,Nye County,0.15767
+2014,32027,Nevada,NV,Pershing County,0.11883
+2014,32029,Nevada,NV,Storey County,0.22376
+2014,32031,Nevada,NV,Washoe County,0.26024
+2014,32033,Nevada,NV,White Pine County,0.1588
+2014,32510,Nevada,NV,Carson City,0.21769
+2014,33001,New Hampshire,NH,Belknap County,0.23584
+2014,33003,New Hampshire,NH,Carroll County,0.26035
+2014,33005,New Hampshire,NH,Cheshire County,0.23771
+2014,33007,New Hampshire,NH,Coos County,0.16597
+2014,33009,New Hampshire,NH,Grafton County,0.25724
+2014,33011,New Hampshire,NH,Hillsborough County,0.3102
+2014,33013,New Hampshire,NH,Merrimack County,0.28413
+2014,33015,New Hampshire,NH,Rockingham County,0.3221
+2014,33017,New Hampshire,NH,Strafford County,0.25601
+2014,33019,New Hampshire,NH,Sullivan County,0.21351
+2014,34001,New Jersey,NJ,Atlantic County,0.1908
+2014,34003,New Jersey,NJ,Bergen County,0.34878
+2014,34005,New Jersey,NJ,Burlington County,0.28503
+2014,34007,New Jersey,NJ,Camden County,0.25326
+2014,34009,New Jersey,NJ,Cape May County,0.22693
+2014,34011,New Jersey,NJ,Cumberland County,0.14522
+2014,34013,New Jersey,NJ,Essex County,0.25518
+2014,34015,New Jersey,NJ,Gloucester County,0.27026
+2014,34017,New Jersey,NJ,Hudson County,0.29644
+2014,34019,New Jersey,NJ,Hunterdon County,0.40822
+2014,34021,New Jersey,NJ,Mercer County,0.30684
+2014,34023,New Jersey,NJ,Middlesex County,0.33061
+2014,34025,New Jersey,NJ,Monmouth County,0.33
+2014,34027,New Jersey,NJ,Morris County,0.38602
+2014,34029,New Jersey,NJ,Ocean County,0.23272
+2014,34031,New Jersey,NJ,Passaic County,0.23011
+2014,34033,New Jersey,NJ,Salem County,0.17265
+2014,34035,New Jersey,NJ,Somerset County,0.3934
+2014,34037,New Jersey,NJ,Sussex County,0.27404
+2014,34039,New Jersey,NJ,Union County,0.25549
+2014,34041,New Jersey,NJ,Warren County,0.26339
+2014,35001,New Mexico,NM,Bernalillo County,0.28154
+2014,35003,New Mexico,NM,Catron County,0.15498
+2014,35005,New Mexico,NM,Chaves County,0.17478
+2014,35006,New Mexico,NM,Cibola County,0.13757
+2014,35007,New Mexico,NM,Colfax County,0.20772
+2014,35009,New Mexico,NM,Curry County,0.14887
+2014,35011,New Mexico,NM,De Baca County,0.15436
+2014,35013,New Mexico,NM,Dona Ana County,0.2168
+2014,35015,New Mexico,NM,Eddy County,0.1981
+2014,35017,New Mexico,NM,Grant County,0.23253
+2014,35019,New Mexico,NM,Guadalupe County,0.1413
+2014,35021,New Mexico,NM,Harding County,0.12963
+2014,35023,New Mexico,NM,Hidalgo County,0.16867
+2014,35025,New Mexico,NM,Lea County,0.18095
+2014,35027,New Mexico,NM,Lincoln County,0.21293
+2014,35028,New Mexico,NM,Los Alamos County,0.49754
+2014,35029,New Mexico,NM,Luna County,0.14165
+2014,35031,New Mexico,NM,McKinley County,0.1171
+2014,35033,New Mexico,NM,Mora County,0.27974
+2014,35035,New Mexico,NM,Otero County,0.17022
+2014,35037,New Mexico,NM,Quay County,0.12556
+2014,35039,New Mexico,NM,Rio Arriba County,0.1952
+2014,35041,New Mexico,NM,Roosevelt County,0.17647
+2014,35043,New Mexico,NM,Sandoval County,0.28271
+2014,35045,New Mexico,NM,San Juan County,0.17782
+2014,35047,New Mexico,NM,San Miguel County,0.20336
+2014,35049,New Mexico,NM,Santa Fe County,0.32179
+2014,35051,New Mexico,NM,Sierra County,0.11315
+2014,35053,New Mexico,NM,Socorro County,0.20603
+2014,35055,New Mexico,NM,Taos County,0.26899
+2014,35057,New Mexico,NM,Torrance County,0.19561
+2014,35059,New Mexico,NM,Union County,0.18373
+2014,35061,New Mexico,NM,Valencia County,0.19674
+2014,36001,New York,NY,Albany County,0.28981
+2014,36003,New York,NY,Allegany County,0.19611
+2014,36005,New York,NY,Bronx County,0.13519
+2014,36007,New York,NY,Broome County,0.24174
+2014,36009,New York,NY,Cattaraugus County,0.15679
+2014,36011,New York,NY,Cayuga County,0.17486
+2014,36013,New York,NY,Chautauqua County,0.18431
+2014,36015,New York,NY,Chemung County,0.19771
+2014,36017,New York,NY,Chenango County,0.18316
+2014,36019,New York,NY,Clinton County,0.18614
+2014,36021,New York,NY,Columbia County,0.25847
+2014,36023,New York,NY,Cortland County,0.20088
+2014,36025,New York,NY,Delaware County,0.17444
+2014,36027,New York,NY,Dutchess County,0.26164
+2014,36029,New York,NY,Erie County,0.24487
+2014,36031,New York,NY,Essex County,0.21503
+2014,36033,New York,NY,Franklin County,0.1617
+2014,36035,New York,NY,Fulton County,0.15597
+2014,36037,New York,NY,Genesee County,0.17814
+2014,36039,New York,NY,Greene County,0.20456
+2014,36041,New York,NY,Hamilton County,0.18495
+2014,36043,New York,NY,Herkimer County,0.1833
+2014,36045,New York,NY,Jefferson County,0.18807
+2014,36047,New York,NY,Kings County,0.24514
+2014,36049,New York,NY,Lewis County,0.14662
+2014,36051,New York,NY,Livingston County,0.19379
+2014,36053,New York,NY,Madison County,0.23898
+2014,36055,New York,NY,Monroe County,0.27837
+2014,36057,New York,NY,Montgomery County,0.17466
+2014,36059,New York,NY,Nassau County,0.30447
+2014,36061,New York,NY,New York County,0.4668
+2014,36063,New York,NY,Niagara County,0.20405
+2014,36065,New York,NY,Oneida County,0.21414
+2014,36067,New York,NY,Onondaga County,0.26855
+2014,36069,New York,NY,Ontario County,0.24804
+2014,36071,New York,NY,Orange County,0.23156
+2014,36073,New York,NY,Orleans County,0.14706
+2014,36075,New York,NY,Oswego County,0.1744
+2014,36077,New York,NY,Otsego County,0.20605
+2014,36079,New York,NY,Putnam County,0.30446
+2014,36081,New York,NY,Queens County,0.22129
+2014,36083,New York,NY,Rensselaer County,0.25417
+2014,36085,New York,NY,Richmond County,0.23864
+2014,36087,New York,NY,Rockland County,0.27876
+2014,36089,New York,NY,St. Lawrence County,0.18365
+2014,36091,New York,NY,Saratoga County,0.28925
+2014,36093,New York,NY,Schenectady County,0.25568
+2014,36095,New York,NY,Schoharie County,0.20465
+2014,36097,New York,NY,Schuyler County,0.18665
+2014,36099,New York,NY,Seneca County,0.1987
+2014,36101,New York,NY,Steuben County,0.19213
+2014,36103,New York,NY,Suffolk County,0.26455
+2014,36105,New York,NY,Sullivan County,0.19148
+2014,36107,New York,NY,Tioga County,0.21825
+2014,36109,New York,NY,Tompkins County,0.36858
+2014,36111,New York,NY,Ulster County,0.25117
+2014,36113,New York,NY,Warren County,0.22971
+2014,36115,New York,NY,Washington County,0.16504
+2014,36117,New York,NY,Wayne County,0.21067
+2014,36119,New York,NY,Westchester County,0.32127
+2014,36121,New York,NY,Wyoming County,0.15263
+2014,36123,New York,NY,Yates County,0.18198
+2014,37001,North Carolina,NC,Alamance County,0.22105
+2014,37003,North Carolina,NC,Alexander County,0.13335
+2014,37005,North Carolina,NC,Alleghany County,0.16575
+2014,37007,North Carolina,NC,Anson County,0.10114
+2014,37009,North Carolina,NC,Ashe County,0.19632
+2014,37011,North Carolina,NC,Avery County,0.2139
+2014,37013,North Carolina,NC,Beaufort County,0.1578
+2014,37015,North Carolina,NC,Bertie County,0.10414
+2014,37017,North Carolina,NC,Bladen County,0.13086
+2014,37019,North Carolina,NC,Brunswick County,0.23448
+2014,37021,North Carolina,NC,Buncombe County,0.24597
+2014,37023,North Carolina,NC,Burke County,0.15173
+2014,37025,North Carolina,NC,Cabarrus County,0.26094
+2014,37027,North Carolina,NC,Caldwell County,0.17026
+2014,37029,North Carolina,NC,Camden County,0.28343
+2014,37031,North Carolina,NC,Carteret County,0.22034
+2014,37033,North Carolina,NC,Caswell County,0.15479
+2014,37035,North Carolina,NC,Catawba County,0.21498
+2014,37037,North Carolina,NC,Chatham County,0.27576
+2014,37039,North Carolina,NC,Cherokee County,0.15595
+2014,37041,North Carolina,NC,Chowan County,0.17403
+2014,37043,North Carolina,NC,Clay County,0.19666
+2014,37045,North Carolina,NC,Cleveland County,0.15939
+2014,37047,North Carolina,NC,Columbus County,0.14373
+2014,37049,North Carolina,NC,Craven County,0.19132
+2014,37051,North Carolina,NC,Cumberland County,0.19694
+2014,37053,North Carolina,NC,Currituck County,0.23786
+2014,37055,North Carolina,NC,Dare County,0.30462
+2014,37057,North Carolina,NC,Davidson County,0.18652
+2014,37059,North Carolina,NC,Davie County,0.21794
+2014,37061,North Carolina,NC,Duplin County,0.12824
+2014,37063,North Carolina,NC,Durham County,0.31578
+2014,37065,North Carolina,NC,Edgecombe County,0.12239
+2014,37067,North Carolina,NC,Forsyth County,0.26102
+2014,37069,North Carolina,NC,Franklin County,0.21155
+2014,37071,North Carolina,NC,Gaston County,0.21365
+2014,37073,North Carolina,NC,Gates County,0.12999
+2014,37075,North Carolina,NC,Graham County,0.09649
+2014,37077,North Carolina,NC,Granville County,0.20595
+2014,37079,North Carolina,NC,Greene County,0.11071
+2014,37081,North Carolina,NC,Guilford County,0.26683
+2014,37083,North Carolina,NC,Halifax County,0.14679
+2014,37085,North Carolina,NC,Harnett County,0.17773
+2014,37087,North Carolina,NC,Haywood County,0.21046
+2014,37089,North Carolina,NC,Henderson County,0.21626
+2014,37091,North Carolina,NC,Hertford County,0.11781
+2014,37093,North Carolina,NC,Hoke County,0.16417
+2014,37095,North Carolina,NC,Hyde County,0.17391
+2014,37097,North Carolina,NC,Iredell County,0.23127
+2014,37099,North Carolina,NC,Jackson County,0.23098
+2014,37101,North Carolina,NC,Johnston County,0.2239
+2014,37103,North Carolina,NC,Jones County,0.17925
+2014,37105,North Carolina,NC,Lee County,0.17989
+2014,37107,North Carolina,NC,Lenoir County,0.14676
+2014,37109,North Carolina,NC,Lincoln County,0.21304
+2014,37111,North Carolina,NC,McDowell County,0.1626
+2014,37113,North Carolina,NC,Macon County,0.1919
+2014,37115,North Carolina,NC,Madison County,0.15348
+2014,37117,North Carolina,NC,Martin County,0.13377
+2014,37119,North Carolina,NC,Mecklenburg County,0.32577
+2014,37121,North Carolina,NC,Mitchell County,0.15618
+2014,37123,North Carolina,NC,Montgomery County,0.14669
+2014,37125,North Carolina,NC,Moore County,0.20507
+2014,37127,North Carolina,NC,Nash County,0.21203
+2014,37129,North Carolina,NC,New Hanover County,0.27161
+2014,37131,North Carolina,NC,Northampton County,0.10923
+2014,37133,North Carolina,NC,Onslow County,0.18471
+2014,37135,North Carolina,NC,Orange County,0.35924
+2014,37137,North Carolina,NC,Pamlico County,0.19636
+2014,37139,North Carolina,NC,Pasquotank County,0.1795
+2014,37141,North Carolina,NC,Pender County,0.19933
+2014,37143,North Carolina,NC,Perquimans County,0.22608
+2014,37145,North Carolina,NC,Person County,0.16671
+2014,37147,North Carolina,NC,Pitt County,0.23132
+2014,37149,North Carolina,NC,Polk County,0.18467
+2014,37151,North Carolina,NC,Randolph County,0.1781
+2014,37153,North Carolina,NC,Richmond County,0.13744
+2014,37155,North Carolina,NC,Robeson County,0.13106
+2014,37157,North Carolina,NC,Rockingham County,0.1549
+2014,37159,North Carolina,NC,Rowan County,0.17686
+2014,37161,North Carolina,NC,Rutherford County,0.1679
+2014,37163,North Carolina,NC,Sampson County,0.14359
+2014,37165,North Carolina,NC,Scotland County,0.17059
+2014,37167,North Carolina,NC,Stanly County,0.17817
+2014,37169,North Carolina,NC,Stokes County,0.1639
+2014,37171,North Carolina,NC,Surry County,0.17455
+2014,37173,North Carolina,NC,Swain County,0.2215
+2014,37175,North Carolina,NC,Transylvania County,0.20765
+2014,37177,North Carolina,NC,Tyrrell County,0.13125
+2014,37179,North Carolina,NC,Union County,0.28957
+2014,37181,North Carolina,NC,Vance County,0.15225
+2014,37183,North Carolina,NC,Wake County,0.38185
+2014,37185,North Carolina,NC,Warren County,0.16179
+2014,37187,North Carolina,NC,Washington County,0.12621
+2014,37189,North Carolina,NC,Watauga County,0.26304
+2014,37191,North Carolina,NC,Wayne County,0.17741
+2014,37193,North Carolina,NC,Wilkes County,0.18362
+2014,37195,North Carolina,NC,Wilson County,0.19508
+2014,37197,North Carolina,NC,Yadkin County,0.16203
+2014,37199,North Carolina,NC,Yancey County,0.13038
+2014,38001,North Dakota,ND,Adams County,0.19763
+2014,38003,North Dakota,ND,Barnes County,0.18474
+2014,38005,North Dakota,ND,Benson County,0.11834
+2014,38007,North Dakota,ND,Billings County,0.14953
+2014,38009,North Dakota,ND,Bottineau County,0.18212
+2014,38011,North Dakota,ND,Bowman County,0.16109
+2014,38013,North Dakota,ND,Burke County,0.13171
+2014,38015,North Dakota,ND,Burleigh County,0.25388
+2014,38017,North Dakota,ND,Cass County,0.27091
+2014,38019,North Dakota,ND,Cavalier County,0.17179
+2014,38021,North Dakota,ND,Dickey County,0.14476
+2014,38023,North Dakota,ND,Divide County,0.2
+2014,38025,North Dakota,ND,Dunn County,0.12987
+2014,38027,North Dakota,ND,Eddy County,0.125
+2014,38029,North Dakota,ND,Emmons County,0.14243
+2014,38031,North Dakota,ND,Foster County,0.1902
+2014,38033,North Dakota,ND,Golden Valley County,0.1677
+2014,38035,North Dakota,ND,Grand Forks County,0.23424
+2014,38037,North Dakota,ND,Grant County,0.11636
+2014,38039,North Dakota,ND,Griggs County,0.20161
+2014,38041,North Dakota,ND,Hettinger County,0.12448
+2014,38043,North Dakota,ND,Kidder County,0.11245
+2014,38045,North Dakota,ND,LaMoure County,0.14685
+2014,38047,North Dakota,ND,Logan County,0.14815
+2014,38049,North Dakota,ND,McHenry County,0.14615
+2014,38051,North Dakota,ND,McIntosh County,0.13187
+2014,38053,North Dakota,ND,McKenzie County,0.18182
+2014,38055,North Dakota,ND,McLean County,0.13565
+2014,38057,North Dakota,ND,Mercer County,0.17907
+2014,38059,North Dakota,ND,Morton County,0.18696
+2014,38061,North Dakota,ND,Mountrail County,0.20077
+2014,38063,North Dakota,ND,Nelson County,0.14478
+2014,38065,North Dakota,ND,Oliver County,0.13068
+2014,38067,North Dakota,ND,Pembina County,0.15671
+2014,38069,North Dakota,ND,Pierce County,0.10849
+2014,38071,North Dakota,ND,Ramsey County,0.17839
+2014,38073,North Dakota,ND,Ransom County,0.14652
+2014,38075,North Dakota,ND,Renville County,0.12977
+2014,38077,North Dakota,ND,Richland County,0.16579
+2014,38079,North Dakota,ND,Rolette County,0.18392
+2014,38081,North Dakota,ND,Sargent County,0.14112
+2014,38083,North Dakota,ND,Sheridan County,0.08871
+2014,38085,North Dakota,ND,Sioux County,0.107
+2014,38087,North Dakota,ND,Slope County,0.11392
+2014,38089,North Dakota,ND,Stark County,0.19435
+2014,38091,North Dakota,ND,Steele County,0.16751
+2014,38093,North Dakota,ND,Stutsman County,0.19531
+2014,38095,North Dakota,ND,Towner County,0.13675
+2014,38097,North Dakota,ND,Traill County,0.17811
+2014,38099,North Dakota,ND,Walsh County,0.11501
+2014,38101,North Dakota,ND,Ward County,0.2018
+2014,38103,North Dakota,ND,Wells County,0.14078
+2014,38105,North Dakota,ND,Williams County,0.1755
+2014,39001,Ohio,OH,Adams County,0.13546
+2014,39003,Ohio,OH,Allen County,0.17074
+2014,39005,Ohio,OH,Ashland County,0.17457
+2014,39007,Ohio,OH,Ashtabula County,0.16762
+2014,39009,Ohio,OH,Athens County,0.2604
+2014,39011,Ohio,OH,Auglaize County,0.18272
+2014,39013,Ohio,OH,Belmont County,0.14558
+2014,39015,Ohio,OH,Brown County,0.15704
+2014,39017,Ohio,OH,Butler County,0.25028
+2014,39019,Ohio,OH,Carroll County,0.15279
+2014,39021,Ohio,OH,Champaign County,0.17342
+2014,39023,Ohio,OH,Clark County,0.1906
+2014,39025,Ohio,OH,Clermont County,0.26291
+2014,39027,Ohio,OH,Clinton County,0.18781
+2014,39029,Ohio,OH,Columbiana County,0.1506
+2014,39031,Ohio,OH,Coshocton County,0.1528
+2014,39033,Ohio,OH,Crawford County,0.14546
+2014,39035,Ohio,OH,Cuyahoga County,0.25662
+2014,39037,Ohio,OH,Darke County,0.17705
+2014,39039,Ohio,OH,Defiance County,0.16799
+2014,39041,Ohio,OH,Delaware County,0.40531
+2014,39043,Ohio,OH,Erie County,0.18723
+2014,39045,Ohio,OH,Fairfield County,0.25145
+2014,39047,Ohio,OH,Fayette County,0.14961
+2014,39049,Ohio,OH,Franklin County,0.28942
+2014,39051,Ohio,OH,Fulton County,0.17387
+2014,39053,Ohio,OH,Gallia County,0.16965
+2014,39055,Ohio,OH,Geauga County,0.28877
+2014,39057,Ohio,OH,Greene County,0.28947
+2014,39059,Ohio,OH,Guernsey County,0.14135
+2014,39061,Ohio,OH,Hamilton County,0.27244
+2014,39063,Ohio,OH,Hancock County,0.22162
+2014,39065,Ohio,OH,Hardin County,0.13184
+2014,39067,Ohio,OH,Harrison County,0.14318
+2014,39069,Ohio,OH,Henry County,0.15025
+2014,39071,Ohio,OH,Highland County,0.14318
+2014,39073,Ohio,OH,Hocking County,0.16313
+2014,39075,Ohio,OH,Holmes County,0.12244
+2014,39077,Ohio,OH,Huron County,0.13296
+2014,39079,Ohio,OH,Jackson County,0.15789
+2014,39081,Ohio,OH,Jefferson County,0.16053
+2014,39083,Ohio,OH,Knox County,0.21145
+2014,39085,Ohio,OH,Lake County,0.24595
+2014,39087,Ohio,OH,Lawrence County,0.16168
+2014,39089,Ohio,OH,Licking County,0.22889
+2014,39091,Ohio,OH,Logan County,0.15243
+2014,39093,Ohio,OH,Lorain County,0.22017
+2014,39095,Ohio,OH,Lucas County,0.21181
+2014,39097,Ohio,OH,Madison County,0.18548
+2014,39099,Ohio,OH,Mahoning County,0.21462
+2014,39101,Ohio,OH,Marion County,0.14645
+2014,39103,Ohio,OH,Medina County,0.28274
+2014,39105,Ohio,OH,Meigs County,0.14508
+2014,39107,Ohio,OH,Mercer County,0.16435
+2014,39109,Ohio,OH,Miami County,0.20853
+2014,39111,Ohio,OH,Monroe County,0.13722
+2014,39113,Ohio,OH,Montgomery County,0.2435
+2014,39115,Ohio,OH,Morgan County,0.14632
+2014,39117,Ohio,OH,Morrow County,0.16759
+2014,39119,Ohio,OH,Muskingum County,0.17358
+2014,39121,Ohio,OH,Noble County,0.12806
+2014,39123,Ohio,OH,Ottawa County,0.1884
+2014,39125,Ohio,OH,Paulding County,0.14092
+2014,39127,Ohio,OH,Perry County,0.13281
+2014,39129,Ohio,OH,Pickaway County,0.18765
+2014,39131,Ohio,OH,Pike County,0.15771
+2014,39133,Ohio,OH,Portage County,0.2388
+2014,39135,Ohio,OH,Preble County,0.16248
+2014,39137,Ohio,OH,Putnam County,0.1661
+2014,39139,Ohio,OH,Richland County,0.17499
+2014,39141,Ohio,OH,Ross County,0.1844
+2014,39143,Ohio,OH,Sandusky County,0.14664
+2014,39145,Ohio,OH,Scioto County,0.16087
+2014,39147,Ohio,OH,Seneca County,0.1496
+2014,39149,Ohio,OH,Shelby County,0.16893
+2014,39151,Ohio,OH,Stark County,0.2124
+2014,39153,Ohio,OH,Summit County,0.27149
+2014,39155,Ohio,OH,Trumbull County,0.1793
+2014,39157,Ohio,OH,Tuscarawas County,0.18012
+2014,39159,Ohio,OH,Union County,0.26149
+2014,39161,Ohio,OH,Van Wert County,0.14301
+2014,39163,Ohio,OH,Vinton County,0.18054
+2014,39165,Ohio,OH,Warren County,0.32853
+2014,39167,Ohio,OH,Washington County,0.19433
+2014,39169,Ohio,OH,Wayne County,0.18553
+2014,39171,Ohio,OH,Williams County,0.15391
+2014,39173,Ohio,OH,Wood County,0.25386
+2014,39175,Ohio,OH,Wyandot County,0.14151
+2014,40001,Oklahoma,OK,Adair County,0.11209
+2014,40003,Oklahoma,OK,Alfalfa County,0.13981
+2014,40005,Oklahoma,OK,Atoka County,0.14399
+2014,40007,Oklahoma,OK,Beaver County,0.10626
+2014,40009,Oklahoma,OK,Beckham County,0.19055
+2014,40011,Oklahoma,OK,Blaine County,0.15891
+2014,40013,Oklahoma,OK,Bryan County,0.19077
+2014,40015,Oklahoma,OK,Caddo County,0.1459
+2014,40017,Oklahoma,OK,Canadian County,0.26657
+2014,40019,Oklahoma,OK,Carter County,0.17047
+2014,40021,Oklahoma,OK,Cherokee County,0.191
+2014,40023,Oklahoma,OK,Choctaw County,0.12121
+2014,40025,Oklahoma,OK,Cimarron County,0.14097
+2014,40027,Oklahoma,OK,Cleveland County,0.26508
+2014,40029,Oklahoma,OK,Coal County,0.10284
+2014,40031,Oklahoma,OK,Comanche County,0.17211
+2014,40033,Oklahoma,OK,Cotton County,0.17137
+2014,40035,Oklahoma,OK,Craig County,0.13699
+2014,40037,Oklahoma,OK,Creek County,0.20406
+2014,40039,Oklahoma,OK,Custer County,0.18212
+2014,40041,Oklahoma,OK,Delaware County,0.17618
+2014,40043,Oklahoma,OK,Dewey County,0.1203
+2014,40045,Oklahoma,OK,Ellis County,0.17414
+2014,40047,Oklahoma,OK,Garfield County,0.16376
+2014,40049,Oklahoma,OK,Garvin County,0.16075
+2014,40051,Oklahoma,OK,Grady County,0.18984
+2014,40053,Oklahoma,OK,Grant County,0.13594
+2014,40055,Oklahoma,OK,Greer County,0.1219
+2014,40057,Oklahoma,OK,Harmon County,0.15918
+2014,40059,Oklahoma,OK,Harper County,0.11892
+2014,40061,Oklahoma,OK,Haskell County,0.1576
+2014,40063,Oklahoma,OK,Hughes County,0.10939
+2014,40065,Oklahoma,OK,Jackson County,0.17184
+2014,40067,Oklahoma,OK,Jefferson County,0.13371
+2014,40069,Oklahoma,OK,Johnston County,0.16267
+2014,40071,Oklahoma,OK,Kay County,0.17679
+2014,40073,Oklahoma,OK,Kingfisher County,0.19619
+2014,40075,Oklahoma,OK,Kiowa County,0.14321
+2014,40077,Oklahoma,OK,Latimer County,0.13468
+2014,40079,Oklahoma,OK,Le Flore County,0.13451
+2014,40081,Oklahoma,OK,Lincoln County,0.17408
+2014,40083,Oklahoma,OK,Logan County,0.23087
+2014,40085,Oklahoma,OK,Love County,0.14033
+2014,40087,Oklahoma,OK,McClain County,0.2192
+2014,40089,Oklahoma,OK,McCurtain County,0.13193
+2014,40091,Oklahoma,OK,McIntosh County,0.13905
+2014,40093,Oklahoma,OK,Major County,0.12262
+2014,40095,Oklahoma,OK,Marshall County,0.15333
+2014,40097,Oklahoma,OK,Mayes County,0.15269
+2014,40099,Oklahoma,OK,Murray County,0.15385
+2014,40101,Oklahoma,OK,Muskogee County,0.17707
+2014,40103,Oklahoma,OK,Noble County,0.22445
+2014,40105,Oklahoma,OK,Nowata County,0.11667
+2014,40107,Oklahoma,OK,Okfuskee County,0.1417
+2014,40109,Oklahoma,OK,Oklahoma County,0.24892
+2014,40111,Oklahoma,OK,Okmulgee County,0.17019
+2014,40113,Oklahoma,OK,Osage County,0.18523
+2014,40115,Oklahoma,OK,Ottawa County,0.14678
+2014,40117,Oklahoma,OK,Pawnee County,0.15007
+2014,40119,Oklahoma,OK,Payne County,0.29574
+2014,40121,Oklahoma,OK,Pittsburg County,0.1516
+2014,40123,Oklahoma,OK,Pontotoc County,0.21463
+2014,40125,Oklahoma,OK,Pottawatomie County,0.17625
+2014,40127,Oklahoma,OK,Pushmataha County,0.11565
+2014,40129,Oklahoma,OK,Roger Mills County,0.13245
+2014,40131,Oklahoma,OK,Rogers County,0.23771
+2014,40133,Oklahoma,OK,Seminole County,0.13949
+2014,40135,Oklahoma,OK,Sequoyah County,0.13461
+2014,40137,Oklahoma,OK,Stephens County,0.18459
+2014,40139,Oklahoma,OK,Texas County,0.14032
+2014,40141,Oklahoma,OK,Tillman County,0.15008
+2014,40143,Oklahoma,OK,Tulsa County,0.27007
+2014,40145,Oklahoma,OK,Wagoner County,0.23351
+2014,40147,Oklahoma,OK,Washington County,0.23998
+2014,40149,Oklahoma,OK,Washita County,0.16602
+2014,40151,Oklahoma,OK,Woods County,0.20375
+2014,40153,Oklahoma,OK,Woodward County,0.16283
+2014,41001,Oregon,OR,Baker County,0.20824
+2014,41003,Oregon,OR,Benton County,0.33444
+2014,41005,Oregon,OR,Clackamas County,0.29011
+2014,41007,Oregon,OR,Clatsop County,0.1909
+2014,41009,Oregon,OR,Columbia County,0.20372
+2014,41011,Oregon,OR,Coos County,0.19556
+2014,41013,Oregon,OR,Crook County,0.16086
+2014,41015,Oregon,OR,Curry County,0.18782
+2014,41017,Oregon,OR,Deschutes County,0.26066
+2014,41019,Oregon,OR,Douglas County,0.16113
+2014,41021,Oregon,OR,Gilliam County,0.16751
+2014,41023,Oregon,OR,Grant County,0.18137
+2014,41025,Oregon,OR,Harney County,0.19389
+2014,41027,Oregon,OR,Hood River County,0.20529
+2014,41029,Oregon,OR,Jackson County,0.22586
+2014,41031,Oregon,OR,Jefferson County,0.13428
+2014,41033,Oregon,OR,Josephine County,0.19636
+2014,41035,Oregon,OR,Klamath County,0.19638
+2014,41037,Oregon,OR,Lake County,0.22105
+2014,41039,Oregon,OR,Lane County,0.24435
+2014,41041,Oregon,OR,Lincoln County,0.23321
+2014,41043,Oregon,OR,Linn County,0.19185
+2014,41045,Oregon,OR,Malheur County,0.14954
+2014,41047,Oregon,OR,Marion County,0.19419
+2014,41049,Oregon,OR,Morrow County,0.10137
+2014,41051,Oregon,OR,Multnomah County,0.30384
+2014,41053,Oregon,OR,Polk County,0.2301
+2014,41055,Oregon,OR,Sherman County,0.13174
+2014,41057,Oregon,OR,Tillamook County,0.18114
+2014,41059,Oregon,OR,Umatilla County,0.16007
+2014,41061,Oregon,OR,Union County,0.20988
+2014,41063,Oregon,OR,Wallowa County,0.22559
+2014,41065,Oregon,OR,Wasco County,0.17827
+2014,41067,Oregon,OR,Washington County,0.34536
+2014,41069,Oregon,OR,Wheeler County,0.14
+2014,41071,Oregon,OR,Yamhill County,0.22888
+2014,42001,Pennsylvania,PA,Adams County,0.18916
+2014,42003,Pennsylvania,PA,Allegheny County,0.28858
+2014,42005,Pennsylvania,PA,Armstrong County,0.15314
+2014,42007,Pennsylvania,PA,Beaver County,0.19622
+2014,42009,Pennsylvania,PA,Bedford County,0.15142
+2014,42011,Pennsylvania,PA,Berks County,0.21233
+2014,42013,Pennsylvania,PA,Blair County,0.19211
+2014,42015,Pennsylvania,PA,Bradford County,0.14815
+2014,42017,Pennsylvania,PA,Bucks County,0.30589
+2014,42019,Pennsylvania,PA,Butler County,0.26052
+2014,42021,Pennsylvania,PA,Cambria County,0.17412
+2014,42023,Pennsylvania,PA,Cameron County,0.18818
+2014,42025,Pennsylvania,PA,Carbon County,0.16179
+2014,42027,Pennsylvania,PA,Centre County,0.32246
+2014,42029,Pennsylvania,PA,Chester County,0.36605
+2014,42031,Pennsylvania,PA,Clarion County,0.16442
+2014,42033,Pennsylvania,PA,Clearfield County,0.16907
+2014,42035,Pennsylvania,PA,Clinton County,0.1403
+2014,42037,Pennsylvania,PA,Columbia County,0.17081
+2014,42039,Pennsylvania,PA,Crawford County,0.19008
+2014,42041,Pennsylvania,PA,Cumberland County,0.26475
+2014,42043,Pennsylvania,PA,Dauphin County,0.24783
+2014,42045,Pennsylvania,PA,Delaware County,0.2818
+2014,42047,Pennsylvania,PA,Elk County,0.16793
+2014,42049,Pennsylvania,PA,Erie County,0.21193
+2014,42051,Pennsylvania,PA,Fayette County,0.15898
+2014,42053,Pennsylvania,PA,Forest County,0.12346
+2014,42055,Pennsylvania,PA,Franklin County,0.18634
+2014,42057,Pennsylvania,PA,Fulton County,0.14739
+2014,42059,Pennsylvania,PA,Greene County,0.15231
+2014,42061,Pennsylvania,PA,Huntingdon County,0.15243
+2014,42063,Pennsylvania,PA,Indiana County,0.16797
+2014,42065,Pennsylvania,PA,Jefferson County,0.14032
+2014,42067,Pennsylvania,PA,Juniata County,0.13076
+2014,42069,Pennsylvania,PA,Lackawanna County,0.20724
+2014,42071,Pennsylvania,PA,Lancaster County,0.20501
+2014,42073,Pennsylvania,PA,Lawrence County,0.18015
+2014,42075,Pennsylvania,PA,Lebanon County,0.18525
+2014,42077,Pennsylvania,PA,Lehigh County,0.2504
+2014,42079,Pennsylvania,PA,Luzerne County,0.19202
+2014,42081,Pennsylvania,PA,Lycoming County,0.17974
+2014,42083,Pennsylvania,PA,McKean County,0.17571
+2014,42085,Pennsylvania,PA,Mercer County,0.1715
+2014,42087,Pennsylvania,PA,Mifflin County,0.13025
+2014,42089,Pennsylvania,PA,Monroe County,0.22646
+2014,42091,Pennsylvania,PA,Montgomery County,0.34832
+2014,42093,Pennsylvania,PA,Montour County,0.16401
+2014,42095,Pennsylvania,PA,Northampton County,0.24192
+2014,42097,Pennsylvania,PA,Northumberland County,0.12917
+2014,42099,Pennsylvania,PA,Perry County,0.17294
+2014,42101,Pennsylvania,PA,Philadelphia County,0.20953
+2014,42103,Pennsylvania,PA,Pike County,0.21523
+2014,42105,Pennsylvania,PA,Potter County,0.17978
+2014,42107,Pennsylvania,PA,Schuylkill County,0.16521
+2014,42109,Pennsylvania,PA,Snyder County,0.14184
+2014,42111,Pennsylvania,PA,Somerset County,0.1479
+2014,42113,Pennsylvania,PA,Sullivan County,0.13051
+2014,42115,Pennsylvania,PA,Susquehanna County,0.17281
+2014,42117,Pennsylvania,PA,Tioga County,0.17165
+2014,42119,Pennsylvania,PA,Union County,0.22304
+2014,42121,Pennsylvania,PA,Venango County,0.16598
+2014,42123,Pennsylvania,PA,Warren County,0.17363
+2014,42125,Pennsylvania,PA,Washington County,0.22976
+2014,42127,Pennsylvania,PA,Wayne County,0.18353
+2014,42129,Pennsylvania,PA,Westmoreland County,0.23315
+2014,42131,Pennsylvania,PA,Wyoming County,0.17451
+2014,42133,Pennsylvania,PA,York County,0.22165
+2014,44001,Rhode Island,RI,Bristol County,0.30554
+2014,44003,Rhode Island,RI,Kent County,0.26906
+2014,44005,Rhode Island,RI,Newport County,0.30219
+2014,44007,Rhode Island,RI,Providence County,0.22963
+2014,44009,Rhode Island,RI,Washington County,0.29237
+2014,45001,South Carolina,SC,Abbeville County,0.1243
+2014,45003,South Carolina,SC,Aiken County,0.23856
+2014,45005,South Carolina,SC,Allendale County,0.13218
+2014,45007,South Carolina,SC,Anderson County,0.20998
+2014,45009,South Carolina,SC,Bamberg County,0.14184
+2014,45011,South Carolina,SC,Barnwell County,0.15048
+2014,45013,South Carolina,SC,Beaufort County,0.24599
+2014,45015,South Carolina,SC,Berkeley County,0.2219
+2014,45017,South Carolina,SC,Calhoun County,0.18774
+2014,45019,South Carolina,SC,Charleston County,0.28014
+2014,45021,South Carolina,SC,Cherokee County,0.13896
+2014,45023,South Carolina,SC,Chester County,0.14568
+2014,45025,South Carolina,SC,Chesterfield County,0.13237
+2014,45027,South Carolina,SC,Clarendon County,0.13727
+2014,45029,South Carolina,SC,Colleton County,0.18692
+2014,45031,South Carolina,SC,Darlington County,0.14429
+2014,45033,South Carolina,SC,Dillon County,0.11692
+2014,45035,South Carolina,SC,Dorchester County,0.25275
+2014,45037,South Carolina,SC,Edgefield County,0.1531
+2014,45039,South Carolina,SC,Fairfield County,0.16727
+2014,45041,South Carolina,SC,Florence County,0.19219
+2014,45043,South Carolina,SC,Georgetown County,0.19463
+2014,45045,South Carolina,SC,Greenville County,0.27465
+2014,45047,South Carolina,SC,Greenwood County,0.20038
+2014,45049,South Carolina,SC,Hampton County,0.12516
+2014,45051,South Carolina,SC,Horry County,0.21726
+2014,45053,South Carolina,SC,Jasper County,0.09799
+2014,45055,South Carolina,SC,Kershaw County,0.19411
+2014,45057,South Carolina,SC,Lancaster County,0.17617
+2014,45059,South Carolina,SC,Laurens County,0.13945
+2014,45061,South Carolina,SC,Lee County,0.13978
+2014,45063,South Carolina,SC,Lexington County,0.25442
+2014,45065,South Carolina,SC,McCormick County,0.15743
+2014,45067,South Carolina,SC,Marion County,0.13441
+2014,45069,South Carolina,SC,Marlboro County,0.11578
+2014,45071,South Carolina,SC,Newberry County,0.18392
+2014,45073,South Carolina,SC,Oconee County,0.20679
+2014,45075,South Carolina,SC,Orangeburg County,0.16125
+2014,45077,South Carolina,SC,Pickens County,0.22453
+2014,45079,South Carolina,SC,Richland County,0.27064
+2014,45081,South Carolina,SC,Saluda County,0.1382
+2014,45083,South Carolina,SC,Spartanburg County,0.20605
+2014,45085,South Carolina,SC,Sumter County,0.15734
+2014,45087,South Carolina,SC,Union County,0.13363
+2014,45089,South Carolina,SC,Williamsburg County,0.09727
+2014,45091,South Carolina,SC,York County,0.27872
+2014,46003,South Dakota,SD,Aurora County,0.11307
+2014,46005,South Dakota,SD,Beadle County,0.16295
+2014,46007,South Dakota,SD,Bennett County,0.125
+2014,46009,South Dakota,SD,Bon Homme County,0.13554
+2014,46011,South Dakota,SD,Brookings County,0.23051
+2014,46013,South Dakota,SD,Brown County,0.20344
+2014,46015,South Dakota,SD,Brule County,0.15856
+2014,46017,South Dakota,SD,Buffalo County,0.09917
+2014,46019,South Dakota,SD,Butte County,0.17909
+2014,46021,South Dakota,SD,Campbell County,0.10204
+2014,46023,South Dakota,SD,Charles Mix County,0.13
+2014,46025,South Dakota,SD,Clark County,0.13483
+2014,46027,South Dakota,SD,Clay County,0.25284
+2014,46029,South Dakota,SD,Codington County,0.23969
+2014,46031,South Dakota,SD,Corson County,0.15041
+2014,46033,South Dakota,SD,Custer County,0.23522
+2014,46035,South Dakota,SD,Davison County,0.17028
+2014,46037,South Dakota,SD,Day County,0.1216
+2014,46039,South Dakota,SD,Deuel County,0.13537
+2014,46041,South Dakota,SD,Dewey County,0.17287
+2014,46043,South Dakota,SD,Douglas County,0.08814
+2014,46045,South Dakota,SD,Edmunds County,0.15233
+2014,46047,South Dakota,SD,Fall River County,0.14767
+2014,46049,South Dakota,SD,Faulk County,0.13242
+2014,46051,South Dakota,SD,Grant County,0.14586
+2014,46053,South Dakota,SD,Gregory County,0.16667
+2014,46055,South Dakota,SD,Haakon County,0.17277
+2014,46057,South Dakota,SD,Hamlin County,0.15483
+2014,46059,South Dakota,SD,Hand County,0.13514
+2014,46061,South Dakota,SD,Hanson County,0.13725
+2014,46063,South Dakota,SD,Harding County,0.0942
+2014,46065,South Dakota,SD,Hughes County,0.3066
+2014,46067,South Dakota,SD,Hutchinson County,0.15661
+2014,46069,South Dakota,SD,Hyde County,0.15385
+2014,46071,South Dakota,SD,Jackson County,0.15741
+2014,46073,South Dakota,SD,Jerauld County,0.14851
+2014,46075,South Dakota,SD,Jones County,0.08696
+2014,46077,South Dakota,SD,Kingsbury County,0.1485
+2014,46079,South Dakota,SD,Lake County,0.18935
+2014,46081,South Dakota,SD,Lawrence County,0.23306
+2014,46083,South Dakota,SD,Lincoln County,0.28445
+2014,46085,South Dakota,SD,Lyman County,0.15029
+2014,46087,South Dakota,SD,McCook County,0.15556
+2014,46089,South Dakota,SD,McPherson County,0.13659
+2014,46091,South Dakota,SD,Marshall County,0.13953
+2014,46093,South Dakota,SD,Meade County,0.17827
+2014,46095,South Dakota,SD,Mellette County,0.13475
+2014,46097,South Dakota,SD,Miner County,0.13546
+2014,46099,South Dakota,SD,Minnehaha County,0.2162
+2014,46101,South Dakota,SD,Moody County,0.14184
+2014,46103,South Dakota,SD,Pennington County,0.23613
+2014,46105,South Dakota,SD,Perkins County,0.12969
+2014,46107,South Dakota,SD,Potter County,0.10569
+2014,46109,South Dakota,SD,Roberts County,0.15454
+2014,46111,South Dakota,SD,Sanborn County,0.15546
+2014,46113,South Dakota,SD,Shannon County,0.12556
+2014,46115,South Dakota,SD,Spink County,0.15033
+2014,46117,South Dakota,SD,Stanley County,0.22129
+2014,46119,South Dakota,SD,Sully County,0.16867
+2014,46121,South Dakota,SD,Todd County,0.14114
+2014,46123,South Dakota,SD,Tripp County,0.09983
+2014,46125,South Dakota,SD,Turner County,0.14537
+2014,46127,South Dakota,SD,Union County,0.25809
+2014,46129,South Dakota,SD,Walworth County,0.206
+2014,46135,South Dakota,SD,Yankton County,0.20592
+2014,46137,South Dakota,SD,Ziebach County,0.09249
+2014,47001,Tennessee,TN,Anderson County,0.23997
+2014,47003,Tennessee,TN,Bedford County,0.15542
+2014,47005,Tennessee,TN,Benton County,0.14125
+2014,47007,Tennessee,TN,Bledsoe County,0.09145
+2014,47009,Tennessee,TN,Blount County,0.21258
+2014,47011,Tennessee,TN,Bradley County,0.19078
+2014,47013,Tennessee,TN,Campbell County,0.13883
+2014,47015,Tennessee,TN,Cannon County,0.11504
+2014,47017,Tennessee,TN,Carroll County,0.14868
+2014,47019,Tennessee,TN,Carter County,0.15369
+2014,47021,Tennessee,TN,Cheatham County,0.24914
+2014,47023,Tennessee,TN,Chester County,0.14502
+2014,47025,Tennessee,TN,Claiborne County,0.15602
+2014,47027,Tennessee,TN,Clay County,0.12361
+2014,47029,Tennessee,TN,Cocke County,0.13789
+2014,47031,Tennessee,TN,Coffee County,0.20181
+2014,47033,Tennessee,TN,Crockett County,0.14477
+2014,47035,Tennessee,TN,Cumberland County,0.1547
+2014,47037,Tennessee,TN,Davidson County,0.28236
+2014,47039,Tennessee,TN,Decatur County,0.13436
+2014,47041,Tennessee,TN,DeKalb County,0.18693
+2014,47043,Tennessee,TN,Dickson County,0.178
+2014,47045,Tennessee,TN,Dyer County,0.15741
+2014,47047,Tennessee,TN,Fayette County,0.24595
+2014,47049,Tennessee,TN,Fentress County,0.1088
+2014,47051,Tennessee,TN,Franklin County,0.20559
+2014,47053,Tennessee,TN,Gibson County,0.17793
+2014,47055,Tennessee,TN,Giles County,0.18324
+2014,47057,Tennessee,TN,Grainger County,0.1307
+2014,47059,Tennessee,TN,Greene County,0.16039
+2014,47061,Tennessee,TN,Grundy County,0.09353
+2014,47063,Tennessee,TN,Hamblen County,0.16537
+2014,47065,Tennessee,TN,Hamilton County,0.25292
+2014,47067,Tennessee,TN,Hancock County,0.13093
+2014,47069,Tennessee,TN,Hardeman County,0.14169
+2014,47071,Tennessee,TN,Hardin County,0.16507
+2014,47073,Tennessee,TN,Hawkins County,0.1601
+2014,47075,Tennessee,TN,Haywood County,0.10661
+2014,47077,Tennessee,TN,Henderson County,0.16263
+2014,47079,Tennessee,TN,Henry County,0.1528
+2014,47081,Tennessee,TN,Hickman County,0.16427
+2014,47083,Tennessee,TN,Houston County,0.13322
+2014,47085,Tennessee,TN,Humphreys County,0.12163
+2014,47087,Tennessee,TN,Jackson County,0.11821
+2014,47089,Tennessee,TN,Jefferson County,0.17933
+2014,47091,Tennessee,TN,Johnson County,0.12693
+2014,47093,Tennessee,TN,Knox County,0.29061
+2014,47095,Tennessee,TN,Lake County,0.11166
+2014,47097,Tennessee,TN,Lauderdale County,0.12171
+2014,47099,Tennessee,TN,Lawrence County,0.14104
+2014,47101,Tennessee,TN,Lewis County,0.13266
+2014,47103,Tennessee,TN,Lincoln County,0.18214
+2014,47105,Tennessee,TN,Loudon County,0.19965
+2014,47107,Tennessee,TN,McMinn County,0.18079
+2014,47109,Tennessee,TN,McNairy County,0.15717
+2014,47111,Tennessee,TN,Macon County,0.13029
+2014,47113,Tennessee,TN,Madison County,0.1951
+2014,47115,Tennessee,TN,Marion County,0.15454
+2014,47117,Tennessee,TN,Marshall County,0.16573
+2014,47119,Tennessee,TN,Maury County,0.18422
+2014,47121,Tennessee,TN,Meigs County,0.1752
+2014,47123,Tennessee,TN,Monroe County,0.12836
+2014,47125,Tennessee,TN,Montgomery County,0.19871
+2014,47127,Tennessee,TN,Moore County,0.14237
+2014,47129,Tennessee,TN,Morgan County,0.12229
+2014,47131,Tennessee,TN,Obion County,0.15861
+2014,47133,Tennessee,TN,Overton County,0.1419
+2014,47135,Tennessee,TN,Perry County,0.12754
+2014,47137,Tennessee,TN,Pickett County,0.16916
+2014,47139,Tennessee,TN,Polk County,0.12119
+2014,47141,Tennessee,TN,Putnam County,0.24156
+2014,47143,Tennessee,TN,Rhea County,0.14749
+2014,47145,Tennessee,TN,Roane County,0.20128
+2014,47147,Tennessee,TN,Robertson County,0.18658
+2014,47149,Tennessee,TN,Rutherford County,0.24406
+2014,47151,Tennessee,TN,Scott County,0.14898
+2014,47153,Tennessee,TN,Sequatchie County,0.16755
+2014,47155,Tennessee,TN,Sevier County,0.18793
+2014,47157,Tennessee,TN,Shelby County,0.24225
+2014,47159,Tennessee,TN,Smith County,0.1761
+2014,47161,Tennessee,TN,Stewart County,0.12927
+2014,47163,Tennessee,TN,Sullivan County,0.21104
+2014,47165,Tennessee,TN,Sumner County,0.25714
+2014,47167,Tennessee,TN,Tipton County,0.18297
+2014,47169,Tennessee,TN,Trousdale County,0.18006
+2014,47171,Tennessee,TN,Unicoi County,0.17898
+2014,47173,Tennessee,TN,Union County,0.17595
+2014,47175,Tennessee,TN,Van Buren County,0.11158
+2014,47177,Tennessee,TN,Warren County,0.14902
+2014,47179,Tennessee,TN,Washington County,0.23882
+2014,47181,Tennessee,TN,Wayne County,0.12358
+2014,47183,Tennessee,TN,Weakley County,0.17042
+2014,47185,Tennessee,TN,White County,0.15201
+2014,47187,Tennessee,TN,Williamson County,0.42213
+2014,47189,Tennessee,TN,Wilson County,0.27233
+2014,48001,Texas,TX,Anderson County,0.13147
+2014,48003,Texas,TX,Andrews County,0.15778
+2014,48005,Texas,TX,Angelina County,0.17302
+2014,48007,Texas,TX,Aransas County,0.2382
+2014,48009,Texas,TX,Archer County,0.16137
+2014,48011,Texas,TX,Armstrong County,0.18235
+2014,48013,Texas,TX,Atascosa County,0.16193
+2014,48015,Texas,TX,Austin County,0.23501
+2014,48017,Texas,TX,Bailey County,0.12376
+2014,48019,Texas,TX,Bandera County,0.22291
+2014,48021,Texas,TX,Bastrop County,0.20642
+2014,48023,Texas,TX,Baylor County,0.19048
+2014,48025,Texas,TX,Bee County,0.12534
+2014,48027,Texas,TX,Bell County,0.18402
+2014,48029,Texas,TX,Bexar County,0.23779
+2014,48031,Texas,TX,Blanco County,0.26854
+2014,48033,Texas,TX,Borden County,0.17647
+2014,48035,Texas,TX,Bosque County,0.15897
+2014,48037,Texas,TX,Bowie County,0.17244
+2014,48039,Texas,TX,Brazoria County,0.26551
+2014,48041,Texas,TX,Brazos County,0.29773
+2014,48043,Texas,TX,Brewster County,0.24104
+2014,48045,Texas,TX,Briscoe County,0.14483
+2014,48047,Texas,TX,Brooks County,0.11765
+2014,48049,Texas,TX,Brown County,0.15148
+2014,48051,Texas,TX,Burleson County,0.17356
+2014,48053,Texas,TX,Burnet County,0.22765
+2014,48055,Texas,TX,Caldwell County,0.18618
+2014,48057,Texas,TX,Calhoun County,0.18259
+2014,48059,Texas,TX,Callahan County,0.18369
+2014,48061,Texas,TX,Cameron County,0.15815
+2014,48063,Texas,TX,Camp County,0.15547
+2014,48065,Texas,TX,Carson County,0.17742
+2014,48067,Texas,TX,Cass County,0.14604
+2014,48069,Texas,TX,Castro County,0.11825
+2014,48071,Texas,TX,Chambers County,0.22454
+2014,48073,Texas,TX,Cherokee County,0.14293
+2014,48075,Texas,TX,Childress County,0.13933
+2014,48077,Texas,TX,Clay County,0.19166
+2014,48079,Texas,TX,Cochran County,0.12705
+2014,48081,Texas,TX,Coke County,0.2
+2014,48083,Texas,TX,Coleman County,0.10433
+2014,48085,Texas,TX,Collin County,0.41531
+2014,48087,Texas,TX,Collingsworth County,0.14343
+2014,48089,Texas,TX,Colorado County,0.17425
+2014,48091,Texas,TX,Comal County,0.28131
+2014,48093,Texas,TX,Comanche County,0.13143
+2014,48095,Texas,TX,Concho County,0.125
+2014,48097,Texas,TX,Cooke County,0.17083
+2014,48099,Texas,TX,Coryell County,0.14918
+2014,48101,Texas,TX,Cottle County,0.14286
+2014,48103,Texas,TX,Crane County,0.16618
+2014,48105,Texas,TX,Crockett County,0.10951
+2014,48107,Texas,TX,Crosby County,0.10282
+2014,48109,Texas,TX,Culberson County,0.24878
+2014,48111,Texas,TX,Dallam County,0.17562
+2014,48113,Texas,TX,Dallas County,0.24653
+2014,48115,Texas,TX,Dawson County,0.12979
+2014,48117,Texas,TX,Deaf Smith County,0.15475
+2014,48119,Texas,TX,Delta County,0.09624
+2014,48121,Texas,TX,Denton County,0.34456
+2014,48123,Texas,TX,DeWitt County,0.11708
+2014,48125,Texas,TX,Dickens County,0.14458
+2014,48127,Texas,TX,Dimmit County,0.09091
+2014,48129,Texas,TX,Donley County,0.1755
+2014,48131,Texas,TX,Duval County,0.12004
+2014,48133,Texas,TX,Eastland County,0.1499
+2014,48135,Texas,TX,Ector County,0.18247
+2014,48137,Texas,TX,Edwards County,0.16495
+2014,48139,Texas,TX,Ellis County,0.23485
+2014,48141,Texas,TX,El Paso County,0.19732
+2014,48143,Texas,TX,Erath County,0.19606
+2014,48145,Texas,TX,Falls County,0.10474
+2014,48147,Texas,TX,Fannin County,0.17289
+2014,48149,Texas,TX,Fayette County,0.19356
+2014,48151,Texas,TX,Fisher County,0.12748
+2014,48153,Texas,TX,Floyd County,0.14092
+2014,48155,Texas,TX,Foard County,0.09735
+2014,48157,Texas,TX,Fort Bend County,0.35607
+2014,48159,Texas,TX,Franklin County,0.20571
+2014,48161,Texas,TX,Freestone County,0.17687
+2014,48163,Texas,TX,Frio County,0.10381
+2014,48165,Texas,TX,Gaines County,0.11274
+2014,48167,Texas,TX,Galveston County,0.2772
+2014,48169,Texas,TX,Garza County,0.13754
+2014,48171,Texas,TX,Gillespie County,0.23295
+2014,48173,Texas,TX,Glasscock County,0.18868
+2014,48175,Texas,TX,Goliad County,0.1461
+2014,48177,Texas,TX,Gonzales County,0.15578
+2014,48179,Texas,TX,Gray County,0.13683
+2014,48181,Texas,TX,Grayson County,0.20515
+2014,48183,Texas,TX,Gregg County,0.20959
+2014,48185,Texas,TX,Grimes County,0.139
+2014,48187,Texas,TX,Guadalupe County,0.23895
+2014,48189,Texas,TX,Hale County,0.14698
+2014,48191,Texas,TX,Hall County,0.16412
+2014,48193,Texas,TX,Hamilton County,0.1454
+2014,48195,Texas,TX,Hansford County,0.14098
+2014,48197,Texas,TX,Hardeman County,0.14239
+2014,48199,Texas,TX,Hardin County,0.20679
+2014,48201,Texas,TX,Harris County,0.26033
+2014,48203,Texas,TX,Harrison County,0.19624
+2014,48205,Texas,TX,Hartley County,0.2044
+2014,48207,Texas,TX,Haskell County,0.12656
+2014,48209,Texas,TX,Hays County,0.28957
+2014,48211,Texas,TX,Hemphill County,0.18718
+2014,48213,Texas,TX,Henderson County,0.181
+2014,48215,Texas,TX,Hidalgo County,0.16048
+2014,48217,Texas,TX,Hill County,0.16427
+2014,48219,Texas,TX,Hockley County,0.1737
+2014,48221,Texas,TX,Hood County,0.26278
+2014,48223,Texas,TX,Hopkins County,0.17179
+2014,48225,Texas,TX,Houston County,0.16283
+2014,48227,Texas,TX,Howard County,0.15796
+2014,48229,Texas,TX,Hudspeth County,0.10648
+2014,48231,Texas,TX,Hunt County,0.22567
+2014,48233,Texas,TX,Hutchinson County,0.1936
+2014,48235,Texas,TX,Irion County,0.17919
+2014,48237,Texas,TX,Jack County,0.16092
+2014,48239,Texas,TX,Jackson County,0.18008
+2014,48241,Texas,TX,Jasper County,0.13613
+2014,48243,Texas,TX,Jeff Davis County,0.21368
+2014,48245,Texas,TX,Jefferson County,0.18304
+2014,48247,Texas,TX,Jim Hogg County,0.09557
+2014,48249,Texas,TX,Jim Wells County,0.17201
+2014,48251,Texas,TX,Johnson County,0.19449
+2014,48253,Texas,TX,Jones County,0.10535
+2014,48255,Texas,TX,Karnes County,0.16284
+2014,48257,Texas,TX,Kaufman County,0.23858
+2014,48259,Texas,TX,Kendall County,0.30779
+2014,48261,Texas,TX,Kenedy County,0.125
+2014,48263,Texas,TX,Kent County,0.15556
+2014,48265,Texas,TX,Kerr County,0.20316
+2014,48267,Texas,TX,Kimble County,0.17143
+2014,48269,Texas,TX,King County,0.25714
+2014,48271,Texas,TX,Kinney County,0.1422
+2014,48273,Texas,TX,Kleberg County,0.1981
+2014,48275,Texas,TX,Knox County,0.13816
+2014,48277,Texas,TX,Lamar County,0.16792
+2014,48279,Texas,TX,Lamb County,0.10583
+2014,48281,Texas,TX,Lampasas County,0.1775
+2014,48283,Texas,TX,La Salle County,0.07872
+2014,48285,Texas,TX,Lavaca County,0.1808
+2014,48287,Texas,TX,Lee County,0.18188
+2014,48289,Texas,TX,Leon County,0.11719
+2014,48291,Texas,TX,Liberty County,0.14665
+2014,48293,Texas,TX,Limestone County,0.14044
+2014,48295,Texas,TX,Lipscomb County,0.15854
+2014,48297,Texas,TX,Live Oak County,0.15704
+2014,48299,Texas,TX,Llano County,0.28349
+2014,48301,Texas,TX,Loving County,0.27273
+2014,48303,Texas,TX,Lubbock County,0.22497
+2014,48305,Texas,TX,Lynn County,0.20227
+2014,48307,Texas,TX,McCulloch County,0.16213
+2014,48309,Texas,TX,McLennan County,0.2112
+2014,48311,Texas,TX,McMullen County,0.2125
+2014,48313,Texas,TX,Madison County,0.10998
+2014,48315,Texas,TX,Marion County,0.16129
+2014,48317,Texas,TX,Martin County,0.12649
+2014,48319,Texas,TX,Mason County,0.31594
+2014,48321,Texas,TX,Matagorda County,0.15966
+2014,48323,Texas,TX,Maverick County,0.13746
+2014,48325,Texas,TX,Medina County,0.20183
+2014,48327,Texas,TX,Menard County,0.18981
+2014,48329,Texas,TX,Midland County,0.25225
+2014,48331,Texas,TX,Milam County,0.14057
+2014,48333,Texas,TX,Mills County,0.16753
+2014,48335,Texas,TX,Mitchell County,0.17399
+2014,48337,Texas,TX,Montague County,0.15734
+2014,48339,Texas,TX,Montgomery County,0.29674
+2014,48341,Texas,TX,Moore County,0.1232
+2014,48343,Texas,TX,Morris County,0.15039
+2014,48345,Texas,TX,Motley County,0.19231
+2014,48347,Texas,TX,Nacogdoches County,0.2036
+2014,48349,Texas,TX,Navarro County,0.15656
+2014,48351,Texas,TX,Newton County,0.16308
+2014,48353,Texas,TX,Nolan County,0.16776
+2014,48355,Texas,TX,Nueces County,0.20086
+2014,48357,Texas,TX,Ochiltree County,0.15848
+2014,48359,Texas,TX,Oldham County,0.12821
+2014,48361,Texas,TX,Orange County,0.16223
+2014,48363,Texas,TX,Palo Pinto County,0.17134
+2014,48365,Texas,TX,Panola County,0.17199
+2014,48367,Texas,TX,Parker County,0.26783
+2014,48369,Texas,TX,Parmer County,0.1099
+2014,48371,Texas,TX,Pecos County,0.11393
+2014,48373,Texas,TX,Polk County,0.15182
+2014,48375,Texas,TX,Potter County,0.16799
+2014,48377,Texas,TX,Presidio County,0.2233
+2014,48379,Texas,TX,Rains County,0.18665
+2014,48381,Texas,TX,Randall County,0.23497
+2014,48383,Texas,TX,Reagan County,0.1682
+2014,48385,Texas,TX,Real County,0.16746
+2014,48387,Texas,TX,Red River County,0.12881
+2014,48389,Texas,TX,Reeves County,0.14286
+2014,48391,Texas,TX,Refugio County,0.19395
+2014,48393,Texas,TX,Roberts County,0.21839
+2014,48395,Texas,TX,Robertson County,0.13817
+2014,48397,Texas,TX,Rockwall County,0.32927
+2014,48399,Texas,TX,Runnels County,0.13974
+2014,48401,Texas,TX,Rusk County,0.14355
+2014,48403,Texas,TX,Sabine County,0.13766
+2014,48405,Texas,TX,San Augustine County,0.10087
+2014,48407,Texas,TX,San Jacinto County,0.1889
+2014,48409,Texas,TX,San Patricio County,0.1806
+2014,48411,Texas,TX,San Saba County,0.12115
+2014,48413,Texas,TX,Schleicher County,0.12287
+2014,48415,Texas,TX,Scurry County,0.15541
+2014,48417,Texas,TX,Shackelford County,0.22951
+2014,48419,Texas,TX,Shelby County,0.15526
+2014,48421,Texas,TX,Sherman County,0.12868
+2014,48423,Texas,TX,Smith County,0.21699
+2014,48425,Texas,TX,Somervell County,0.27186
+2014,48427,Texas,TX,Starr County,0.09142
+2014,48429,Texas,TX,Stephens County,0.13924
+2014,48431,Texas,TX,Sterling County,0.13592
+2014,48433,Texas,TX,Stonewall County,0.24638
+2014,48435,Texas,TX,Sutton County,0.13757
+2014,48437,Texas,TX,Swisher County,0.11785
+2014,48439,Texas,TX,Tarrant County,0.26956
+2014,48441,Texas,TX,Taylor County,0.19929
+2014,48443,Texas,TX,Terrell County,0.09639
+2014,48445,Texas,TX,Terry County,0.10467
+2014,48447,Texas,TX,Throckmorton County,0.14865
+2014,48449,Texas,TX,Titus County,0.11672
+2014,48451,Texas,TX,Tom Green County,0.18045
+2014,48453,Texas,TX,Travis County,0.35708
+2014,48455,Texas,TX,Trinity County,0.15016
+2014,48457,Texas,TX,Tyler County,0.14785
+2014,48459,Texas,TX,Upshur County,0.17035
+2014,48461,Texas,TX,Upton County,0.16892
+2014,48463,Texas,TX,Uvalde County,0.11144
+2014,48465,Texas,TX,Val Verde County,0.13333
+2014,48467,Texas,TX,Van Zandt County,0.16813
+2014,48469,Texas,TX,Victoria County,0.17696
+2014,48471,Texas,TX,Walker County,0.2046
+2014,48473,Texas,TX,Waller County,0.20898
+2014,48475,Texas,TX,Ward County,0.13647
+2014,48477,Texas,TX,Washington County,0.21724
+2014,48479,Texas,TX,Webb County,0.16746
+2014,48481,Texas,TX,Wharton County,0.13753
+2014,48483,Texas,TX,Wheeler County,0.13552
+2014,48485,Texas,TX,Wichita County,0.18739
+2014,48487,Texas,TX,Wilbarger County,0.15893
+2014,48489,Texas,TX,Willacy County,0.11091
+2014,48491,Texas,TX,Williamson County,0.35818
+2014,48493,Texas,TX,Wilson County,0.19995
+2014,48495,Texas,TX,Winkler County,0.08348
+2014,48497,Texas,TX,Wise County,0.19084
+2014,48499,Texas,TX,Wood County,0.22049
+2014,48501,Texas,TX,Yoakum County,0.08892
+2014,48503,Texas,TX,Young County,0.16071
+2014,48505,Texas,TX,Zapata County,0.09119
+2014,48507,Texas,TX,Zavala County,0.04604
+2014,49001,Utah,UT,Beaver County,0.15769
+2014,49003,Utah,UT,Box Elder County,0.22446
+2014,49005,Utah,UT,Cache County,0.26553
+2014,49007,Utah,UT,Carbon County,0.19557
+2014,49009,Utah,UT,Daggett County,0.16438
+2014,49011,Utah,UT,Davis County,0.30296
+2014,49013,Utah,UT,Duchesne County,0.175
+2014,49015,Utah,UT,Emery County,0.14114
+2014,49017,Utah,UT,Garfield County,0.23725
+2014,49019,Utah,UT,Grand County,0.25457
+2014,49021,Utah,UT,Iron County,0.24223
+2014,49023,Utah,UT,Juab County,0.13789
+2014,49025,Utah,UT,Kane County,0.22467
+2014,49027,Utah,UT,Millard County,0.13456
+2014,49029,Utah,UT,Morgan County,0.30562
+2014,49031,Utah,UT,Piute County,0.13008
+2014,49033,Utah,UT,Rich County,0.185
+2014,49035,Utah,UT,Salt Lake County,0.27862
+2014,49037,Utah,UT,San Juan County,0.17045
+2014,49039,Utah,UT,Sanpete County,0.18669
+2014,49041,Utah,UT,Sevier County,0.18294
+2014,49043,Utah,UT,Summit County,0.35949
+2014,49045,Utah,UT,Tooele County,0.24277
+2014,49047,Utah,UT,Uintah County,0.20889
+2014,49049,Utah,UT,Utah County,0.30574
+2014,49051,Utah,UT,Wasatch County,0.29252
+2014,49053,Utah,UT,Washington County,0.23914
+2014,49055,Utah,UT,Wayne County,0.21654
+2014,49057,Utah,UT,Weber County,0.22626
+2014,50001,Vermont,VT,Addison County,0.24981
+2014,50003,Vermont,VT,Bennington County,0.25424
+2014,50005,Vermont,VT,Caledonia County,0.21338
+2014,50007,Vermont,VT,Chittenden County,0.31959
+2014,50009,Vermont,VT,Essex County,0.15529
+2014,50011,Vermont,VT,Franklin County,0.18859
+2014,50013,Vermont,VT,Grand Isle County,0.27273
+2014,50015,Vermont,VT,Lamoille County,0.25502
+2014,50017,Vermont,VT,Orange County,0.22222
+2014,50019,Vermont,VT,Orleans County,0.1497
+2014,50021,Vermont,VT,Rutland County,0.22102
+2014,50023,Vermont,VT,Washington County,0.30013
+2014,50025,Vermont,VT,Windham County,0.26199
+2014,50027,Vermont,VT,Windsor County,0.27115
+2014,51001,Virginia,VA,Accomack County,0.17507
+2014,51003,Virginia,VA,Albemarle County,0.35773
+2014,51005,Virginia,VA,Alleghany County,0.14306
+2014,51007,Virginia,VA,Amelia County,0.19035
+2014,51009,Virginia,VA,Amherst County,0.19364
+2014,51011,Virginia,VA,Appomattox County,0.15442
+2014,51013,Virginia,VA,Arlington County,0.49967
+2014,51015,Virginia,VA,Augusta County,0.2044
+2014,51017,Virginia,VA,Bath County,0.1242
+2014,51019,Virginia,VA,Bedford County,0.24384
+2014,51021,Virginia,VA,Bland County,0.1362
+2014,51023,Virginia,VA,Botetourt County,0.24294
+2014,51025,Virginia,VA,Brunswick County,0.12058
+2014,51027,Virginia,VA,Buchanan County,0.1203
+2014,51029,Virginia,VA,Buckingham County,0.13591
+2014,51031,Virginia,VA,Campbell County,0.18648
+2014,51033,Virginia,VA,Caroline County,0.21269
+2014,51035,Virginia,VA,Carroll County,0.14663
+2014,51036,Virginia,VA,Charles City County,0.16327
+2014,51037,Virginia,VA,Charlotte County,0.10893
+2014,51041,Virginia,VA,Chesterfield County,0.29471
+2014,51043,Virginia,VA,Clarke County,0.2963
+2014,51045,Virginia,VA,Craig County,0.14745
+2014,51047,Virginia,VA,Culpeper County,0.25056
+2014,51049,Virginia,VA,Cumberland County,0.11268
+2014,51051,Virginia,VA,Dickenson County,0.12513
+2014,51053,Virginia,VA,Dinwiddie County,0.16673
+2014,51057,Virginia,VA,Essex County,0.19615
+2014,51059,Virginia,VA,Fairfax County,0.4299
+2014,51061,Virginia,VA,Fauquier County,0.31583
+2014,51063,Virginia,VA,Floyd County,0.18245
+2014,51065,Virginia,VA,Fluvanna County,0.25713
+2014,51067,Virginia,VA,Franklin County,0.1818
+2014,51069,Virginia,VA,Frederick County,0.24961
+2014,51071,Virginia,VA,Giles County,0.19412
+2014,51073,Virginia,VA,Gloucester County,0.22315
+2014,51075,Virginia,VA,Goochland County,0.44325
+2014,51077,Virginia,VA,Grayson County,0.13922
+2014,51079,Virginia,VA,Greene County,0.22064
+2014,51081,Virginia,VA,Greensville County,0.15689
+2014,51083,Virginia,VA,Halifax County,0.14659
+2014,51085,Virginia,VA,Hanover County,0.32683
+2014,51087,Virginia,VA,Henrico County,0.30736
+2014,51089,Virginia,VA,Henry County,0.15018
+2014,51091,Virginia,VA,Highland County,0.14747
+2014,51093,Virginia,VA,Isle of Wight County,0.24861
+2014,51095,Virginia,VA,James City County,0.33593
+2014,51097,Virginia,VA,King and Queen County,0.18126
+2014,51099,Virginia,VA,King George County,0.33288
+2014,51101,Virginia,VA,King William County,0.18476
+2014,51103,Virginia,VA,Lancaster County,0.21415
+2014,51105,Virginia,VA,Lee County,0.10896
+2014,51107,Virginia,VA,Loudoun County,0.4555
+2014,51109,Virginia,VA,Louisa County,0.19657
+2014,51111,Virginia,VA,Lunenburg County,0.16253
+2014,51113,Virginia,VA,Madison County,0.18343
+2014,51115,Virginia,VA,Mathews County,0.22222
+2014,51117,Virginia,VA,Mecklenburg County,0.16539
+2014,51119,Virginia,VA,Middlesex County,0.20607
+2014,51121,Virginia,VA,Montgomery County,0.33385
+2014,51125,Virginia,VA,Nelson County,0.25772
+2014,51127,Virginia,VA,New Kent County,0.27083
+2014,51131,Virginia,VA,Northampton County,0.2265
+2014,51133,Virginia,VA,Northumberland County,0.2041
+2014,51135,Virginia,VA,Nottoway County,0.14801
+2014,51137,Virginia,VA,Orange County,0.23521
+2014,51139,Virginia,VA,Page County,0.15321
+2014,51141,Virginia,VA,Patrick County,0.14833
+2014,51143,Virginia,VA,Pittsylvania County,0.14976
+2014,51145,Virginia,VA,Powhatan County,0.29796
+2014,51147,Virginia,VA,Prince Edward County,0.17302
+2014,51149,Virginia,VA,Prince George County,0.23739
+2014,51153,Virginia,VA,Prince William County,0.32856
+2014,51155,Virginia,VA,Pulaski County,0.18188
+2014,51157,Virginia,VA,Rappahannock County,0.36815
+2014,51159,Virginia,VA,Richmond County,0.1622
+2014,51161,Virginia,VA,Roanoke County,0.27271
+2014,51163,Virginia,VA,Rockbridge County,0.19535
+2014,51165,Virginia,VA,Rockingham County,0.19427
+2014,51167,Virginia,VA,Russell County,0.12739
+2014,51169,Virginia,VA,Scott County,0.12486
+2014,51171,Virginia,VA,Shenandoah County,0.16667
+2014,51173,Virginia,VA,Smyth County,0.15678
+2014,51175,Virginia,VA,Southampton County,0.13658
+2014,51177,Virginia,VA,Spotsylvania County,0.26853
+2014,51179,Virginia,VA,Stafford County,0.31983
+2014,51181,Virginia,VA,Surry County,0.13272
+2014,51183,Virginia,VA,Sussex County,0.10338
+2014,51185,Virginia,VA,Tazewell County,0.18659
+2014,51187,Virginia,VA,Warren County,0.24027
+2014,51191,Virginia,VA,Washington County,0.21056
+2014,51193,Virginia,VA,Westmoreland County,0.1848
+2014,51195,Virginia,VA,Wise County,0.16052
+2014,51197,Virginia,VA,Wythe County,0.13452
+2014,51199,Virginia,VA,York County,0.33804
+2014,51510,Virginia,VA,Alexandria city,0.43732
+2014,51515,Virginia,VA,Bedford city,0.23881
+2014,51520,Virginia,VA,Bristol city,0.22365
+2014,51530,Virginia,VA,Buena Vista city,0.13087
+2014,51540,Virginia,VA,Charlottesville city,0.35699
+2014,51550,Virginia,VA,Chesapeake city,0.27238
+2014,51560,Virginia,VA,Clifton Forge city,NA
+2014,51570,Virginia,VA,Colonial Heights city,0.18922
+2014,51580,Virginia,VA,Covington city,0.1505
+2014,51590,Virginia,VA,Danville city,0.15441
+2014,51595,Virginia,VA,Emporia city,0.13304
+2014,51600,Virginia,VA,Fairfax city,0.385
+2014,51610,Virginia,VA,Falls Church city,0.51223
+2014,51620,Virginia,VA,Franklin city,0.176
+2014,51630,Virginia,VA,Fredericksburg city,0.24119
+2014,51640,Virginia,VA,Galax city,0.16975
+2014,51650,Virginia,VA,Hampton city,0.22645
+2014,51660,Virginia,VA,Harrisonburg city,0.20838
+2014,51670,Virginia,VA,Hopewell city,0.16887
+2014,51678,Virginia,VA,Lexington city,0.26536
+2014,51680,Virginia,VA,Lynchburg city,0.24111
+2014,51683,Virginia,VA,Manassas city,0.24954
+2014,51685,Virginia,VA,Manassas Park city,0.23391
+2014,51690,Virginia,VA,Martinsville city,0.16995
+2014,51700,Virginia,VA,Newport News city,0.20918
+2014,51710,Virginia,VA,Norfolk city,0.22182
+2014,51720,Virginia,VA,Norton city,0.20776
+2014,51730,Virginia,VA,Petersburg city,0.14641
+2014,51735,Virginia,VA,Poquoson city,0.32348
+2014,51740,Virginia,VA,Portsmouth city,0.19164
+2014,51750,Virginia,VA,Radford city,0.28177
+2014,51760,Virginia,VA,Richmond city,0.25387
+2014,51770,Virginia,VA,Roanoke city,0.19151
+2014,51775,Virginia,VA,Salem city,0.25923
+2014,51780,Virginia,VA,South Boston City,NA
+2014,51790,Virginia,VA,Staunton city,0.22644
+2014,51800,Virginia,VA,Suffolk city,0.24243
+2014,51810,Virginia,VA,Virginia Beach city,0.29109
+2014,51820,Virginia,VA,Waynesboro city,0.20847
+2014,51830,Virginia,VA,Williamsburg city,0.33129
+2014,51840,Virginia,VA,Winchester city,0.27941
+2014,53001,Washington,WA,Adams County,0.11935
+2014,53003,Washington,WA,Asotin County,0.21196
+2014,53005,Washington,WA,Benton County,0.26461
+2014,53007,Washington,WA,Chelan County,0.20491
+2014,53009,Washington,WA,Clallam County,0.21628
+2014,53011,Washington,WA,Clark County,0.263
+2014,53013,Washington,WA,Columbia County,0.17231
+2014,53015,Washington,WA,Cowlitz County,0.1699
+2014,53017,Washington,WA,Douglas County,0.16609
+2014,53019,Washington,WA,Ferry County,0.17188
+2014,53021,Washington,WA,Franklin County,0.15206
+2014,53023,Washington,WA,Garfield County,0.19048
+2014,53025,Washington,WA,Grant County,0.14746
+2014,53027,Washington,WA,Grays Harbor County,0.14508
+2014,53029,Washington,WA,Island County,0.24492
+2014,53031,Washington,WA,Jefferson County,0.29186
+2014,53033,Washington,WA,King County,0.38513
+2014,53035,Washington,WA,Kitsap County,0.27197
+2014,53037,Washington,WA,Kittitas County,0.27251
+2014,53039,Washington,WA,Klickitat County,0.18979
+2014,53041,Washington,WA,Lewis County,0.1649
+2014,53043,Washington,WA,Lincoln County,0.19935
+2014,53045,Washington,WA,Mason County,0.1899
+2014,53047,Washington,WA,Okanogan County,0.17603
+2014,53049,Washington,WA,Pacific County,0.18789
+2014,53051,Washington,WA,Pend Oreille County,0.20809
+2014,53053,Washington,WA,Pierce County,0.2354
+2014,53055,Washington,WA,San Juan County,0.29321
+2014,53057,Washington,WA,Skagit County,0.20817
+2014,53059,Washington,WA,Skamania County,0.24948
+2014,53061,Washington,WA,Snohomish County,0.28946
+2014,53063,Washington,WA,Spokane County,0.25022
+2014,53065,Washington,WA,Stevens County,0.21138
+2014,53067,Washington,WA,Thurston County,0.2836
+2014,53069,Washington,WA,Wahkiakum County,0.10145
+2014,53071,Washington,WA,Walla Walla County,0.20473
+2014,53073,Washington,WA,Whatcom County,0.24384
+2014,53075,Washington,WA,Whitman County,0.33815
+2014,53077,Washington,WA,Yakima County,0.15171
+2014,54001,West Virginia,WV,Barbour County,0.12234
+2014,54003,West Virginia,WV,Berkeley County,0.21127
+2014,54005,West Virginia,WV,Boone County,0.13074
+2014,54007,West Virginia,WV,Braxton County,0.14205
+2014,54009,West Virginia,WV,Brooke County,0.14552
+2014,54011,West Virginia,WV,Cabell County,0.22407
+2014,54013,West Virginia,WV,Calhoun County,0.09924
+2014,54015,West Virginia,WV,Clay County,0.1552
+2014,54017,West Virginia,WV,Doddridge County,0.14701
+2014,54019,West Virginia,WV,Fayette County,0.17097
+2014,54021,West Virginia,WV,Gilmer County,0.10158
+2014,54023,West Virginia,WV,Grant County,0.13248
+2014,54025,West Virginia,WV,Greenbrier County,0.16859
+2014,54027,West Virginia,WV,Hampshire County,0.10455
+2014,54029,West Virginia,WV,Hancock County,0.16174
+2014,54031,West Virginia,WV,Hardy County,0.09699
+2014,54033,West Virginia,WV,Harrison County,0.21243
+2014,54035,West Virginia,WV,Jackson County,0.20546
+2014,54037,West Virginia,WV,Jefferson County,0.27114
+2014,54039,West Virginia,WV,Kanawha County,0.23518
+2014,54041,West Virginia,WV,Lewis County,0.16947
+2014,54043,West Virginia,WV,Lincoln County,0.12473
+2014,54045,West Virginia,WV,Logan County,0.1814
+2014,54047,West Virginia,WV,McDowell County,0.11948
+2014,54049,West Virginia,WV,Marion County,0.19387
+2014,54051,West Virginia,WV,Marshall County,0.13216
+2014,54053,West Virginia,WV,Mason County,0.1315
+2014,54055,West Virginia,WV,Mercer County,0.16952
+2014,54057,West Virginia,WV,Mineral County,0.16968
+2014,54059,West Virginia,WV,Mingo County,0.14251
+2014,54061,West Virginia,WV,Monongalia County,0.2685
+2014,54063,West Virginia,WV,Monroe County,0.12097
+2014,54065,West Virginia,WV,Morgan County,0.149
+2014,54067,West Virginia,WV,Nicholas County,0.1564
+2014,54069,West Virginia,WV,Ohio County,0.20931
+2014,54071,West Virginia,WV,Pendleton County,0.11848
+2014,54073,West Virginia,WV,Pleasants County,0.19137
+2014,54075,West Virginia,WV,Pocahontas County,0.19274
+2014,54077,West Virginia,WV,Preston County,0.14767
+2014,54079,West Virginia,WV,Putnam County,0.23894
+2014,54081,West Virginia,WV,Raleigh County,0.20106
+2014,54083,West Virginia,WV,Randolph County,0.17369
+2014,54085,West Virginia,WV,Ritchie County,0.15931
+2014,54087,West Virginia,WV,Roane County,0.15601
+2014,54089,West Virginia,WV,Summers County,0.12351
+2014,54091,West Virginia,WV,Taylor County,0.16089
+2014,54093,West Virginia,WV,Tucker County,0.16375
+2014,54095,West Virginia,WV,Tyler County,0.14499
+2014,54097,West Virginia,WV,Upshur County,0.17949
+2014,54099,West Virginia,WV,Wayne County,0.17696
+2014,54101,West Virginia,WV,Webster County,0.11916
+2014,54103,West Virginia,WV,Wetzel County,0.11817
+2014,54105,West Virginia,WV,Wirt County,0.1253
+2014,54107,West Virginia,WV,Wood County,0.20019
+2014,54109,West Virginia,WV,Wyoming County,0.11238
+2014,55001,Wisconsin,WI,Adams County,0.15403
+2014,55003,Wisconsin,WI,Ashland County,0.19642
+2014,55005,Wisconsin,WI,Barron County,0.16235
+2014,55007,Wisconsin,WI,Bayfield County,0.22319
+2014,55009,Wisconsin,WI,Brown County,0.22988
+2014,55011,Wisconsin,WI,Buffalo County,0.14828
+2014,55013,Wisconsin,WI,Burnett County,0.16743
+2014,55015,Wisconsin,WI,Calumet County,0.24079
+2014,55017,Wisconsin,WI,Chippewa County,0.16535
+2014,55019,Wisconsin,WI,Clark County,0.11931
+2014,55021,Wisconsin,WI,Columbia County,0.19534
+2014,55023,Wisconsin,WI,Crawford County,0.1298
+2014,55025,Wisconsin,WI,Dane County,0.3408
+2014,55027,Wisconsin,WI,Dodge County,0.16543
+2014,55029,Wisconsin,WI,Door County,0.21317
+2014,55031,Wisconsin,WI,Douglas County,0.19173
+2014,55033,Wisconsin,WI,Dunn County,0.1947
+2014,55035,Wisconsin,WI,Eau Claire County,0.22074
+2014,55037,Wisconsin,WI,Florence County,0.19858
+2014,55039,Wisconsin,WI,Fond du Lac County,0.16571
+2014,55041,Wisconsin,WI,Forest County,0.13601
+2014,55043,Wisconsin,WI,Grant County,0.15192
+2014,55045,Wisconsin,WI,Green County,0.20574
+2014,55047,Wisconsin,WI,Green Lake County,0.15093
+2014,55049,Wisconsin,WI,Iowa County,0.20533
+2014,55051,Wisconsin,WI,Iron County,0.1749
+2014,55053,Wisconsin,WI,Jackson County,0.14103
+2014,55055,Wisconsin,WI,Jefferson County,0.20018
+2014,55057,Wisconsin,WI,Juneau County,0.15741
+2014,55059,Wisconsin,WI,Kenosha County,0.22299
+2014,55061,Wisconsin,WI,Kewaunee County,0.15799
+2014,55063,Wisconsin,WI,La Crosse County,0.22574
+2014,55065,Wisconsin,WI,Lafayette County,0.14091
+2014,55067,Wisconsin,WI,Langlade County,0.12539
+2014,55069,Wisconsin,WI,Lincoln County,0.14991
+2014,55071,Wisconsin,WI,Manitowoc County,0.16199
+2014,55073,Wisconsin,WI,Marathon County,0.21171
+2014,55075,Wisconsin,WI,Marinette County,0.15195
+2014,55077,Wisconsin,WI,Marquette County,0.14397
+2014,55078,Wisconsin,WI,Menominee County,0.10035
+2014,55079,Wisconsin,WI,Milwaukee County,0.23323
+2014,55081,Wisconsin,WI,Monroe County,0.1676
+2014,55083,Wisconsin,WI,Oconto County,0.16605
+2014,55085,Wisconsin,WI,Oneida County,0.18405
+2014,55087,Wisconsin,WI,Outagamie County,0.22104
+2014,55089,Wisconsin,WI,Ozaukee County,0.33226
+2014,55091,Wisconsin,WI,Pepin County,0.17131
+2014,55093,Wisconsin,WI,Pierce County,0.20013
+2014,55095,Wisconsin,WI,Polk County,0.16879
+2014,55097,Wisconsin,WI,Portage County,0.21415
+2014,55099,Wisconsin,WI,Price County,0.16761
+2014,55101,Wisconsin,WI,Racine County,0.2141
+2014,55103,Wisconsin,WI,Richland County,0.14596
+2014,55105,Wisconsin,WI,Rock County,0.18901
+2014,55107,Wisconsin,WI,Rusk County,0.12811
+2014,55109,Wisconsin,WI,St. Croix County,0.27007
+2014,55111,Wisconsin,WI,Sauk County,0.19151
+2014,55113,Wisconsin,WI,Sawyer County,0.2
+2014,55115,Wisconsin,WI,Shawano County,0.14861
+2014,55117,Wisconsin,WI,Sheboygan County,0.19703
+2014,55119,Wisconsin,WI,Taylor County,0.14448
+2014,55121,Wisconsin,WI,Trempealeau County,0.16147
+2014,55123,Wisconsin,WI,Vernon County,0.14965
+2014,55125,Wisconsin,WI,Vilas County,0.26667
+2014,55127,Wisconsin,WI,Walworth County,0.21631
+2014,55129,Wisconsin,WI,Washburn County,0.17862
+2014,55131,Wisconsin,WI,Washington County,0.26062
+2014,55133,Wisconsin,WI,Waukesha County,0.33123
+2014,55135,Wisconsin,WI,Waupaca County,0.14807
+2014,55137,Wisconsin,WI,Waushara County,0.13716
+2014,55139,Wisconsin,WI,Winnebago County,0.2234
+2014,55141,Wisconsin,WI,Wood County,0.17031
+2014,56001,Wyoming,WY,Albany County,0.32746
+2014,56003,Wyoming,WY,Big Horn County,0.14832
+2014,56005,Wyoming,WY,Campbell County,0.16228
+2014,56007,Wyoming,WY,Carbon County,0.1622
+2014,56009,Wyoming,WY,Converse County,0.13854
+2014,56011,Wyoming,WY,Crook County,0.15094
+2014,56013,Wyoming,WY,Fremont County,0.17765
+2014,56015,Wyoming,WY,Goshen County,0.17254
+2014,56017,Wyoming,WY,Hot Springs County,0.16438
+2014,56019,Wyoming,WY,Johnson County,0.21646
+2014,56021,Wyoming,WY,Laramie County,0.23894
+2014,56023,Wyoming,WY,Lincoln County,0.18794
+2014,56025,Wyoming,WY,Natrona County,0.2174
+2014,56027,Wyoming,WY,Niobrara County,0.16949
+2014,56029,Wyoming,WY,Park County,0.2184
+2014,56031,Wyoming,WY,Platte County,0.16427
+2014,56033,Wyoming,WY,Sheridan County,0.23722
+2014,56035,Wyoming,WY,Sublette County,0.24446
+2014,56037,Wyoming,WY,Sweetwater County,0.18552
+2014,56039,Wyoming,WY,Teton County,0.32061
+2014,56041,Wyoming,WY,Uinta County,0.19454
+2014,56043,Wyoming,WY,Washakie County,0.14681
+2014,56045,Wyoming,WY,Weston County,0.14694

@@ -1,0 +1,92 @@
+State FIPS Code,State,State Abbreviation,fips,City/County,Year,min_wage
+35,New Mexico,NM,1,Bernalillo County,2004,5.15
+35,New Mexico,NM,1,Bernalillo County,2005,5.15
+35,New Mexico,NM,1,Bernalillo County,2006,5.15
+35,New Mexico,NM,1,Bernalillo County,2007,5.458767123
+35,New Mexico,NM,1,Bernalillo County,2008,6.521994536
+35,New Mexico,NM,1,Bernalillo County,2009,7.5
+35,New Mexico,NM,1,Bernalillo County,2010,7.5
+35,New Mexico,NM,1,Bernalillo County,2011,7.5
+35,New Mexico,NM,1,Bernalillo County,2012,7.5
+35,New Mexico,NM,1,Bernalillo County,2013,7.752054795
+35,New Mexico,NM,1,Bernalillo County,2014,8.5
+35,New Mexico,NM,1,Bernalillo County,2015,8.639726027
+35,New Mexico,NM,1,Bernalillo County,2016,8.65
+19,Iowa,IA,103,Johnson County,2004,5.15
+19,Iowa,IA,103,Johnson County,2005,5.15
+19,Iowa,IA,103,Johnson County,2006,5.15
+19,Iowa,IA,103,Johnson County,2007,5.94109589
+19,Iowa,IA,103,Johnson County,2008,7.25
+19,Iowa,IA,103,Johnson County,2009,7.25
+19,Iowa,IA,103,Johnson County,2010,7.25
+19,Iowa,IA,103,Johnson County,2011,7.25
+19,Iowa,IA,103,Johnson County,2012,7.25
+19,Iowa,IA,103,Johnson County,2013,7.25
+19,Iowa,IA,103,Johnson County,2014,7.25
+19,Iowa,IA,103,Johnson County,2015,7.408767123
+19,Iowa,IA,103,Johnson County,2016,8.521857923
+6,California,CA,37,Los Angeles County,2004,6.75
+6,California,CA,37,Los Angeles County,2005,6.75
+6,California,CA,37,Los Angeles County,2006,6.75
+6,California,CA,37,Los Angeles County,2007,7.5
+6,California,CA,37,Los Angeles County,2008,8
+6,California,CA,37,Los Angeles County,2009,8
+6,California,CA,37,Los Angeles County,2010,8
+6,California,CA,37,Los Angeles County,2011,8
+6,California,CA,37,Los Angeles County,2012,8
+6,California,CA,37,Los Angeles County,2013,8
+6,California,CA,37,Los Angeles County,2014,8.504109589
+6,California,CA,37,Los Angeles County,2015,9
+6,California,CA,37,Los Angeles County,2016,10.00273224
+24,Maryland,MD,1,Montgomery County,2004,5.15
+24,Maryland,MD,1,Montgomery County,2005,5.15
+24,Maryland,MD,1,Montgomery County,2006,5.15
+24,Maryland,MD,1,Montgomery County,2007,6.15
+24,Maryland,MD,1,Montgomery County,2008,6.325956284
+24,Maryland,MD,1,Montgomery County,2009,6.858767123
+24,Maryland,MD,1,Montgomery County,2010,7.25
+24,Maryland,MD,1,Montgomery County,2011,7.25
+24,Maryland,MD,1,Montgomery County,2012,7.25
+24,Maryland,MD,1,Montgomery County,2013,7.25
+24,Maryland,MD,1,Montgomery County,2014,7.539863014
+24,Maryland,MD,1,Montgomery County,2015,8.689863014
+24,Maryland,MD,1,Montgomery County,2016,9.55
+24,Maryland,MD,33,Prince George's County,2004,5.15
+24,Maryland,MD,33,Prince George's County,2005,5.15
+24,Maryland,MD,33,Prince George's County,2006,5.15
+24,Maryland,MD,33,Prince George's County,2007,6.15
+24,Maryland,MD,33,Prince George's County,2008,6.325956284
+24,Maryland,MD,33,Prince George's County,2009,6.858767123
+24,Maryland,MD,33,Prince George's County,2010,7.25
+24,Maryland,MD,33,Prince George's County,2011,7.25
+24,Maryland,MD,33,Prince George's County,2012,7.25
+24,Maryland,MD,33,Prince George's County,2013,7.25
+24,Maryland,MD,33,Prince George's County,2014,7.539863014
+24,Maryland,MD,33,Prince George's County,2015,8.689863014
+24,Maryland,MD,33,Prince George's County,2016,9.55
+35,New Mexico,NM,49,Santa Fe County,2004,5.15
+35,New Mexico,NM,49,Santa Fe County,2005,5.15
+35,New Mexico,NM,49,Santa Fe County,2006,5.15
+35,New Mexico,NM,49,Santa Fe County,2007,5.458767123
+35,New Mexico,NM,49,Santa Fe County,2008,6.521994536
+35,New Mexico,NM,49,Santa Fe County,2009,7.5
+35,New Mexico,NM,49,Santa Fe County,2010,7.5
+35,New Mexico,NM,49,Santa Fe County,2011,7.5
+35,New Mexico,NM,49,Santa Fe County,2012,7.5
+35,New Mexico,NM,49,Santa Fe County,2013,7.5
+35,New Mexico,NM,49,Santa Fe County,2014,9.664383562
+35,New Mexico,NM,49,Santa Fe County,2015,10.81090411
+35,New Mexico,NM,49,Santa Fe County,2016,10.88704918
+11,District of Columbia,DC,1,Washington,2004,6.15
+11,District of Columbia,DC,1,Washington,2005,6.6
+11,District of Columbia,DC,1,Washington,2006,7
+11,District of Columbia,DC,1,Washington,2007,7
+11,District of Columbia,DC,1,Washington,2008,7.241939891
+11,District of Columbia,DC,1,Washington,2009,7.858767123
+11,District of Columbia,DC,1,Washington,2010,8.25
+11,District of Columbia,DC,1,Washington,2011,8.25
+11,District of Columbia,DC,1,Washington,2012,8.25
+11,District of Columbia,DC,1,Washington,2013,8.25
+11,District of Columbia,DC,1,Washington,2014,8.880136986
+11,District of Columbia,DC,1,Washington,2015,10.00410959
+11,District of Columbia,DC,1,Washington,2016,10.50546448

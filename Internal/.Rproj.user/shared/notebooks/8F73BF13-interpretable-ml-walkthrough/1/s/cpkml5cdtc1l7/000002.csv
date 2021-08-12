@@ -1,0 +1,15 @@
+"0","```r
+vi_plot<- 
+  vip(mod_rf, # Machine learning model
+      train = train_data2, # Training data 
+      method=\"permute\", # permuted importance
+      nsim = 10, # number of times to impute
+      geom = \"boxplot\", # Type of plot 
+      target = \"coverage\", # outcome
+      reference_class = \"Coverage\", # what class are you predicting
+      metric = \"accuracy\",
+      pred_wrapper = predict)
+
+# Plot VIP
+vi_plot
+```"

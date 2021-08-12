@@ -1,0 +1,7 @@
+"0","```r
+# Accuracy on the Training data 
+acc_rf <- Metrics::accuracy(train_data2$coverage,predict(mod_rf))
+acc_rf
+```"
+"1","[1] 0.7853037
+"

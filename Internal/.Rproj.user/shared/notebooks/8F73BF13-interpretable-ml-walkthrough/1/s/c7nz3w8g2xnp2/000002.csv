@@ -1,0 +1,53 @@
+"0","```r
+linear_surrogate_model <- 
+  train_data2 %>% 
+  mutate(coverage_dummy = 1*(coverage == \"Coverage\")) %>% 
+  glm(coverage_dummy ~ 
+        age*wage + 
+        wage*educ +
+        mar_Married + 
+        cit_Non.citizen,
+      data=.,family = binomial(\"logit\"))
+
+# Print the regression results
+stargazer::stargazer(linear_surrogate_model,type = \"text\")
+```"
+"1","length of NULL cannot be changedlength of NULL cannot be changedlength of NULL cannot be changedlength of NULL cannot be changedlength of NULL cannot be changed
+"
+"1","
+=============================================
+                      Dependent variable:    
+                  ---------------------------
+                        coverage_dummy       
+---------------------------------------------
+age                        3.505***          
+                            (0.230)          
+                                             
+wage                        0.418*           
+                            (0.243)          
+                                             
+educ                       0.821***          
+                            (0.247)          
+                                             
+mar_Married                0.690***          
+                            (0.077)          
+                                             
+cit_Non.citizen            -1.551***         
+                            (0.148)          
+                                             
+age:wage                   -1.925***         
+                            (0.475)          
+                                             
+wage:educ                  2.345***          
+                            (0.416)          
+                                             
+Constant                   -1.988***         
+                            (0.128)          
+                                             
+---------------------------------------------
+Observations                 4,001           
+Log Likelihood            -2,230.519         
+Akaike Inf. Crit.          4,477.038         
+=============================================
+Note:             *p<0.1; **p<0.05; ***p<0.01
+"

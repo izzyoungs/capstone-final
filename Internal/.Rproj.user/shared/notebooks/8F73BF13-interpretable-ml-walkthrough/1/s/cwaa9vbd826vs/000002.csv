@@ -1,0 +1,13 @@
+"0","```r
+rcp <- 
+  recipe(coverage ~  .,train_data) %>% 
+  step_dummy(all_nominal(),-coverage) %>% #
+  step_log(wage,offset = 1) %>% # Log the skewed wage variable
+  step_range(all_numeric()) %>%  # Normalize scale
+  prep()
+
+
+# Apply the recipe to the training and test data
+train_data2 <- bake(rcp,train_data)
+test_data2 <- bake(rcp,test_data) 
+```"
