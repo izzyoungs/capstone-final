@@ -1,3 +1,0 @@
-"0","```r
-rattle::fancyRpartPlot(surrogate_tree,sub=\"\",type=1)
-```"

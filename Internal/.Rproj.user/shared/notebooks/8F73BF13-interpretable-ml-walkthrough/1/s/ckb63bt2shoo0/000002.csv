@@ -1,7 +1,0 @@
-"0","```r
-Metrics::auc(actual = 1*(test_data2$coverage==\"Coverage\"),
-             predicted = predict(linear_surrogate_model,
-                                 newdata = test_data2))
-```"
-"1","[1] 0.7827528
-"

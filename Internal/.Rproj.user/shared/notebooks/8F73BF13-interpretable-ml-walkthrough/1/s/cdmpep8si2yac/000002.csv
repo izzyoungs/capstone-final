@@ -1,8 +1,0 @@
-"0","```r
-# AUC on the Training data 
-prob_pred <- predict(mod_rf,type=\"prob\")$Coverage
-auc_rf <- Metrics::auc(train_data2$coverage==\"Coverage\",prob_pred)
-auc_rf
-```"
-"1","[1] 0.8838971
-"
